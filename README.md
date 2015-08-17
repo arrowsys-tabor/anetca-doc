@@ -1,5 +1,8 @@
+
 <div align="center">
-    <img src="pictures/lilka.png"></img>
+    <p>
+        <img src="pictures/lilka.png">
+    </p>
 </div>
 <div align="center">
     <h1>
