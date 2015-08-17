@@ -1,3 +1,4 @@
-# AMetCa - ArrowSys Network Cash
-
+<div align="center">
+ANetCa - Pokladní systém
+</div>
 
