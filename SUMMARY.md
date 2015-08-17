@@ -11,6 +11,7 @@
        * [Bitcoin](receipt/payment.bitcoin.md)
 * [Pokladna](cashreg.md)
    * [Úhrada](receipt/payment.md)
+       * Hotovost
    * [Tisk](receipt/print.md)
 * [Nastavení](settings.md)
    * [Platební terminál](settings/terminal.md)
