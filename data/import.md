@@ -1,4 +1,4 @@
-Struktura souboru .XLS (Microsoft Excel) pro načtení produktů do ANetCa.
+Struktura sloupců souboru .XLS/.XLSX (Microsoft Excel) pro nahrání produktů do ANetCa.
 
 | Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | JKPOV | Prodej. množství |
 | -- |
