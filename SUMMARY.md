@@ -9,4 +9,5 @@
 * [Hotovost](receipt/payment.cash.md)
 * [Platební karta](receipt/payment.card.md)
 * [Bitcoin](receipt/payment.bitcoin.md)
+* Pokladna
 
