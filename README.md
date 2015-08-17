@@ -1,4 +1,7 @@
 <div align="center">
+    <img src="lilka_ico.png"></img>
+</div>
+<div align="center">
     <h1>
         ANetCa - Pokladní systém
     </h1>
@@ -38,5 +41,5 @@ Vlastnosti programu:
 | Windows 8.1 | Windows 2012 |
 | Windows 10 | Windows 2012 R2 |
 
-Máte zařízení s operačním systémem Android nebo iOS? Zjistěte více o pokladní aplikaci **[LILKA](http://www.lilka.cz)**
+Máte zařízení s operačním systémem Android nebo iOS? Zjistěte více o pokladní aplikaci **[LILKA](http://www.lilka.cz)**![](lilka_ico.png)
 
