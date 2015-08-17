@@ -10,6 +10,7 @@
        * [Platební karta](receipt/payment.card.md)
        * [Bitcoin](receipt/payment.bitcoin.md)
 * [Pokladna](cashreg.md)
+   * Úhrada
 * [Nastavení](settings.md)
    * [Platební terminál](settings/terminal.md)
 * [Práce s daty](data.md)
