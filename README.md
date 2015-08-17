@@ -1,4 +1,3 @@
-<img src="pictures/lilka_ico.png"></img>
 <div align="center">
     <img src="pictures/lilka_ico.png"></img>
 </div>
