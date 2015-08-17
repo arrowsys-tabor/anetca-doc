@@ -1,0 +1,1 @@
+receipt/payment/bitcoin.md
