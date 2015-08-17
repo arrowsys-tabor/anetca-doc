@@ -12,6 +12,7 @@
 * [Pokladna](cashreg.md)
    * [Úhrada](receipt/payment.md)
        * [Hotovost](receipt/payment/cash.md)
+       * Platební karta
    * [Tisk](receipt/print.md)
 * [Nastavení](settings.md)
    * [Platební terminál](settings/terminal.md)
