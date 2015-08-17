@@ -8,4 +8,5 @@
 * [Úhrada](receipt/payment.md)
 * [Hotovost](receipt/payment.cash.md)
 * [Platební karta](receipt/payment.cash.md)
+* Bitcoin
 
