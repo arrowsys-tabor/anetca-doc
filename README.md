@@ -4,6 +4,7 @@
         <img src="pictures/lilka.png">
     </p>
 </div>
+
 <div align="center">
     <h1>
         ANetCa - Pokladní systém
