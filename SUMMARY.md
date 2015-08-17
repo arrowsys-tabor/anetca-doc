@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Evidence položek](inventory.md)
-* inventory/create.md
+* [Vytvoření položky](inventory/create.md)
 * receipt.md
 
