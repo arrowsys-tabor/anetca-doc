@@ -7,6 +7,6 @@
 * [Tisk dokladu](receipt/print.md)
 * [Úhrada](receipt/payment.md)
 * [Hotovost](receipt/payment.cash.md)
-* [Platební karta](receipt/payment.cash.md)
+* [Platební karta](receipt/payment.card.md)
 * [Bitcoin](receipt/payment.bitcoin.md)
 
