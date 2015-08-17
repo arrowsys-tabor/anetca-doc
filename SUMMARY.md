@@ -4,4 +4,5 @@
 * [Evidence položek](inventory.md)
 * [Vytvoření položky](inventory/create.md)
 * [Založení a platba účtenky](inventory/create.md)
+* Tisk dokladu
 
