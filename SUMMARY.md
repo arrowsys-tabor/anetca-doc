@@ -12,7 +12,7 @@
 * [Pokladna](cashreg.md)
 * [Nastavení](settings.md)
    * [Platební terminál](settings/terminal.md)
-* Práce s daty
-   * Export
-   * Import
+* [Práce s daty](data.md)
+   * [Export](data/export.md)
+   * [Import](data/import.md)
 
