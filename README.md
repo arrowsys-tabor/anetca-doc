@@ -1,6 +1,6 @@
-<img src="img/lilka_ico.png"></img>
+<img src="pictures/lilka_ico.png"></img>
 <div align="center">
-    <img src="img/lilka_ico.png"></img>
+    <img src="pictures/lilka_ico.png"></img>
 </div>
 <div align="center">
     <h1>
@@ -42,5 +42,5 @@ Vlastnosti programu:
 | Windows 8.1 | Windows 2012 |
 | Windows 10 | Windows 2012 R2 |
 
-Máte zařízení s operačním systémem Android nebo iOS? Zjistěte více o pokladní aplikaci **[LILKA](http://www.lilka.cz)**![](lilka_ico.png)
+Máte zařízení s operačním systémem Android nebo iOS? Zjistěte více o pokladní aplikaci **[LILKA](http://www.lilka.cz)**
 
