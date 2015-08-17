@@ -7,5 +7,5 @@
 * [Tisk dokladu](receipt/print.md)
 * [Úhrada](receipt/payment.md)
 * [Hotovost](receipt/payment.cash.md)
-* Platební karta
+* [Platební karta](receipt/payment.cash.md)
 
