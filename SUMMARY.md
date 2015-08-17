@@ -6,4 +6,5 @@
 * [Založení a platba účtenky](inventory/create.md)
 * [Tisk dokladu](receipt/print.md)
 * [Úhrada](receipt/payment.md)
+* Hotovost
 
