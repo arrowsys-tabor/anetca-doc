@@ -1,0 +1,1 @@
+receipt/payment/cash.md
