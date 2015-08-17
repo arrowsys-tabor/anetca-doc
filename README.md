@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="pictures/lilka_ico.png"></img>
+    <img src="pictures/lilka.png"></img>
 </div>
 <div align="center">
     <h1>
