@@ -13,4 +13,5 @@
 * [Nastavení](settings.md)
    * [Platební terminál](settings/terminal.md)
 * Práce s daty
+   * Export
 
