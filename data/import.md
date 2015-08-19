@@ -1,4 +1,9 @@
-Struktura sloupců souboru .XLS/.XLSX (Microsoft Excel) pro nahrání produktů do ANetCa.
+
+## Struktura sloupců souboru .XLS (Microsoft Excel 97-2003) pro nahrání produktů do ANetCa.
+
+
+
+**.XLSX formát není podporovaný**
 
 | Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | JKPOV | Prodej. množství |
 | -- |
