@@ -28,4 +28,4 @@ Datové typy
 
 decimal - číslo v závorce za *decimal* definuje desetinná čísla, podporované formáty: 2; 2.00; 2,00
 
-![Import produktů](import.png)
+![Import produktů](../img/import.png)
