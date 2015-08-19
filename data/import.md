@@ -22,7 +22,7 @@
 * JKPOV - Číslo ceníku
 * Prodej. množství - počet na účtenku
 
-**Zvýrazněná pole musejí být vyplněna, ostatní mohou být prázdná.**
+**Zvýrazněné sloupce musejí být naplněny, ostatní mohou být prázdná.**
 
 Datové typy
 
