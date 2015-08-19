@@ -16,11 +16,11 @@
 * ID skupiny - vytvoří novou skupinu importovaných produktů. Pokud v ANetCa již zadané ID existuje, přiřadí se produkt k vybrané skupině.
 * **DPH %** - sazba DPH
 * **Cena** - prodejní cena produktu, bude přiřazena k výchozí cenové kategorii v ANetCa
-* **Množství** - Jednicové množství
+* Množství - Jednicové množství, výchozí 1
 * **Jednotka**
 * ČK - Čárový kód
 * JKPOV - Číslo ceníku
-* Prodej. množství - počet na účtenku
+* Prodej. množství - počet na účtenku, výchozí 1
 
 **Zvýrazněné sloupce musejí být naplněny, ostatní mohou být prázdná.**
 
