@@ -7,7 +7,7 @@
 
 | Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | JKPOV | Prodej. množství |
 | -- |
-| text | text(50) | int | decimal(2) | decimal(2) | decimal(2)/text| text | text | text | decimal(4) |
+| text | text(50) | int | decimal(2) | decimal(2) | decimal(2)| text | text | text | decimal(4) |
 | Párek v rohlíku | Pár. v r. | 1 | 15,00 | 35 | 1 | Ks| 0123| 100021 | 1 |
 | Párek | parek |  | 15,00 | 35 | 1 | Ks| | | | |
 
