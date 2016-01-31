@@ -12,7 +12,7 @@
 | Párek | parek |  | 15,00 | 35 | 1 | Ks| | | | |
 
 * **Název** - název produktu
-* **Zkratka** - text na účtenku maximum je 50 znaku
+* **Zkratka** - text na účtenku, maximum je 50 znaku
 * ID skupiny - vytvoří novou skupinu importovaných produktů. Pokud v ANetCa již zadané ID existuje, přiřadí se produkt k vybrané skupině.
 * **DPH %** - sazba DPH. Pro přenesenou daň vyplňte příslušný kód např. P-04
 * **Cena** - prodejní cena produktu, bude přiřazena k výchozí cenové kategorii v ANetCa
