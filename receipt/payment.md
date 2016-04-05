@@ -1,1 +1,1 @@
-reeipt/payment.md
+-	Není dostupné v Demo verzi
