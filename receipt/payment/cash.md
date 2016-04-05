@@ -1,1 +1,1 @@
-receipt/payment/cash.md
+-	Není dostupné v Demo verzi
