@@ -1,1 +1,1 @@
-receipt/payment/bitcoin.md
+-	Není dostupné v Demo verzi
