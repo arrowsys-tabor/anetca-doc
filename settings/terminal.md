@@ -1,1 +1,1 @@
-settings/terminal.md
+-	Není dostupné v Demo verzi
