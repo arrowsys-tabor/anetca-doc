@@ -6,7 +6,6 @@
    * [Přehledy](prehledy.md)
 * [Evidence položek](inventory.md)
    * [Vytvoření položky](inventory/create.md)
-* [Pokladna](cashreg.md)
 * [Nastavení](settings.md)
    * [Platební terminál](settings/terminal.md)
 * [Práce s daty](data.md)
