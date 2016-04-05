@@ -1,1 +1,1 @@
-inventory/create.md
+-	Není dostupné v Demo verzi
