@@ -1,0 +1,2 @@
+# Pokladna - KASA
+
