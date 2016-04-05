@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [Prodej](prodej.md)
    * [Pokladna - KASA](pokladna.md)
+   * Přehledy
 * [Evidence položek](inventory.md)
    * [Vytvoření položky](inventory/create.md)
 * [Pokladna](cashreg.md)
