@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Úvod](README.md)
    * [Prodej](prodej.md)
    * [Pokladna - KASA](pokladna.md)
    * [Přehledy](prehledy.md)
