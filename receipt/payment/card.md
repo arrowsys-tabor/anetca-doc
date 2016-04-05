@@ -1,1 +1,1 @@
-receipt/payment/card.md
+-	Není dostupné v Demo verzi
