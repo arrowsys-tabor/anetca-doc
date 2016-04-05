@@ -1,1 +1,1 @@
-receipt.md
+-	Není dostupné v Demo verzi
