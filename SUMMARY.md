@@ -6,7 +6,7 @@
    * [Přehledy](prehledy.md)
 * [Nastavení](settings.md)
    * [Platební terminál](settings/terminal.md)
-   * Účty
+   * [Účty](ucty.md)
 * [Práce s daty](data.md)
    * [Export dat](data/export.md)
    * [Import](data/import.md)
