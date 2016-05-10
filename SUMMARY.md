@@ -10,4 +10,5 @@
 * [Práce s daty](data.md)
    * [Export dat](data/export.md)
    * [Import](data/import.md)
+* Zboží
 
