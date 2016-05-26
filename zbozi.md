@@ -15,7 +15,11 @@ Po vyplnění údajů jednoduše zmáčkněte: ![](tlacitko-pridat.png)
 
 Pro okamžité zapsání zboží z tabulky na právě označenou účtenku stiskněte: ![](tlacitko-pridat-polozku.png)
  
- (popis jednotlivých polí níže)
+
+
+##  Popis jednotlivých polí
+
+
  
 **Název**
 
