@@ -6,6 +6,7 @@ Zároveň v této sekci můžete vybráním zboží ze seznamu a stisknutím tla
 
 ![](anetca-zbozi-uvod.png)
 
+
 Pokud chcete zapsat nové zboží, klikněte na tlačítko: ![](tlacitko-novy.png)
 
 
