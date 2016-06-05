@@ -8,7 +8,7 @@
 * [Nastavení](settings.md)
    * [Platební terminál](settings/terminal.md)
    * [Účty](ucty.md)
-   * Nastavení loga
+   * [Nastavení loga](logo.md)
 * [Práce s daty](data.md)
    * [Export dat](data/export.md)
    * [Import](data/import.md)
