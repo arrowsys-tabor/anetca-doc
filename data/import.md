@@ -24,6 +24,9 @@
 
 **Zvýrazněné sloupce musejí být naplněny, ostatní mohou být prázdné.**
 
+DPH % - pro přenesenou daň vyplňte P0
+JKPOV - Pokud již JKPOV existuje, cena se aktualizuje
+
 Datové typy
 
 decimal - číslo v závorce za *decimal* definuje desetinná místa, podporované formáty: 2; 2.00; 2,00
