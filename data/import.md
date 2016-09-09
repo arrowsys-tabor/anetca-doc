@@ -26,7 +26,8 @@
 **Zvýrazněné sloupce musejí být naplněny, ostatní mohou být prázdné.**
 
 DPH % - pro přenesenou daň vyplňte P0
-JKPOV - Pokud již JKPOV existuje, cena se aktualizuje
+
+Kód zboží - Pokud v pokladně existuje položka s kódem zboží importované položky, aktualizuje se cena dané položky
 
 Datové typy
 
