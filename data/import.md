@@ -5,11 +5,11 @@
 
 **.XLSX formát není podporovaný**
 
-| Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | Kód zboží | Prodej. množství | Kuchyně
+| Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | Kód zboží | Prodej. množství | Kuchyně | PLU kód
 | -- |
-| text | text(50) | int | decimal(2) | decimal(2) | decimal(2)| text | text | text | decimal(4) | bit |
-| Párek v rohlíku | Pár. v r. | 1 | 15,00 | 35 | 1 | Ks| 0123| 100021 | 1 | 1 |
-| Párek | parek |  | 15,00 | 35 | 1 | Ks| | | | | |
+| text | text(50) | int | decimal(2) | decimal(2) | decimal(2)| text | text | text | decimal(4) | bit | text |
+| Párek v rohlíku | Pár. v r. | 1 | 15,00 | 35 | 1 | Ks| 0123| 100021 | 1 | 1 | 111 |
+| Párek | parek |  | 15,00 | 35 | 1 | Ks| | | | | | |
 
 * **Název** - název produktu
 * **Zkratka** - text na účtenku, maximum je 50 znaku
@@ -22,6 +22,7 @@
 * Kód zboží - Číslo ceníku
 * Prodej. množství - počet na účtenku, výchozí 1
 * **Kuchyně** - 1 - položka patří do kuchyně
+* PLU - kód pro vyhledávání
 
 **Zvýrazněné sloupce musejí být naplněny, ostatní mohou být prázdné.**
 
