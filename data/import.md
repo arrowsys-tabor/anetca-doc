@@ -5,7 +5,7 @@
 
 **.XLSX formát není podporovaný**
 
-| Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | Kód zboží | Prodej. množství | Kuchyně | PLU kód
+| Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | Kód zboží | Prodej. množství | Kuchyně | PLU kód |
 | -- |
 | text | text(50) | int | decimal(2) | decimal(2) | decimal(2)| text | text | text | decimal(4) | bit | text |
 | Párek v rohlíku | Pár. v r. | 1 | 15,00 | 35 | 1 | Ks| 0123| 100021 | 1 | 1 | 111 |
