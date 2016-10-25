@@ -1,6 +1,7 @@
 # Summary
 
 * [Úvod](README.md)
+   * [Aktivování licence](licence.md)
    * [Prodej](prodej.md)
    * [Pokladna - KASA](pokladna.md)
    * [Přehledy](prehledy.md)
