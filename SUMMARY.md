@@ -11,6 +11,7 @@
    * [Platební terminál](settings/terminal.md)
    * [Účty](ucty.md)
    * [Nastavení loga](logo.md)
+* [Věrnostní karty](loyaltycards.md)
 * [Práce s daty](data.md)
    * [Export dat](data/export.md)
    * [Import](data/import.md)
