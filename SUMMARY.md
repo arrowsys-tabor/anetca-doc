@@ -2,6 +2,7 @@
 
 * [Úvod](README.md)
    * [Aktivování licence](licence.md)
+   * [Nastavení EET](companyEET.md)
    * [Prodej](prodej.md)
    * [Pokladna - KASA](pokladna.md)
    * [Přehledy](prehledy.md)
