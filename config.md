@@ -16,7 +16,7 @@ Kompletní uživatelské nastavení a konfigurace obsahují tyto soubory:
 2. Otevřeme složky s konfiguračními soubory (C:\arrowsys\anetca) a úložiště externí jednotky.
 3. Kliknutím na konfigurační soubor a následným "přetažením" na úložiště externí jednotky se soubor překopíruje.
 
-Pro kompletní zálohu dat je zapotřebí takto překopírovat **všechny tři konfigurační soubory**.
+Pro kompletní zálohu dat je zapotřebí takto překopírovat soubory: **anetcadbloc.mdf**, **anetcadbloc_log.ldf**, **data.config**.
 
 ![](img/zaloha.png)
 
