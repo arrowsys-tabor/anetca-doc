@@ -19,8 +19,7 @@ Před vyplněním údajů odesílaných do EET je zapotřebí získat Digitáln�
    - **EET Pokladna** (libovolné, může obshovat max 20 alfanumerických znaky např. POKLADNA1)
    - V případě Komisního (Zástupného) prodeje je nutné vyplnit **Pověřující DIČ**.
    - Pokud má provozovna od Finančního úřadu schválenou možnost evidence ve zjednodušeném režimu, zvolte možnost **Zjednodušený režim**.
-   - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
-   - Po vyplnění požadovaných údajů, aktivujte odesílání do EET zvolením **EET Odesílání**. 
+   - Po vyplnění požadovaných údajů aktivujte odesílání do EET zaškrtnutím **EET**. 
    - Pro kontrolu nastavení a správnosti odesílaných dat můžete zvolit možnost **Ověřovací režim**. Při pořízení účtenky v OR bude     
      provedena kontrola odesílaných údajů. Odesílaná účtenka nebude evidována, nýbdrž zkontrolována. Při správném nastavení by měl server 
      EET vrátit odpověď "*0 Datovou zpravu evidovane trzby v overovacim modu se podarilo zpracovat*"
