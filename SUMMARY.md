@@ -13,4 +13,5 @@
 * [Práce s daty](data.md)
    * [Export dat](data/export.md)
    * [Import](data/import.md)
+   * [Zálohování dat](config.md)
 
