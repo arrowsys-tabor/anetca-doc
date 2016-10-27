@@ -7,7 +7,7 @@ Před vyplněním údajů odesílaných do EET je zapotřebí získat Digitáln�
 1. Přesuneme se do **NASTAVENÍ > Konfigurace**, kde je potřeba vyplnit:
    
    - **Certifikát** - Do této kolonky překopírujete vám přidělený digitální certifikát
-   - **heslo** - Heslo, které bylo zadáno při vytvoření certifikátu na [Webové aplikaci EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
+   - **Heslo** - Heslo, které bylo zadáno při vytvoření certifikátu na [Webové aplikaci EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
    - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
    
 ![](img/companyEET1.png)
