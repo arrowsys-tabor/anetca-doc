@@ -10,13 +10,13 @@ Před vyplněním údajů odesílaných do EET je zapotřebí získat Digitáln�
    - **Heslo** - Heslo, které bylo zadáno při vytvoření certifikátu na [Webové aplikaci EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
    - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
    
-![](img/companyEET1.png)
+   ![](img/companyEET1.png)
    
 2. Následně je zapotřebí v **NASTAVENÍ > Firma** vyplnit:
 
    - **DIČ** - musí obsahovat předponu CZ, napři CZ1212121218
    - **EET Provozovna** (většinou 123) maximálně 999999
-   - **EET Pokladna** (libovolné, může obshovat max 20 alfanumerických znaky např. POKLADNA1)
+   - **EET Pokladna** (libovolné, může obsahovat max 20 alfanumerických znaků např. POKLADNA1)
    - V případě Komisního (Zástupného) prodeje je nutné vyplnit **Pověřující DIČ**.
    - Pokud má provozovna od Finančního úřadu schválenou možnost evidence ve zjednodušeném režimu, zvolte možnost **Zjednodušený režim**.
    - Po vyplnění požadovaných údajů aktivujte odesílání do EET zaškrtnutím **EET**. 
