@@ -25,4 +25,4 @@ Před vyplněním údajů odesílaných do EET je zapotřebí získat Digitáln�
      EET vrátit odpověď "*0 Datovou zpravu evidovane trzby v overovacim modu se podarilo zpracovat*"
    - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
 
-![](img/companyEET2.png)
+   ![](img/companyEET2.png)
