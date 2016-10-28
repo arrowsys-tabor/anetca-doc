@@ -23,6 +23,6 @@
     
        ![](img/printer3.png)
 
-### Připojení USB tiskárny
+### Star Micronics
 
 Pokud má tisk na tiskárnách Star Micronics špatný formát, pravědpodobně tiskárna podporuje pouze StarPRINT tiskový režim, aktivujte jej v **NASTAVENÍ > Zařízení**, kde je potřeba povolit StarPRINT mód.
