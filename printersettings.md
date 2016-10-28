@@ -9,5 +9,8 @@ Nastavení probíhá v **NASTAVENÍ > Účtenka**. Vyplňte kolonku pouze čísl
 Poznámku je možné vložit buď do záhlaví nebo zápatí účtenky v **NASTAVENÍ > Účtenka*.
 
 ![](img/comment.png)
+
 ![](img/receiptcomment.png)
+
+*Účtenka*
 
