@@ -1,4 +1,4 @@
-# Nastavení tisku
+# Nastavení účtenky
 
 Nastavení účtenky probíhá v **NASTAVENÍ > Účtenka**. Veškeré změny je potřeba vždy uložit kliknutím na tlačítko **ULOŽIT**.
 
