@@ -12,5 +12,5 @@ Poznámku je možné vložit buď do záhlaví nebo zápatí účtenky v **NASTA
 
 ![](img/receiptcomment.png)
 
-*Účtenka*
+*obrázek: Účtenka*
 
