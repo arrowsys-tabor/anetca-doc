@@ -2,9 +2,9 @@
 
 - Nejprve je potřeba spárovat tiskárnu se zařízením, na kterém je nainstalován program ANetCa:
 
-    i. Přečtěte si uživatelský manuál tiskárny
-    ii. Tiskárnu zapněte
-    iii. V zařízení s programem ANetCa otevřete **Nastavení Bluetooth** (*Na hlavním panelu Windows přejděte do menu "**Centrum akcí**", kde        pravým tlačítkem myši přidržte dlaždici Bluetooth a zvolte "přejít do nastavení".*)
+    1. Přečtěte si uživatelský manuál tiskárny
+    2. Tiskárnu zapněte
+    3. V zařízení s programem ANetCa otevřete **Nastavení Bluetooth** (*Na hlavním panelu Windows přejděte do menu "**Centrum akcí**", kde        pravým tlačítkem myši přidržte dlaždici Bluetooth a zvolte "přejít do nastavení".*)
     
        ![](img/bluetoothprinter1.png)
     
