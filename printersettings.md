@@ -24,5 +24,4 @@ Poznámku je možné vložit buď do záhlaví nebo zápatí účtenky.
 
 ### Šířka účtenky
 
-Šířku účtenky nastavíte v **NASTAVENÍ > Prostředí**. Zde vyberete 48 nebo 70 milimetrovou šířku. 
-
+Šířku účtenky nastavíte v **NASTAVENÍ > Prostředí**. Zde vyberete 48 nebo 70 milimetrů.
