@@ -12,4 +12,4 @@
 
    ![](img/support2.png)
 
-   *obrázek: Zobrazené okno po potvrzení prohlášení* 
+   *obrázek: Zobrazené okno po potvrzení prohlášení, kde se nachází klíčové ID a Heslo* 
