@@ -4,7 +4,7 @@ Nastavení účtenky probíhá v **NASTAVENÍ > Účtenka**. Veškeré změny je
 
 ### Číselná řada účtenky
 
-Vyplňte kolonku pouze čísly a hvezdičkami. Například při zadání této číselné řady: 2016** **bude první vytvořená účtenka nést číslo 20160001, druhá pak 20160002 a například stá účtenka se vytiskne pod číslem 20160100.
+Vyplňte kolonku pouze čísly a hvezdičkami. Například při zadání této číselné řady: 2016** f**bude první vytvořená účtenka nést číslo 20160001, druhá pak 20160002 a například stá účtenka se vytiskne pod číslem 20160100.
 
 ### Odsazení
 
