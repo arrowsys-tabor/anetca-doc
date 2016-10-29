@@ -8,6 +8,7 @@
    * [Přehledy](prehledy.md)
    * [Tiskárna](printer.md)
 * [Zboží](zbozi.md)
+* [Stoly](tables.md)
 * [Nastavení](settings.md)
    * [Platební terminál](settings/terminal.md)
    * [Účty](ucty.md)
