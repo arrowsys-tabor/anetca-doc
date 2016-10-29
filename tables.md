@@ -19,9 +19,11 @@ Stoly, které již mají vytvořenou účtenku, jsou vybarveny zeleně - po zapl
 
 ![](img/tables1.png)
 
+*obrázek: Po kliknutí na stůl č.1 se vytvoří účtenka pro první stůl*
+
 ![](img/tables2.png)
 
-*obrázek: Po kliknutí na stůl č.1 se vytvoří účtenka pro první stůl*
+*obrázek: Vytvořená účtenka na hlavní účtovací obrazovce*
 
 ![](img/tables3.png)
 
