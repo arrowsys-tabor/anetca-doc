@@ -5,7 +5,11 @@
 3. Následně se vykreslí prohlášení, kde jsou vypsány podmínky práce - pokračujte stisknutím tlačíka **Přijmout**
 
    ![](img/support1.png)
+   
+   *obrázek: Podmínky práce* 
 
 4. Nyní kontaktujte zákaznickou podporu Arrowsys na čísle **381 251 685** a sdělte váš problém, popřípadě ID a heslo vašeho TeamVieweru
 
    ![](img/support2.png)
+
+   *obrázek: Zobrazené okno po potvrzení prohlášení* 
