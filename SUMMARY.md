@@ -10,7 +10,6 @@
 * [Zboží](zbozi.md)
 * [Stoly](tables.md)
 * Nastavení
-   * [Platební terminál](settings/terminal.md)
    * [Účty](ucty.md)
    * [Nastavení účtenky](receiptsettings.md)
    * [Nastavení loga](logo.md)
