@@ -9,13 +9,13 @@
    * [Tiskárna](printer.md)
 * [Zboží](zbozi.md)
 * [Stoly](tables.md)
-* [Nastavení](settings.md)
+* Nastavení
    * [Platební terminál](settings/terminal.md)
    * [Účty](ucty.md)
    * [Nastavení účtenky](receiptsettings.md)
    * [Nastavení loga](logo.md)
 * [Věrnostní karty](loyaltycards.md)
-* [Práce s daty](data.md)
+* Práce s daty
    * [Export dat](data/export.md)
    * [Import](data/import.md)
    * [Zálohování dat](config.md)
