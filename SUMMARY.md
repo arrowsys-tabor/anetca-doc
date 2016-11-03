@@ -6,9 +6,9 @@
    
 * Obsluha programu
    * [Prodej](prodej.md)
+   * [Zboží](zbozi.md)
    * [Pokladna - KASA](pokladna.md)
    * [Přehledy](prehledy.md)
-   * [Zboží](zbozi.md)
    * [Stoly](tables.md)
    * [Věrnostní karty](loyaltycards.md)
    
