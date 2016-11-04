@@ -10,7 +10,7 @@ Vyplňte kolonku pouze čísly a hvezdičkami. Například při zadání této �
 
 Odsazení záhlaví odsazuje text účtenky od horní hranice účtenky tak, že vytvoří prázdnou řádku (vyplněné číslo udává počet řádků). Odsazení zápatí pak odsazuje od dolní hranice.
 
-Odsazení zleva nebo zprava udává o kolik milimetrů bude text na účtence odsazen od levého/pravého okraje účtenky.
+Odsazení zleva udává o kolik milimetrů bude text na účtence odsazen od levého okraje účtenky.
 
 ### Poznámka na účtence
 
@@ -24,4 +24,4 @@ Poznámku je možné vložit buď do záhlaví nebo zápatí účtenky.
 
 ### Šířka účtenky
 
-Šířku účtenky nastavíte v **NASTAVENÍ > Prostředí**. Zde vyberete 48 nebo 70 milimetrů.
+Šířku účtenky nastavíte v **NASTAVENÍ > Prostředí**. Zde vyberete 58 nebo 70 milimetrů.
