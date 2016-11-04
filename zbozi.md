@@ -37,13 +37,9 @@ Množství udává počet jednotek. Zvolíte příslušnou jednotku z dodacího 
 
 Tento údaj slouží k definici často používaných hodnot prodejního množství vztažených k základní měrné prodávané položky. Např. u piva může nabývat hodnoty 0,33/0,4/0,5/0,8 ze základní jednotky 1 litr.
 
-**Sleva**
-
-Slevu lze nastavit buď procentem, nebo přímo určitou částkou podle toho, jestli potvrdíte pole "Částka" či "Procento". Sleva samozřejmě nemusí být vyplněna.
-
 **DPH**
 
-Zde vyberete DPH dané prodávané položce. DPH nastavíte v NASTAVENÍ / DPH a skupiny.
+Zde vyberete DPH k dané prodávané položce. DPH nastavíte v NASTAVENÍ / DPH a skupiny.
 
 Skupina
 
