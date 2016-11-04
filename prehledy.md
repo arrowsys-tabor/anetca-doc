@@ -1,6 +1,6 @@
 # Přehledy
 
-Přehledy lze tisknout úzké nebo široké, dle uspořádání tiskáren. Nejužší tisk se řešen pro Bluetooth tiskárnu cca 60 zn. na řádku.
+Přehledy lze tisknout úzké nebo široké, dle uspořádání tiskáren. Nejužší tisk se řešen pro Bluetooth tiskárnu 58 zn. na řádku.
 
 ![Přehledy](img/prehled.png)
 
