@@ -16,7 +16,7 @@
 * **ID skupiny** - vytvoří novou skupinu importovaných produktů. Pokud v ANetCa již zadané ID existuje, přiřadí se produkt k vybrané skupině.
 * **DPH %** - sazba DPH. Pro přenesenou daň vyplňte příslušný kód např. P-04
 * **Cena** - prodejní cena produktu, bude přiřazena k výchozí cenové kategorii v ANetCa
-* Množství - Jednicové množství, výchozí 1
+* Množství - Jednotkové množství, výchozí 1
 * **Jednotka**
 * ČK - Čárový kód
 * Kód zboží - Číslo ceníku
