@@ -16,11 +16,11 @@ Sekce 1 Založení účtenky (vpravo nahoře)
 
 
 Sekce 2 Výběr zboží (vlevo dole)
-  1.	po spuštění programu se zobrazí všechna tlačítka za všechny skupinu
+  1.	po spuštění programu se zobrazí všechny založené položky
   2.	pás skupin je nekonečný – posouvá se stiskem šipky v kolečku vpravo nebo vlevo.
-  3.	stiskem na skupinu lze vybrat je danou skupinu (viz obrázek dále)  
-  4.	stiskem na tlačítko položky položku vyberem a doplní se základní definované množství
-  5.	pás ppoložek jenkonečný – posouvá se stiskem šipky v kolečku vpravo nebo vlevo pod tlačítky položek
+  3.	stiskem na skupinu lze vyfiltrovat položky v dané skupině (viz obrázek dále)  
+  4.	stiskem na tlačítko "POLOŽKY" položku vybereme a doplní se základní definované množství
+  5.	pás položek je nekonečný – posouvá se stiskem šipky v kolečku vpravo nebo vlevo pod tlačítky položek
 ![Účtenka](img/uctenka.png)
 
 
@@ -35,7 +35,7 @@ Sekce 4  Účtenka a tisk (vpravo dole)
   3.	zaškneme-li čtverec před položku v účtence, lze ji pak stiskem červeného křížku v kolečku smazat
   4.	v řádkách účtenky je možno přepsat text (vhodné pro řemeslníky nebo detailnější označení zboží)  
   5.	vpravo dole je průběžný součet účtenky
-  6.	po stisku tlačítka tisk se objeví dialogové okno (viz  dále)
+  6.	po stisku tlačítka "TISK" se objeví dialogové okno (viz  dále)
   7.	zde je možno vybrat způsob platby v Kč, cizích měnách, bitcoinem, Bitcoinpay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.
 
 ![Platba](img/platba2.png)
