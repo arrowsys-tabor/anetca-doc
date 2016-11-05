@@ -23,5 +23,5 @@
    * [Vzdálená pomoc](support.md)
    * [Aktualizace](update.md)
 * [Verze a změny](version.md)
-   * Verze
+   * [Verze](verze.md)
 
