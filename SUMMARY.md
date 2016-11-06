@@ -18,7 +18,7 @@
 * Práce s daty
    * [Export dat](data/export.md)
    * [Import](data/import.md)
-   * [Zálohování dat](config.md)
+   * [Zálohování dat](data/config.md)
 * Podpora
    * [Vzdálená pomoc](support.md)
    * [Aktualizace](update.md)
