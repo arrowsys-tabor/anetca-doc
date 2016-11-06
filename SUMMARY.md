@@ -20,8 +20,8 @@
    * [Import](data/import/import.md)
    * [Zálohování dat](data/config/config.md)
 * Podpora
-   * [Vzdálená pomoc](support.md)
-   * [Aktualizace](update.md)
+   * [Vzdálená pomoc](support/assistance/assistance.md)
+   * [Aktualizace](support/update/update.md)
 * Verze a změny
    * [Verze](versions.md)
 
