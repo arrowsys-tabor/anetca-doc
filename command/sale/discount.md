@@ -13,10 +13,8 @@
 ### Použití slevy
 
 1. Na hlavní účtovací obrazovce **PRODEJ** klikněte na položku slevy
-
-   ![](img/discount2.png)
-
 2. Do kolonky **Počet** (červeně orámovaná kolonka na obrázku) napište částku, ze které chcete zlevnit
+   ![](img/discount2.png)
 3. Slevu přidejte na danou účtenku
 
    ![](img/discount3.png)
