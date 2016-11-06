@@ -11,10 +11,10 @@
    * [Stoly](command/tables/tables.md)
    * [Věrnostní karty](command/loyaltyCards/loyaltyCards.md)
 * Nastavení
-   * [Účty](ucty.md)
-   * [Nastavení účtenky](receiptsettings.md)
-   * [Nastavení loga](logo.md)
-   * [Tiskárna](printer.md)
+   * [Účty](settings/accounts/accounts.md)
+   * [Nastavení účtenky](settings/receiptSettings/receiptSettings.md)
+   * [Nastavení loga](settings/logo/logo.md)
+   * [Tiskárna](settings/printer/printer.md)
 * Práce s daty
    * [Export dat](data/export.md)
    * [Import](data/import.md)
