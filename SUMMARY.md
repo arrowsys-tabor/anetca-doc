@@ -1,8 +1,8 @@
 # Summary
 
 * [Úvod](README.md)
-   * [Aktivování licence](licence.md)
-   * [Nastavení EET](companyEET.md)
+   * [Aktivování licence](settings/license/license.md)
+   * [Nastavení EET](settings/companyEET/companyEET.md)
 * Obsluha programu
    * [Prodej](command/sale/sale.md)
    * [Zboží](command/items/items.md)
