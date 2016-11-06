@@ -1,6 +1,6 @@
 # Sleva
 
-# Vytvoření slevy
+### Vytvoření slevy
 
 1. V záložce **ZBOŽÍ** vyplňte vlastnosti slevové položky dle následujícího obrázku:
 
@@ -10,7 +10,7 @@
 3. Nyní do této kolonky napište znaménko mínus (*-*) a velikost slevy / 100. Např. pro 25% slevu bude hodnota -0,25. Potvrďte stiskem        zeleného tlačítka
 4. Vytvořte položku stisknutím tlačítka **Přidat**
 
-# Použití slevy
+### Použití slevy
 
 1. Na hlavní účtovací obrazovce **PRODEJ** klikněte na položku slevy
 
