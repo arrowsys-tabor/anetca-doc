@@ -5,4 +5,4 @@ Pokladna – KASA
 
 2.	Tlačítko „Uzavřít kasu“ převede aktuální tržby do archivu a vytvoří nový počáteční stav pro nového prodávajícího k převzetí zůstatku pokladny.
 
-![Pokladna](img/kasa.png)
+![Pokladna](img/cashRegister.png)
