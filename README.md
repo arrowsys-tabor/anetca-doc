@@ -1,7 +1,7 @@
 
 <div align="center">
     <p>
-        <img src="lilka.png">
+        <img src="img/anetca.png">
     </p>
 </div>
 
