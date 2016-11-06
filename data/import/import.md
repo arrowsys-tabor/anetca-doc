@@ -34,4 +34,4 @@ Datové typy
 
 decimal - číslo v závorce za *decimal* definuje desetinná místa, podporované formáty: 2; 2.00; 2,00
 
-![Import produktů](../img/import.png)
+![Import produktů](img/import.png)
