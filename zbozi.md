@@ -4,16 +4,16 @@ Záložka zboží slouží k zadání položek pro prodej.
 
 Zároveň v této sekci můžete vybráním zboží ze seznamu a stisknutím tlačíka "Přidat na účtenku" přidávat položky přímo na aktuální účtenku. Položka se na účtenku přidá ve výchozím stavu a není zde možné zadávat množství.
 
-![](anetca-zbozi-uvod.png)
+![](img/anetca-zbozi-uvod.png)
 
 
-Pokud chcete zapsat nové zboží, klikněte na tlačítko: ![](tlacitko-novy.png)
+Pokud chcete zapsat nové zboží, klikněte na tlačítko **Nový**.
 
 
-Po vyplnění údajů jednoduše zmáčkněte: ![](tlacitko-pridat.png)
+Po vyplnění údajů zmáčkněte **PŘIDAT**.
 
 
-Pro okamžité zapsání zboží z tabulky na právě označenou účtenku stiskněte: ![](tlacitko-pridat-polozku.png)
+Pro okamžité zapsání zboží z tabulky na právě označenou účtenku stiskněte **PŘIDAT NA ÚČTENKU**.
  
 
 
