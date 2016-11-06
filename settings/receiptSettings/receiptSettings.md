@@ -18,7 +18,7 @@ Poznámku je možné vložit buď do záhlaví nebo zápatí účtenky.
 
 ![](img/comment.png)
 
-![](img/receiptcomment.png)
+![](img/receiptComment.png)
 
 *obrázek: Účtenka*
 
