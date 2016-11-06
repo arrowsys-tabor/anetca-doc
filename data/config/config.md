@@ -18,5 +18,5 @@ Kompletní uživatelské nastavení a konfigurace obsahují tyto soubory:
 
 Pro kompletní zálohu dat je zapotřebí takto překopírovat soubory: **anetcadbloc.mdf**, **anetcadbloc_log.ldf**, **data.config**.
 
-![](img/zaloha.png)
+![](img/config.png)
 
