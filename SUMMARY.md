@@ -16,9 +16,9 @@
    * [Nastavení loga](settings/logo/logo.md)
    * [Tiskárna](settings/printer/printer.md)
 * Práce s daty
-   * [Export dat](data/export.md)
-   * [Import](data/import.md)
-   * [Zálohování dat](data/config.md)
+   * [Export dat](data/export/export.md)
+   * [Import](data/import/import.md)
+   * [Zálohování dat](data/config/config.md)
 * Podpora
    * [Vzdálená pomoc](support.md)
    * [Aktualizace](update.md)
