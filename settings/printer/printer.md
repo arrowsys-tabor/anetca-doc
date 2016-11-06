@@ -19,7 +19,7 @@
     3. Vyplňte přesný název tiskárny a párovací klíč
     4. Potvrďte stisknutím tlačítka **ULOŽIT** a otestujte připojení stisknutím tlačítka **TEST**, po kterém se zobrazí hláška, zda bylo          připojení úspěšné
     
-    *Před tiskem je zapotřebí nastavit v Nastavení > Prostředí šířku účtenky na 58mm (úzké sestavy)*
+    *Před tiskem je zapotřebí v "Nastavení > Prostředí" nastavit šířku účtenky na 58mm (úzké sestavy)*
     
        ![](img/bluetoothPrinter3.png)
 
