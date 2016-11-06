@@ -5,6 +5,7 @@
    * [Nastavení EET](settings/companyEET/companyEET.md)
 * Obsluha programu
    * [Prodej](command/sale/sale.md)
+      * [Sleva](command/sale/discount.md)
    * [Zboží](command/items/items.md)
    * [Pokladna - KASA](command/cashRegister/cashRegister.md)
    * [Přehledy](command/reports/reports.md)
