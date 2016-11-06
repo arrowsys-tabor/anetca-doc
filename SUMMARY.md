@@ -4,12 +4,12 @@
    * [Aktivování licence](licence.md)
    * [Nastavení EET](companyEET.md)
 * Obsluha programu
-   * [Prodej](command/sale.md)
-   * [Zboží](command/items.md)
-   * [Pokladna - KASA](command/cashRegister.md)
-   * [Přehledy](command/reports.md)
-   * [Stoly](command/tables.md)
-   * [Věrnostní karty](command/loyaltycards.md)
+   * [Prodej](command/sale/sale.md)
+   * [Zboží](command/items/items.md)
+   * [Pokladna - KASA](command/cashRegister/cashRegister.md)
+   * [Přehledy](command/reports/reports.md)
+   * [Stoly](command/tables/tables.md)
+   * [Věrnostní karty](command/loyaltyCards/loyaltyCards.md)
 * Nastavení
    * [Účty](ucty.md)
    * [Nastavení účtenky](receiptsettings.md)
