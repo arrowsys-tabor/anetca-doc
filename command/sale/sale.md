@@ -2,7 +2,7 @@
 
 Níže uvedený obrázek ilustruje hlavní účtovací obrazovku systému ANetCa.
 
-![Prodej](img/prodej.png)
+![Prodej](img/sale.png)
 
 
 Obrazovka je členěna na základní 4 sekce –
@@ -21,7 +21,7 @@ Sekce 2 Výběr zboží (vlevo dole)
   3.	stiskem na skupinu lze vyfiltrovat položky v dané skupině (viz obrázek dále)  
   4.	stiskem na tlačítko "POLOŽKY" položku vybereme a doplní se základní definované množství
   5.	pás položek je nekonečný – posouvá se stiskem šipky v kolečku vpravo nebo vlevo pod tlačítky položek
-![Účtenka](img/uctenka.png)
+![Účtenka](img/receipt.png)
 
 
   6.	zboží lze vybrat rovněž zkratkou nebo čtečkou čárového kódu
@@ -38,4 +38,4 @@ Sekce 4  Účtenka a tisk (vpravo dole)
   6.	po stisku tlačítka "TISK" se objeví dialogové okno (viz  dále)
   7.	zde je možno vybrat způsob platby v Kč, cizích měnách, bitcoinem, Bitcoinpay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.
 
-![Platba](img/platba2.png)
+![Platba](img/payment.png)
