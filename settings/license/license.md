@@ -9,4 +9,4 @@ Licence se aktivuje v **NASTAVENÍ** v záložce **Firma**. Kliknutím na tlač�
 
 Aktivace může probíhat pár vteřin.
 
-![](img/licence.png)
+![](img/license.png)
