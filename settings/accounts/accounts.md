@@ -2,7 +2,7 @@
 
 Záložka účty slouží k nastavení osob osbsluhujících program ANetCa. Můžete vytvořit dva druhy účtů, **Vlastník** a **Pokladní**.
 
-![Záložka Nastavení a detail karty Účty obsluhy](img/nastaveni-ucty.png)
+![Záložka Nastavení a detail karty Účty obsluhy](img/accounts.png)
 
 Pokud zaškrtnete volbu "Vyžadovat účet Vlastník pro vstup do Nastavení a Přehledů", budou karty Nastavení a Přehledy přístupné pouze pro ty účty, které jsou vytvořené s oprávněním Vlastníka. Tuto volbu je možné vybrat pod kolonkou Heslo. V případě, že vyplníte i kolonku heslo, bude heslo vyžadováno při přepnutí obsluhy v záložce "Prodej".
 
