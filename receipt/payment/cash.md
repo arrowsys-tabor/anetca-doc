@@ -1,1 +1,0 @@
--	Není dostupné v Demo verzi
