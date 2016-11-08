@@ -14,7 +14,7 @@ Před vyplněním údajů pro napojení na EET je zapotřebí získat Digitáln�
    
 2. Následně je zapotřebí v **NASTAVENÍ > Firma** vyplnit:
 
-   - **DIČ** - musí obsahovat předponu CZ, napři CZ1212121218
+   - **DIČ** - musí obsahovat předponu CZ, například CZ1212121218
    - **EET Provozovna** (většinou 123) maximálně 999999
    - **EET Pokladna** (libovolné, může obsahovat max 20 alfanumerických znaků např. POKLADNA1)
    - V případě Komisního (Zástupného) prodeje je nutné vyplnit **Pověřující DIČ**.
