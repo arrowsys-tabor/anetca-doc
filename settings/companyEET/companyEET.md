@@ -1,6 +1,6 @@
 # Nastavení elektronické evidence tržeb
 
-Před vyplněním údajů odesílaných do EET je zapotřebí získat Digitální certifikát. Návod naleznete na serveru [e-trzby.cz](http://www.etrzby.cz/cs/webova-aplikace-EET-a-certifikaty). Soubor certifikátu je zapotřebí překopírovat přímo do zařízení, připojením přes USB.
+Před vyplněním údajů pro napojení na EET je zapotřebí získat Digitální certifikát. Návod naleznete na serveru [e-trzby.cz](http://www.etrzby.cz/cs/webova-aplikace-EET-a-certifikaty). Soubor certifikátu je zapotřebí vložit přímo do zařízení na kterém je pokladní systém spuštěn.
 
 ### Aktivace funkce odesílání do systému EET
 
