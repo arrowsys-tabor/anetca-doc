@@ -26,3 +26,5 @@ Před vyplněním údajů odesílaných do EET je zapotřebí získat Digitáln�
    - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
 
    ![](img/companyEET2.png)
+**Neprodukční prostředí**
+- Do neprodukčního prostředí lze odesílat pouze s [Playground certifikáty](http://www.etrzby.cz/assets/cs/prilohy/EET_CA1_Playground_v1.zip). Podmínkou je mít vyplněné DIČ a zvolenou volbu **Neprodukční prostředí**
