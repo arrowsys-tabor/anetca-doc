@@ -5,7 +5,7 @@
    * [Nastavení EET](settings/companyEET/companyEET.md)
 * Obsluha programu
    * [Prodej](command/sale/sale.md)
-      * [Sleva](command/sale/discount.md)
+       * [Sleva](command/sale/discount.md)
    * [Zboží](command/items/items.md)
    * [Pokladna - KASA](command/cashRegister/cashRegister.md)
    * [Přehledy](command/reports/reports.md)
@@ -16,6 +16,7 @@
    * [Nastavení účtenky](settings/receiptSettings/receiptSettings.md)
    * [Nastavení loga](settings/logo/logo.md)
    * [Tiskárna](settings/printer/printer.md)
+   * Prodej v Pověření (Komisní/v Zastoupení)
 * Práce s daty
    * [Export dat](data/export/export.md)
    * [Import](data/import/import.md)
