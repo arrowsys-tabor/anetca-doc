@@ -16,7 +16,7 @@
    * [Nastavení účtenky](settings/receiptSettings/receiptSettings.md)
    * [Nastavení loga](settings/logo/logo.md)
    * [Tiskárna](settings/printer/printer.md)
-   * Prodej v Pověření (Komisní/v Zastoupení)
+   * [Prodej v Pověření (Komisní/v Zastoupení)](settings/receiptSettings/appoitingReceipt.md)
 * Práce s daty
    * [Export dat](data/export/export.md)
    * [Import](data/import/import.md)
