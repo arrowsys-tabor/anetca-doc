@@ -7,7 +7,7 @@ Před vyplněním údajů pro napojení na EET je zapotřebí získat Digitáln�
 1. Přesuneme se do **NASTAVENÍ > Konfigurace**, kde je potřeba vyplnit:
    
    - **Certifikát** - Do této kolonky je potřeba zadat cestu k certifikátu, pokud je cesta prázdná, po ťuknutí na kolonku se zobrazí výběr                       pro doplnění cesty. 
-   - **Heslo certifikátu** - Heslo, které jste si zadali při vytváření certifikátu jako heslo pro "soukromý klíč" do [Webové aplikaci EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
+   - **Heslo certifikátu** - Heslo, které jste si zadali při vytváření certifikátu jako heslo pro "soukromý klíč" do [Webové aplikace EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
       - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
    
    ![](img/companyEET1.png)
