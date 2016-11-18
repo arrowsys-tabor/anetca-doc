@@ -8,7 +8,7 @@ Před vyplněním údajů pro napojení na EET je zapotřebí získat Digitáln�
    
    - **Certifikát** - Do této kolonky je potřeba zadat cestu k certifikátu, pokud je cesta prázdná, po ťuknutí na kolonku se zobrazí výběr                       pro doplnění cesty. 
    - **Heslo certifikátu** - Heslo, které bylo změněno při vytváření certifikátu [Webové aplikaci EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
-   - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
+      - Nastavení uložíte kliknutím na tlačítko **Uložit**. 
    
    ![](img/companyEET1.png)
    
