@@ -1,6 +1,6 @@
 # Kalkulačka
 
-Slouží k rychlému zadání tržby na účtenku.
+Nachází se v levém dolním rohu hlavní účtovací obrazovky. Slouží k rychlému zadání tržby na účtenku.
 
 ### Zadaní tržby na účtenku
 
@@ -15,3 +15,5 @@ Pro zadávání stejné částky vícekrát je zde operátor **X** - násobení.
 Tlačítko **CL** slouží k vymazání hodnoty na kalkulačce.
 
 Lze zadat záporné hodnoty vyplněním příslušné hodnoty a následném stisknutí znaménka mínus **-**.
+
+![Pokladna](img/calculator.png)
