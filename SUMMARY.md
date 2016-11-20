@@ -6,6 +6,7 @@
 * Obsluha programu
    * [Prodej](command/sale/sale.md)
        * [Sleva](command/sale/discount.md)
+       * [Kalkulačka](command/sale/calculator/calculator.md)
    * [Zboží](command/items/items.md)
    * [Pokladna - KASA](command/cashRegister/cashRegister.md)
    * [Přehledy](command/reports/reports.md)
