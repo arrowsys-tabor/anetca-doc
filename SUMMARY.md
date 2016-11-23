@@ -3,7 +3,7 @@
 * [Úvod](README.md)
    * [Aktivování licence](settings/license/license.md)
    * [Nastavení EET](settings/companyEET/companyEET.md)
-   * Videonávody
+   * [Videonávody](videonavody.md)
 * Obsluha programu
    * [Prodej](command/sale/sale.md)
        * [Sleva](command/sale/discount.md)
