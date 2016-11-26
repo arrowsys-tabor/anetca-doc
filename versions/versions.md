@@ -5,9 +5,9 @@
 * Před uzavřením kasy, upozornění na neodeslané účtenky
 * Rozdělení účtenek podle Pověřujícího DIČ
 * * Pokud účtenka obsahuje jednu nebo více položek od různých Pověřujících DIČ, vytvoří se z této účtenky další, které lze uhradit samostatně
-* * Nyní fungují 2 režimi PP. 
-* * * Pokud je v nastavení definované DIČ Pověřujícího, všechny účtenky budou vystaveny s tímto DIČ
-* * * Pokud DIČ Pověřujícího není vyplněné a položky mají nastaveno pověřujícího, při úhradě se rozdělí účtenky samostatně.	
+ * Nyní fungují 2 režimi PP. 
+  * Pokud je v nastavení definované DIČ Pověřujícího, všechny účtenky budou vystaveny s tímto DIČ
+  * Pokud DIČ Pověřujícího není vyplněné a položky mají nastaveno pověřujícího, při úhradě se rozdělí účtenky samostatně.	
 * Produkty s PLU 90900, 90910, 90915, 90921 nemohou být smazány
 * Zablokováno numerické vkládání hodnot do kalkulačkového labelu
 * Zálohování na USB
