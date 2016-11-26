@@ -14,13 +14,14 @@
 * Tisk názvu položky na nový řádek (pouze BT)
 
 Opravy chyb
-* úpravy pro 58mm tisk
+* Úpravy pro 58mm tisk
 * Oprava přepínání číselných řad
-* Zakázání záporných marginů 
-* Pokud nebyla vyplněna tiskárna, program se nenačetl
-* Nejsem plátce DPH na účtenku
+* Zakázání záporných odsazení 
+* Pokud nebyla vyplněna tiskárna, program se nespustil
+* "Nejsem plátce DPH" na účtenku
+* Rekapitulace DPH se nestiskne pro netplátce DPH
 * 80mm Kč odskakovalo na další řádek
-* Stůl se nestikne pokud není vyplněn
+* Pokud účtenka nemá stůl, "Stůl" se nestikne
 * Při odstranění produktů se nesmažou produkty s PLU 90900 90910 90915 90921
 * Chyba kdy nešel program spustit kvůli bankovnímu terminálu byla odstraněna
 
