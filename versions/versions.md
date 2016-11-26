@@ -4,7 +4,7 @@
 * Platba fakturou (s platbou na Účet - není odesílána do EET)
 * Před uzavřením kasy, upozornění na neodeslané účtenky
 * Rozdělení účtenek podle Pověřujícího DIČ
- * Pokud účtenka obsahuje jednu nebo více položek od různých Pověřujících DIČ, vytvoří se z této účtenky další, které lze uhradit samostatně.
+ * Pokud účtenka obsahuje jednu nebo více položek od různých Pověřujících DIČ, vytvoří se z této účtenky další, které jsou tištěny samostatně s vlastními FIK kódy.
   * 1. Režim PP: Pokud je v nastavení definované DIČ Pověřujícího, všechny účtenky budou vystaveny s tímto DIČ
   * 2. Režim PP: Pokud DIČ Pověřujícího není vyplněné a položky mají nastaveno pověřujícího, při úhradě se rozdělí účtenky samostatně.	
 * Produkty s PLU 90900, 90910, 90915, 90921 nemohou být smazány
