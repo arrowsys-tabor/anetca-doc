@@ -1,5 +1,5 @@
 #Prodej v Pověření 
-Prodej v Pověření, neeboli prodej v zastoupení či komisní prodej s programem ANetCa možný dvěmi způsoby.
+Prodej v Pověření je s programem ANetCa možný dvěmi způsoby.
 
 
 ##### 1) Všechny položky jsou prodávány v pověření
