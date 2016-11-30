@@ -19,7 +19,7 @@ Při úhradě účtenky fakturou, účtenka není odeslána do EET.
 
 #### Přehled vystavených faktur
 
-V záložce "PŘEHLEDY" budou mít všechny účtenky placené fakturou v závorce uvedeno *fakturou*.
+V záložce "PŘEHLEDY" mají všechny účtenky placené fakturou v závorce uvedeno *fakturou*.
 
 ## Částečná platba
 
