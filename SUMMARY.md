@@ -6,6 +6,7 @@
    * [Videonávody](videonavody.md)
 * Obsluha programu
    * [Prodej](command/sale/sale.md)
+       * [Platba](command/sale/payment.md)
        * [Sleva](command/sale/discount.md)
        * [Kalkulačka](command/sale/calculator/calculator.md)
    * [Zboží](command/items/items.md)
