@@ -7,3 +7,5 @@
 2. Vyberte formát
 
    ![](img/export2.png)
+
+Poté už jen stačí zadat cestu pro uložení a uložit.
