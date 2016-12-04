@@ -4,7 +4,7 @@
    * [Aktivování licence](settings/license/license.md)
    * [Nastavení EET](settings/companyEET/companyEET.md)
    * [Videonávody](videonavody.md)
-* [Časté otázky](faq.md)
+* Časté otázky
    * [Tiskne se mi pouze PKP](pkp.md)
 * Obsluha programu
    * [Prodej](command/sale/sale.md)
