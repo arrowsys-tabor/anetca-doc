@@ -5,7 +5,8 @@
    * [Nastavení EET](settings/companyEET/companyEET.md)
    * [Videonávody](videonavody.md)
 * Časté otázky
-   * [Tiskne se mi pouze PKP](pkp.md)
+   * [Tiskne se mi pouze PKP](questions/pkp.md)
+   * [Jak dostat přehledy tržeb do PDF, Excelu nebo Wordu](questions/export.md)
 * Obsluha programu
    * [Prodej](command/sale/sale.md)
        * [Platba](command/sale/payment.md)
