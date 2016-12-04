@@ -1,4 +1,4 @@
-# Jak dostat přehled tržeb (PŘEHLEDY) do PDF, Excelu nebo Wordu
+# Jak dostat přehled tržeb do PDF, Excelu nebo Wordu
 
 1. Klikněte na ikonu diskety
 
