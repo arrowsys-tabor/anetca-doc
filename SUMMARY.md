@@ -29,4 +29,5 @@
    * [Aktualizace](support/update/update.md)
 * Verze a změny
    * [Verze](versions/versions.md)
+* Časté otázky
 
