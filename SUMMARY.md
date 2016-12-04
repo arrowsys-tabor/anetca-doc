@@ -30,4 +30,5 @@
 * Verze a změny
    * [Verze](versions/versions.md)
 * [Časté otázky](faq.md)
+   * Tiskne se mi pouze PKP
 
