@@ -1,6 +1,6 @@
 # Jak dostat přehled tržeb (PŘEHLEDY) do PDF, Excelu nebo Wordu
 
-1. Klikněte na ikonu disket
+1. Klikněte na ikonu diskety
 
    ![](img/export1.png)
 
