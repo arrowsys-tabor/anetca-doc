@@ -8,6 +8,10 @@
 
 ANetCa se následně vypne a nahraje na vybrané externí zařízení zálohovaná data ve složce "anetca".
 
+**Zálohují se všechny soubory uvedené na obrázku níže:**
+
+   ![](img/depositData1.png)
+
 ## Manuální záloha dat
 
 Kompletní uživatelské nastavení a konfigurace obsahují tyto soubory:
@@ -20,7 +24,7 @@ Kompletní uživatelské nastavení a konfigurace obsahují tyto soubory:
 
 *Soubory jsou nejčastěji uloženy zde: C:\arrowsys\anetca*
 
-### Záloha na externí zařízení
+## Záloha na externí zařízení
 
 1. Připojte externí jednotku do zařízení s produktem ANetCa (např. USB nebo externí disk)
 2. Otevřete složky s konfiguračními soubory (C:\arrowsys\anetca) a úložiště externí jednotky.
