@@ -10,7 +10,7 @@ ANetCa se následně vypne a nahraje na vybrané externí zařízení zálohovan
 
 **Zálohují se všechny soubory uvedené na obrázku níže:**
 
-   ![](img/depositData1.png)
+   ![](img/depositData2.png)
 
 ## Manuální záloha dat
 
