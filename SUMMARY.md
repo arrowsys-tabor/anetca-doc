@@ -19,9 +19,9 @@
     * [Věrnostní karty](command/loyaltyCards/loyaltyCards.md)
 * Nastavení
     * [Účty](settings/accounts/accounts.md)
-    * [Nastavení DPH](settings/DPH, groups, prices/DPH.md)
-    * [Nastavení skupin](settings/DPH, groups, prices/groups.md)
-    * [Nastavení cen](settings/DPH, groups, prices/prices.md)
+    * [Nastavení DPH](settings/DPH- groups- prices/DPH.md)
+    * [Nastavení skupin](settings/DPH- groups- prices/groups.md)
+    * [Nastavení cen](settings/DPH- groups- prices/prices.md)
     * [Nastavení účtenky](settings/receiptSettings/receiptSettings.md)
     * [Nastavení loga](settings/logo/logo.md)
     * [Tiskárna](settings/printer/printer.md)
