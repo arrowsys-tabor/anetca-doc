@@ -1,6 +1,6 @@
 # Nastavení DPH
 
-V úvodní části lze upravit či vymazat DPH sazbu nebo vytvořit novou.
+V horní části **"NASTAVENÍ > DPH, skupiny, ceny"** lze upravit či vymazat DPH sazbu nebo vytvořit novou.
 
 ### Přenesená daň
 
