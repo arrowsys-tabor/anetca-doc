@@ -7,7 +7,7 @@
 * Časté otázky
     * [Tiskne se mi pouze PKP](questions/pkp.md)
     * [Jak dostat přehledy tržeb do PDF, Excelu nebo Wordu](questions/export.md)
-* Obsluha programu
+* [Obsluha programu](obsluha-programu.md)
     * [Prodej](command/sale/sale.md)
         * [Platba](command/sale/payment.md)
         * [Sleva](command/sale/discount.md)
@@ -17,7 +17,7 @@
     * [Přehledy](command/reports/reports.md)
     * [Stoly](command/tables/tables.md)
     * [Věrnostní karty](command/loyaltyCards/loyaltyCards.md)
-* Nastavení
+* [Nastavení](nastavení.md)
     * [Účty](settings/accounts/accounts.md)
     * [Nastavení DPH](settings/DPH- groups- prices/DPH.md)
     * [Nastavení skupin](settings/DPH- groups- prices/groups.md)
