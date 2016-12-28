@@ -8,6 +8,11 @@
     * [Tiskne se mi pouze PKP](questions/pkp.md)
     * [Jak dostat přehledy tržeb do PDF, Excelu nebo Wordu](questions/export.md)
 * [Tipy](tipy.md)
+* [Skupiny - rychlý výběr](skupiny---rychlý-výběr.md)
+* [Nastavení PLU](nastavení-plu.md)
+* [Kalkulačkový prodej podle DPH](kalkulačkový-prodej-podle-dph.md)
+* [Priority](priority.md)
+* [Jak nastavit řazení skupin](jak-nastavit-řazení-skupin.md)
 * [Obsluha programu](obsluha-programu.md)
     * [Prodej](command/sale/sale.md)
         * [Platba](command/sale/payment.md)
@@ -31,9 +36,6 @@
     * [Export dat](data/export/export.md)
     * [Import](data/import/import.md)
     * [Zálohování dat](data/config/config.md)
-* Podpora
-    * [Vzdálená pomoc](support/assistance/assistance.md)
-    * [Aktualizace](support/update/update.md)
-* [Verze a změny](verze-a-změny.md)
-    * [Verze](versions/versions.md)
+* [Jak nastavit řazení skupin](jak-nastavit-řazení-skupin.md)
+* [Nastavení PLU](nastavení-plu.md)
 
