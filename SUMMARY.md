@@ -36,6 +36,6 @@
 * Verze a změny
     * [Aktualizace](aktualizace.md)
     * [Verze](verze.md)
-* Pro dealery
-    * aa
+* [Pro dealery](pro-dealery.md)
+    * [Nelze spustit](nelze-spustit.md)
 
