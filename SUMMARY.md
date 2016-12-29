@@ -32,4 +32,10 @@
     * [Export dat](data/export/export.md)
     * [Import](data/import/import.md)
     * [Zálohování dat](data/config/config.md)
+* Řešení problémů
+* Verze a změny
+    * [Aktualizace](aktualizace.md)
+    * [Verze](verze.md)
+* Pro dealery
+    * aa
 

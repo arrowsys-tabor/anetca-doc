@@ -2,7 +2,7 @@
 
 -v základní obrazovce PRODEJ stačí dvojitě kliknout myší na skupinu "VŠE". Tím se Vám otevře rychlý náhled všech skupin a jste schopni vybrat skupinu, kterou právě potřebujete. Tím pádem je jedno kolik skupin máte založeno a nemusíte se jimi postupně proklikávat.
 
-![](/tipy/img/TIPY skupiny.JPG)
+
 
 ### Nastavení PLU {#nastavení-plu}
 
@@ -12,8 +12,6 @@
 
 
 
-![](/tipy/img/TIPY PLU.JPG)
-
 ### Kalkulačkový prodej podle DPH {#kalkulačkový-prodej-podle-dph}
 
 -kalkulačka slouží jako zjednodušený režim vkládání jak produktů pomocí již zmiňovaného PLU tak i jednotlivých částek s určením správného DPH. Jednoduše stačí zadat částku a následně stisknout sazbu DPH, pod kterou se má částka účtovat.
@@ -22,21 +20,15 @@
 
 
 
-![](/tipy/img/TIPY calc2.jpg)
-
 ### Priority {#priority}
 
 -priority slouží k určení pořadí jednotlivých položek zobrazených na hlavní obrazovce **PRODEJ**.V záložce ZBOŽÍ při zakládání nového produktu je vedle prvního řádku s názvem zboží možnost měnit prioritu zobrazení.Zboží s vyšší zvolenou prioritou se zobrazuje vždy na prvním místě před ostatními položkami. Spolu s nastavenou prioritou je nutné zarovnat v nastavení položky abecedně dle názvu a skupiny abecedně dle skupin.
 
 
 
-![](/tipy/img/TIPY priorita.JPG)
-
 ### Jak nastavit řazení skupin {#jak-nastavit-řazení-skupin}
 
 -řazení skupin naleznete v záložce **NASTAVENÍ -&gt; PROSTŘEDÍ**. K nastavení je zde řazení položek a skupin.Toto nastavení se následně promítne do zarovnání skupin a položek na základní obrazovce **PRODEJ**.
 
 
-
-![](/tipy/img/TIPY razeni.JPG)
 
