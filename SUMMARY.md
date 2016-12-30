@@ -28,12 +28,12 @@
     * [Nastavení loga](settings/logo/logo.md)
     * [Tiskárna](settings/printer/printer.md)
     * [Prodej v Pověření \(Komisní\/v Zastoupení\)](settings/receiptSettings/appoitingReceipt.md)
-* Práce s daty
+* [Práce s daty](práce-s-daty.md)
     * [Export dat](data/export/export.md)
     * [Import](data/import/import.md)
     * [Zálohování dat](data/config/config.md)
-* Řešení problémů
-* Verze a změny
+* [Řešení problémů](řešení-problémů.md)
+* [Verze a změny](verze-a-změny.md)
     * [Aktualizace](aktualizace.md)
     * [Verze](verze.md)
 * [Pro dealery](pro-dealery.md)
