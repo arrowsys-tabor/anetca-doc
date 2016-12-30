@@ -8,7 +8,7 @@
     * [Tiskne se mi pouze PKP](questions/pkp.md)
     * [Jak dostat přehledy tržeb do PDF, Excelu nebo Wordu](questions/export.md)
 * [Tipy a triky](tipy.md)
-    * [Jak rychle markovat](aa.md)
+    * [Jak rychle markovat](jak-rychle-markovat.md)
 * [Obsluha programu](obsluha-programu.md)
     * [Prodej](command/sale/sale.md)
         * [Platba](command/sale/payment.md)
