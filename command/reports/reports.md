@@ -10,7 +10,7 @@ Další tlačítka umožňují tisk tržeb „DNES“ a „ZA OBDOBí“ dle sku
 
 -pokud se potřebujete z jakéhokoli důvodu podívat na již vytištěnou účtenku nebo ji jen dotisknout v kopii zákazníkovi zvolte záložku **PŘEHLEDY-&gt;ÚČTENKY**, vyberte účtenku ze seznamu a stiskněte tlačítko **TISKNOUT VYBRANOU ÚČTENKU **a následně vyberte volbu tisku v horním panelu náhledu účtenky.
 
-
+![](/assets/uctenky.JPG)
 
 \*pro zobrazení účtenek v archívu je nutné nejdříve uzavřít kasu v záložce **KASA**. Následně se všechny účtenky směny přesunou do** ÚČTENEK ARCHÍVU**.
 
