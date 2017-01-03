@@ -1,4 +1,3 @@
-![](/assets/uctenky.JPG)
 <div align="center">
     <p>
         <img src="anetca.png">
