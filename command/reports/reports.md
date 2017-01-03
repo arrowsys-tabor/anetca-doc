@@ -16,3 +16,11 @@ Další tlačítka umožňují tisk tržeb „DNES“ a „ZA OBDOBí“ dle sku
 
 \*pro obnovení seznamu účtenek je nutné překliknout na jinou sekci **PŘEHLEDŮ**\(například **KASA -&gt; DNES**\) a následně zpět na sekci **ÚČTENEK**.
 
+
+
+# STORNO ÚČTENKY
+
+-v seznamu účtenek stačí jednoduše označit tu správnou a stisknout tlačítko **STORNO VYBRANÉ ÚČTENKY**. V pokladně se Vám tímto vytvoří automaticky účtenka s minusovou hodnotou Kč, kterou je nutno odeslat na server finanční správy, čili uhradit a vytisknout.
+
+
+
