@@ -1,3 +1,9 @@
+# verze 1.3.1.0
+
+* Synchronizace s centrálou
+* Výpis tržeb za období je možné filtrovat i podle hodin a minut
+* Úprava stability komunikace s FÚ
+
 # verze 1.3.0.0
 
 * Širší scrollbar
