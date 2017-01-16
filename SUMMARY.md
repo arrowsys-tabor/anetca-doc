@@ -33,9 +33,8 @@
     * [Import](data/import/import.md)
     * [Zálohování dat](data/config/config.md)
 * [Řešení problémů](řešení-problémů.md)
-* [Chyba .NET 0x800713ec-Asie](chyba-net-0x800713ec-asie.md)
+* [Chyba .NET při instalaci](chyba-net-při-instalaci.md)
 * [Verze a změny](verze-a-změny.md)
     * [Aktualizace](aktualizace.md)
     * [Verze](verze.md)
-* Chyba .NET 0x800713ec-Asie
 
