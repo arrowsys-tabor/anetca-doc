@@ -33,7 +33,7 @@
     * [Import](data/import/import.md)
     * [Zálohování dat](data/config/config.md)
 * [Řešení problémů](řešení-problémů.md)
-* [Chyba .NET při instalaci](chyba-net-při-instalaci.md)
+    * [Chyba při instalaci .NET](chyba.md)
 * [Verze a změny](verze-a-změny.md)
     * [Aktualizace](aktualizace.md)
     * [Verze](verze.md)
