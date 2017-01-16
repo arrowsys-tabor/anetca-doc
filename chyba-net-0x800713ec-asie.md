@@ -1,4 +1,4 @@
-ahyba při instalaci .NET 0800713ec-Asie
+Chyba ahyba při instalaci .NET 0800713ec-Asie
 
 Pokud se Vám v průběhu Pokud instalace objeví hláška ""Chyba při instalaci .NET 0800713ec-Asie" postupujte prosím následujícím postupem:
 
