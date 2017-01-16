@@ -1,5 +1,7 @@
 # Chyba při instalaci .NET 0800713ec-Asie
 
+![](/assets/chyba-asia.PNG)
+
 Pokud se Vám v průběhu instalace objeví hláška ""Chyba při instalaci .NET 0800713ec-Asie" postupujte prosím následujícím postupem:
 
 1\) Ukončete instalaci
