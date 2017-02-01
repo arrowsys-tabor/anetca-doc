@@ -10,9 +10,27 @@
 
 2/ Po úspěšném připojení váhy je nutno zjistit COM port, na kterém je váha připojena. Přejděte do ovládacích panelů systému Windows, zvolte položku **SYSTÉM -&gt; SPRÁVCE ZAŘÍZENÍ -&gt; porty COM a LPT**, kde naleznete **COM port přiřazený k váze**.
 
-3/ Spusťte ANetCa a přejděte do záložky **NASTAVENÍ -&gt; ZAŘÍZENÍ -&gt; PORT VÁHY** - zde vyplňte **zjištěný** **COM PORT** a zmáčkněte **ULOŽIT**.
+![](/assets/Vaha-spravce-zarizeni.JPG)
+
+
+
+### **Nastavení v ANetCa:**
+
+1/ Spusťte ANetCa a přejděte do záložky **NASTAVENÍ -&gt; ZAŘÍZENÍ -&gt; PORT VÁHY** - zde vyplňte **zjištěný** **COM PORT** a stiskněte **ULOŽIT**.
+
+![](/assets/Vaha-nastaveni.jpg)
+
+2/ Přejděte do záložky **PRODEJ**, stikněte **NOVÁ ÚČTENKA** a klikněte do kolonky **POČET.**
+
+![](/assets/Vaha-PRODEJ.jpg)
+
+3/Stiskněte **symbol váhy**, navážená hodnota z LCD se Vám přenese do pole pro počet a položku i s tímto údajem vložte na účtenku.
+
+4/ Následně stačí jen dokončit všechny kroky pro úspěšné vytištění účtenky.
 
 
 
 
+
+**\*upozornění: pro správný chod váhy je nutné zadat u zboží cenu za jednotku, aby mohl program s naváženým množstvím správně pracovat**
 
