@@ -1,10 +1,6 @@
-# !!! Ve výstavbě !!! - právě se upravuje
-
-# 
-
 # Zákaznický display LD-240
 
--zákaznický display slouží k zobrazení důležitých informací pro zákazníka jako je například částka, kterou má zaplatit, informace o firmě či pouze uvítací oznámení. Tyto informace lze uživatelsky měnit.
+-zákaznický display slouží k zobrazení důležitých informací pro zákazníka. Jako je například částka, kterou má zaplatit, informace o firmě či pouze uvítací oznámení. Tyto informace lze uživatelsky měnit.
 
 ### Instalace:
 
@@ -14,7 +10,7 @@
 
 3/ Po úspěšném naběhnutí operačního systému spusťte z instalačního CD utilitu **VFDSetupAP\_V3.0 **která slouží k nastavení uvítací obrazovky zákaznického displaye
 
-4/ nyní přejděte do **ovládacích panelů** **systému Windows** **-&gt; SYSTÉM -&gt; SPRÁVCE ZAŘÍZENÍ **a vyhledejte položku s názvem Porty COM a LPT a vyberte položku **Prolific USB-to-serial Comm Port \(COMx\)**, kdy **"x"** zastupuje číslo portu COM, na který je zákaznický display připojen.
+4/ nyní přejděte do **ovládacích panelů** **systému Windows** **-&gt; SYSTÉM -&gt; SPRÁVCE ZAŘÍZENÍ **a vyhledejte položku s názvem **Porty COM a LPT** a vyberte položku **Prolific USB-to-serial Comm Port \(COMx\)**, kdy **"x"** zastupuje číslo portu COM, na který je zákaznický display připojen.
 
 ![](/assets/ZD-spravce-zarizeni.JPG)
 
@@ -30,13 +26,37 @@
 
 ![](/assets/ZD-aktualizace-ovladace-4.jpg)
 
+
+
 6/ Spusťte **VFDSetupAP\_V3.0 **a** **nastavte COM port, který jste zjistili ve správci zařízení a zadejte jej do kolonky **COM PORT SELECT**
 
 ![](/assets/ZD-program-1.jpg)
+
+
 
 7/ V záložce **Welcome msg **vyplňte úvodní text, který se má zobrazovat na uvítací obrazovce displaye a stiskněte **DOWNLOAD SETTINGS TO VFD**
 
 ![](/assets/ZD-program-2.jpg)
 
+-pro nastavení textu zobrazeného na v kolonkách je nutné do každé kolonky vyplnit patřičný znak. Pokud se jedná o mezeru je nutno vyplnit zvlášť i ji.
+
+
+
 8/ Po chvíli Vám vyskočí okno s hlášením abyste restartovali Display. To potvrďte a následně odpojte a připojte USB k počítači.
+
+
+
+# Nastavení v ANetCa
+
+1/ přejděte do záložky **NASTAVENÍ -&gt; KONFIGURACE.**
+
+2/ Zde je možno konfigurovat** port ZD**\(zákaznického displaye\). **Vyplňte COM port**, který byl zjištěn ve správci zařízení a vyplňte jej.
+
+3/ Po stisku na tlačítko **NASTAVENÍ **lze display dodatečně konfigurovat.
+
+
+
+![](/assets/ZD-anetca-nastaveni.jpg)
+
+
 
