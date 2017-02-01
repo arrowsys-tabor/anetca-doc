@@ -20,6 +20,8 @@
 
 5/ Pokud by se Vám u **Prolific USB-to-serial Comm Port \(COMx\) **zobrazoval trojúhelník s vykřičníkem je nutné postupovat dle návodu v tomto bodu.
 
+\*postupujte dle přiložených obrázků pro správné nastavení
+
 ![](/assets/ZD-aktualizace-ovladace.jpg)
 
 ![](/assets/ZD-aktualizace-ovladace-2.jpg)
