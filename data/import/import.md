@@ -2,11 +2,11 @@
 
 **.XLSX formát není podporovaný**
 
-|  | Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | Kód zboží | Prodej. množství | Kuchyně | PLU kód |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  | text | text\(50\) | int | decimal\(2\) | decimal\(2\) | decimal\(2\) | text | text | text | decimal\(4\) | bit | text |
-|  | Párek v rohlíku | Pár. v rohl. | 1 | 15,00 | 35 | 1 | Ks | 0123 | 1001 | 1 | 1 | 111 |
-|  | Párek | Párek |  1 | 15,00 | 35 | 1 | Ks | 1234 | 1002 | 1 | 1 | 112 |
+| Název | Zkratka | ID skupiny | DPH % | Cena | Množství | Jednotka | ČK | Kód zboží | Prodej. množství | Kuchyně | PLU kód |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| text | text\(50\) | int | decimal\(2\) | decimal\(2\) | decimal\(2\) | text | text | text | decimal\(4\) | bit | text |
+| Párek v rohlíku | Pár. v rohl. | 1 | 15,00 | 35 | 1 | Ks | 0123 | 1001 | 1 | 1 | 111 |
+| Párek | Párek | 1 | 15,00 | 35 | 1 | Ks | 1234 | 1002 | 1 | 1 | 112 |
 
 * **Název** - název produktu
 * **Zkratka** - text na účtenku, maximum je 50 znaku
