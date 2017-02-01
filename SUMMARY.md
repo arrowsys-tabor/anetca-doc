@@ -40,5 +40,5 @@
 * [Periferie](periferie.md)
   * [Zákaznický display](periferie/zakaznicky-display.md)
   * [Váha](periferie/vaha.md)
-  * Čtečka čárových kódů
+  * [Čtečka čárových kódů](periferie/ctecka-carovych-kodu.md)
 

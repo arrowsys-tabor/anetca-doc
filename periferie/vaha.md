@@ -1,5 +1,3 @@
-# !!! Ve výstavbě !!! - Právě se upravuje
-
 # Váha
 
 -slouží pro měření hmotnosti daného zboží. Hodnotu, která se zobrazuje na LCD následně automaticky vloží do programu, kde vytvoří poměrnou část k jednotkové ceně zboží.
@@ -11,8 +9,6 @@
 2/ Po úspěšném připojení váhy je nutno zjistit COM port, na kterém je váha připojena. Přejděte do ovládacích panelů systému Windows, zvolte položku **SYSTÉM -&gt; SPRÁVCE ZAŘÍZENÍ -&gt; porty COM a LPT**, kde naleznete **COM port přiřazený k váze**.
 
 ![](/assets/Vaha-spravce-zarizeni.JPG)
-
-
 
 ### **Nastavení v ANetCa:**
 
@@ -27,10 +23,6 @@
 3/Stiskněte **symbol váhy**, navážená hodnota z LCD se Vám přenese do pole pro počet a položku i s tímto údajem vložte na účtenku.
 
 4/ Následně stačí jen dokončit všechny kroky pro úspěšné vytištění účtenky.
-
-
-
-
 
 **\*upozornění: pro správný chod váhy je nutné zadat u zboží cenu za jednotku, aby mohl program s naváženým množstvím správně pracovat**
 
