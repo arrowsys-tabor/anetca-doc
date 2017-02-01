@@ -22,11 +22,19 @@
 
 ![](/assets/ZD-aktualizace-ovladace.jpg)
 
+![](/assets/ZD-aktualizace-ovladace-2.jpg)
 
+![](/assets/ZD-aktualizace-ovladace-3.JPG)
+
+![](/assets/ZD-aktualizace-ovladace-4.jpg)
 
 6/ Spusťte **VFDSetupAP\_V3.0 **a** **nastavte COM port, který jste zjistili ve správci zařízení a zadejte jej do kolonky **COM PORT SELECT**
 
+![](/assets/ZD-program-1.jpg)
+
 7/ V záložce **Welcome msg **vyplňte úvodní text, který se má zobrazovat na uvítací obrazovce displaye a stiskněte **DOWNLOAD SETTINGS TO VFD**
+
+![](/assets/ZD-program-2.jpg)
 
 8/ Po chvíli Vám vyskočí okno s hlášením abyste restartovali Display. To potvrďte a následně odpojte a připojte USB k počítači.
 
