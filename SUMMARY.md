@@ -41,4 +41,5 @@
   * [Zákaznický display](periferie/zakaznicky-display.md)
   * [Váha](periferie/vaha.md)
   * [Čtečka čárových kódů](periferie/ctecka-carovych-kodu.md)
+  * [Tiskárna XP-58](periferie/tiskarna-xp-58.md)
 
