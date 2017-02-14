@@ -34,6 +34,7 @@
   * [Zálohování dat](data/config/config.md)
 * [Řešení problémů](řešení-problémů.md)
   * [Chyba při instalaci .NET](chyba.md)
+  * [Aktualizace - neplatná licence](aktualizace-neplatna-licence.md)
 * [Verze a změny](verze-a-změny.md)
   * [Aktualizace](aktualizace.md)
   * [Verze](verze.md)
