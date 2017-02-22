@@ -1,3 +1,10 @@
+# 1.3.3.0
+
+* Úpravy pro tisk BT účtenky \(DPH a jedn. cena\)
+* Vylepšení komunikace se čtečkou čárových kódů 
+* Možnost řádně smazat EET certifikát
+* Podpora 3 desetinných míst pro vážené zboží
+
 # 1.3.2.0
 
 * Automatický odpis ze skladového modulu EET Zásoby
