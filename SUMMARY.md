@@ -33,6 +33,7 @@
   * [Export dat](data/export/export.md)
   * [Import](data/import/import.md)
   * [Zálohování dat](data/config/config.md)
+  * [Sklad - import](data/export/sklad-import.md)
 * [Řešení problémů](řešení-problémů.md)
   * [Chyba při instalaci .NET](chyba.md)
   * [Aktualizace - neplatná licence](aktualizace-neplatna-licence.md)
