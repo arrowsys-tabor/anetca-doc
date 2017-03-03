@@ -9,7 +9,7 @@ Funkce hromadného vložení produktů do modulu skladů musí být ve formátu 
 
 * **Název** - název vkládaného produktu
 * Zkratka - text zobrazený účtence, doporučeno je 20 znaků
-* Skupina - Název skupiny, ve které se zboží bude nacházet. Skupiny je nutné založit před importem![](/assets/import-vzor-sklad.xls)
+* Skupina - Název skupiny, ve které se zboží bude nacházet. Skupiny je nutné založit před importem
 * **DPH %** - sazba DPH \(0, 10, 15, 21\).
 * **Prodejní cena** - prodejní cena produktu.
 * **Zůstatek skladu** - Zůstatek skladu, může být 0
