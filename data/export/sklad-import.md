@@ -1,6 +1,6 @@
 # Formát importu do modulu skladu/EET maloobchod
 
-Funkce hromadného vložení produktů do modulu skladů musí být ve formátu **Sešit Microsoft Excel 5.0/95 \(\*.xls\)**, xlsx formát a 97-2003 není podporovaný.
+Funkce hromadného vložení produktů do modulu skladů musí být ve formátu **Sešit Microsoft Excel 5.0/95 \(\*.xls\)**, .xlsx formát a .xls 97-2003 není podporovaný.
 
 | Název | Zkratka | Skupina | DPH % | Prod.Cena | Zůstatek skladu | Jednotka | ČK | Kód zboží | Nákupní cena |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -24,5 +24,5 @@ Datové typy:
 
 decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporované formáty: 2; 2,00
 
-**Vzorovou tabulku** si můžete stáhnout ve správném formátu zde http://dokumentace.lilka.cz/import-vzor-sklad.xls
+**Vzorovou tabulku** si můžete stáhnout ve správném formátu zde [http://dokumentace.lilka.cz/import-vzor-sklad.xls](http://dokumentace.lilka.cz/import-vzor-sklad.xls)
 
