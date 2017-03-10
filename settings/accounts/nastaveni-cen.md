@@ -1,6 +1,6 @@
 # **Ceny**
 
-Ceny slouží například k odlišení kupní a prodejní ceny. V**"NASTAVENÍ &gt; DPH, skupiny,**
+Ceny slouží například k odlišení kupní a prodejní ceny. V **"NASTAVENÍ &gt; DPH, skupiny,**
 
 **ceny"**lze upravit či vymazat cenu nebo vytvořit novou.
 
