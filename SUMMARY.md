@@ -29,7 +29,6 @@
   * [Tiskárna](settings/printer/printer.md)
   * [Prodej v pověření, komisní prodej a prodej v zastoupení](settings/receiptSettings/appoitingReceipt.md)
   * [Prodej použitého zboží](settings/accounts/prodej-pouziteho-zbozi.md)
-  * [Nastavení cen 2th](settings/accounts/nastaveni-cen-2th.md)
 * [Práce s daty](práce-s-daty.md)
   * [Export dat](data/export/export.md)
   * [Import](data/import/import.md)
