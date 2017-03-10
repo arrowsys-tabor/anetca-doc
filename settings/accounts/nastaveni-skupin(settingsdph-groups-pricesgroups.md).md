@@ -2,7 +2,7 @@
 
 Skupiny slouží k zpřehlednění uspořádání položek. V**"NASTAVENÍ &gt; DPH, skupiny, ceny"**
 
-lze upravit či vymazat skupinu nebo vytvořit novou.
+lze upravit či vymazat skupinu nebo vytvořit novou. 
 
 ## **Vytvoření skupiny**
 
@@ -29,4 +29,6 @@ lze upravit či vymazat skupinu nebo vytvořit novou.
 1. Vyberte skupinu v kolonce**"Název skupiny"**
 
 2. Klikněte na červený křížek \(vpravo uprostřed\)
+
+
 

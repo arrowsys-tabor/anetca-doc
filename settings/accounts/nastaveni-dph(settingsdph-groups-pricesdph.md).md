@@ -2,7 +2,7 @@
 
 V horní části**"NASTAVENÍ &gt; DPH, skupiny, ceny"**lze upravit či vymazat DPH sazbu nebo
 
-vytvořit novou.
+vytvořit novou. 
 
 ## **Přenesená daň**
 
@@ -34,5 +34,7 @@ Nastavíte povolením \(zaškrtnutím\) políčka**"Daň je přenesená"**.
 
 **přenesená"**
 
-5. Uložte stisknutím tlačítka "ULOŽIT"
+1. Uložte stisknutím tlačítka "ULOŽIT"
+
+
 

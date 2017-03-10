@@ -2,7 +2,7 @@
 
 Ceny slouží například k odlišení kupní a prodejní ceny. V**"NASTAVENÍ &gt; DPH, skupiny,**
 
-**ceny"**lze upravit či vymazat cenu nebo vytvořit novou.
+**ceny"**lze upravit či vymazat cenu nebo vytvořit novou. 
 
 ## **Vytvoření DPH**
 
@@ -17,4 +17,6 @@ Ceny slouží například k odlišení kupní a prodejní ceny. V**"NASTAVENÍ &
 1. Vyberte skupinu v kolonce**"Sazba DPH"**
 
 2. Klikněte na červený křížek \(vpravo dole\)
+
+
 
