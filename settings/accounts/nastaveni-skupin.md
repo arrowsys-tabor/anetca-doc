@@ -1,12 +1,12 @@
 # **Nastavení skupiny**
 
-Skupiny slouží k zpřehlednění uspořádání položek. V**"NASTAVENÍ &gt; DPH, skupiny, ceny"**
+Skupiny slouží k zpřehlednění uspořádání položek. V **"NASTAVENÍ &gt; DPH, skupiny, ceny" **
 
-lze upravit či vymazat skupinu nebo vytvořit novou. 
+lze upravit či vymazat skupinu nebo vytvořit novou.
 
 ## **Vytvoření skupiny**
 
-1. Kolonka**"Název skupiny"**musí být prázdná - klikněte na tlačítko "ULOŽIT"
+1. Kolonka **"Název skupiny" **musí být prázdná - klikněte na tlačítko "ULOŽIT"
 
 2. Do horní řádky napište název \(např. Nápoje\)
 
@@ -18,7 +18,7 @@ lze upravit či vymazat skupinu nebo vytvořit novou.
 
 ## **Úprava skupiny**
 
-1. Vyberte skupinu v kolonce**"Název skupiny"**
+1. Vyberte skupinu v kolonce **"Název skupiny"**
 
 2. skupinu upravte dle vlastní potřeby
 
@@ -26,7 +26,7 @@ lze upravit či vymazat skupinu nebo vytvořit novou.
 
 ## **Smazání skupiny**
 
-1. Vyberte skupinu v kolonce**"Název skupiny"**
+1. Vyberte skupinu v kolonce **"Název skupiny"**
 
 2. Klikněte na červený křížek \(vpravo uprostřed\)
 
