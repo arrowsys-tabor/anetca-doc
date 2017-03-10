@@ -21,7 +21,7 @@
   * [Věrnostní karty](command/loyaltyCards/loyaltyCards.md)
 * [Nastavení](nastavení.md)
   * [Účty](settings/accounts/accounts.md)
-  * [Nastavení cen](settings/accounts/nastaveni-cen%28settingsdph-groups-pricesprices.md%29.md)
+  * [Nastavení cen](settings/accounts/nastaveni-cen.md)
   * [Nastavení skupin](settings/accounts/nastaveni-skupin%28settingsdph-groups-pricesgroups.md%29.md)
   * [Nastavení DPH](settings/accounts/nastaveni-dph%28settingsdph-groups-pricesdph.md%29.md)
   * [Nastavení účtenky](settings/receiptSettings/receiptSettings.md)
