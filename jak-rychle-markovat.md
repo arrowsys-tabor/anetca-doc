@@ -14,9 +14,9 @@
 
 ### Kalkulačkový prodej podle DPH {#kalkulačkový-prodej-podle-dph}
 
--kalkulačka slouží jako zjednodušený režim vkládání jak produktů pomocí již zmiňovaného PLU tak i jednotlivých částek s určením správného DPH. Jednoduše stačí zadat částku a následně stisknout sazbu DPH, pod kterou se má částka účtovat.
+-kalkulačka slouží jako zjednodušený režim vkládání jak produktů pomocí již zmiňovaného PLU, tak i jednotlivých částek s určením správného DPH. Jednoduše stačí zadat částku a následně stisknout sazbu DPH, pod kterou se má částka účtovat.
 
--na kalkulačce lze i násobit. První musí být násobitel čili počet kusů a na druhém místě částka za jednotku. Tento výpočet zakončíte jako na standartní kalkulačce znaménkem"=", což v této verzi nahrazují tlačítka"21%" "15%" "10%" "0%"
+-na kalkulačce lze i násobit. První musí být násobitel čili počet kusů a na druhém místě částka za jednotku. Tento výpočet zakončíte jako na standartní kalkulačce znaménkem"=", což v naší pokladně nahrazují tlačítka"21%" "15%" "10%" "0%"
 
 ![](/assets/TIPYcalc.jpg)
 
@@ -26,7 +26,7 @@
 
 ![](/assets/TIPYpriorita.JPG)
 
-### Jak nastavit řazení skupin {#jak-nastavit-řazení-skupin}
+### Řazení skupin {#jak-nastavit-řazení-skupin}
 
 -řazení skupin naleznete v záložce **NASTAVENÍ -&gt; PROSTŘEDÍ**. K nastavení je zde řazení položek a skupin.Toto nastavení se následně promítne do zarovnání skupin a položek na základní obrazovce **PRODEJ**.
 
