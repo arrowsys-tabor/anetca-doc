@@ -18,6 +18,10 @@
 
 -na kalkulačce lze i násobit. První musí být násobitel čili počet kusů a na druhém místě částka za jednotku. Tento výpočet zakončíte jako na standartní kalkulačce znaménkem"=", což v naší pokladně nahrazují tlačítka"21%" "15%" "10%" "0%"
 
+-lze též zadat počet na kalkulačce a následně kliknout na dlaždici se zbožím. Výsledkem bude vložení daného počtu kusů zboží na účtenku.
+
+-pokud máte na kartě zboží zvoleno v kódu zboží hodnotu "999999", položka se bude následně chovat naprosto jinak. Po zadání počtu v kalkulačce a následném přidání zboží na účtenku Vám přidá 1ks zboží se zvolenou cenou. \(POZOR Pokud máte zvoleno v kódu zboží "999999" je nutno mít vyplněnou i cenu 1kč\)
+
 ![](/assets/TIPYcalc.jpg)
 
 ### Priority {#priority}
