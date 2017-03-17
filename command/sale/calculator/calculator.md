@@ -2,7 +2,7 @@
 
 Nachází se v levém dolním rohu hlavní účtovací obrazovky. Slouží k rychlému zadání tržby na účtenku.
 
-Pro správný chod kalkulačky musí být založeny položky s Kódem zboží "999999" a PLU:
+Pro bezproblémový chod kalkulačky musí být založeny položky se správnou sazbou daně, cenou "1", kódem zboží "999999" a PLU:
 
 * pro Bez DPH: 90900
 * pro DPH 10%: 90910 
