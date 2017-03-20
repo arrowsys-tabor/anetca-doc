@@ -3,8 +3,7 @@
 * Úprava zobrazení jednotkové ceny na BT účtence
 * Tisk DIČ pověřujícího na BT účtencce
 * BT tisk doplněn o příznak "placeno: faktura"
-* Režim použitého zboží na účtence neuvádí % daně 0 a daň 0
-* Zaokrouhlení celkové částky do EET
+* Režim použitého zboží na účtence neuvádí % daně 0 a daň
 * Opravena chyba se sléváním textu po zadání desetinné čárky
 
 # 1.3.3.0
