@@ -6,13 +6,19 @@ Z [https://www.arrowsys.cz/cs/soubory-ke-stazeni](https://www.arrowsys.cz/cs/sou
 
 \*zvolte jazyk instalátoru
 
+
+
 ![](/assets/instalaceXP58-2.JPG)
 
 \*zaškrtněte souhlas s licenčními podmínkami
 
+
+
 ![](/assets/instalaceXP58-3.JPG)
 
 \*stiskněte tlačítko Finish
+
+
 
 **Spusťte nastavení ovladače XPrinter Driver v7.77 **
 
@@ -29,8 +35,6 @@ Z [https://www.arrowsys.cz/cs/soubory-ke-stazeni](https://www.arrowsys.cz/cs/sou
 **\*Tiskárnu je možné nastavit danou tiskárnu jako výchozí  "set Default Printer"**
 
 **\*\*příznak "C" v modelu tiskárny značí "CUTTER" neboli funkci automatického ustřihnutí účtenky po vytištění**
-
-
 
 Driver je ke stažení zde: [https://www.arrowsys.cz/cs/soubory-ke-stazeni](https://www.arrowsys.cz/cs/soubory-ke-stazeni)
 
