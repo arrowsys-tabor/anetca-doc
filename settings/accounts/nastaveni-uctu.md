@@ -26,8 +26,6 @@
 
 ![](/assets/Ucty.JPG)**\*DŮLEŽITÉ: VŽDY JE NUTNÉ ZACHOVAT ALESPOŇ JEDEN ÚČET S PRÁVEM SPRÁVCE!!!**
 
-
-
 #### **Oddělit zůstatky kas podle účtů:**
 
 -pokud je pole zaškrtnuto, každý účet má svůj vlastní zůstatek v kase nehledě na ostatní.
@@ -42,23 +40,21 @@
 
 -program odhlásí uživatele po vytištění účtenky a vyžádá si přihlášení například pomocí hesla
 
+#### PIN STORNA
 
-
-#### PIN STORNA 
-
-- pokud chcete mít přehled nad stonováním účtenek, případně mazáním položek z účtenky a potřebujete tuto funkci dovolit pouze pomocí hesla, stačí zadat **PIN STORNA**. Ten může být jakkoli dlouhý a musí obsahovat jen číslice. 
+* pokud chcete mít přehled nad stonováním účtenek, případně mazáním položek z účtenky a potřebujete tuto funkci dovolit pouze pomocí hesla, stačí zadat **PIN STORNA**. Ten může být jakkoli dlouhý a musí obsahovat jen číslice. 
 
 #### Následně je pak vyžadován při:
 
-     **1/ Odebírání položek z účtenky**
+1/ Odebírání položek z účtenky
 
-     **2/ Vkládání zboží se zápornou hodnotou na účtenku**
+2/ Vkládání zboží se zápornou hodnotou
 
-     **3/ Stornem účtenky\(Přehledy-&gt;účtenky-&gt;storno vybrané účtenky\)**
-
-
+3/ Stornem účtenky **\(PŘEHLEDY-&gt;ÚČTENKY-&gt;STORNO VYBRANÉ POLOŽKY\)**
 
 #### **Směna od do:**
 
 -tyto kolonky definují směnu, kde se dá nastavit od kolika do kolika hodin směna probíhá
+
+
 
