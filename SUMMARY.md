@@ -47,4 +47,6 @@
   * [Váha](periferie/vaha.md)
   * [Čtečka čárových kódů](periferie/ctecka-carovych-kodu.md)
   * [Tiskárna XP-58](periferie/tiskarna-xp-58.md)
+* [PRO DEALERY](pro-dealery.md)
+  * [ODBLOKOVÁNÍ LICENCE](pro-dealery/odblokovani-licence.md)
 
