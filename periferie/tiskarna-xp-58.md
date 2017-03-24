@@ -2,8 +2,6 @@
 
 Z [https://www.arrowsys.cz/cs/soubory-ke-stazeni](https://www.arrowsys.cz/cs/soubory-ke-stazeni) stáhněte soubor "elio-printdriver7.77.zip" rozbalte a nainstalujte.
 
-
-
 ![](/assets/instalaceXP58-1.JPG)
 
 \*zvolte jazyk instalátoru
@@ -12,13 +10,9 @@ Z [https://www.arrowsys.cz/cs/soubory-ke-stazeni](https://www.arrowsys.cz/cs/sou
 
 \*zaškrtněte souhlas s licenčními podmínkami
 
-
-
 ![](/assets/instalaceXP58-3.JPG)
 
 \*stiskněte tlačítko Finish
-
-
 
 **Spusťte nastavení ovladače XPrinter Driver v7.77 **
 
@@ -32,9 +26,9 @@ Z [https://www.arrowsys.cz/cs/soubory-ke-stazeni](https://www.arrowsys.cz/cs/sou
 
 **4/ Stiskněte CHECK USB PORT a INSTALL NOW - je možno rovnou vytisknout i zkušební stránku**
 
-
-
 **\*Tiskárnu je možné nastavit danou tiskárnu jako výchozí  "set Default Printer"**
+
+**\*\*příznak "C" v modelu tiskárny značí "CUTTER" neboli funkci automatického ustřihnutí účtenky po vytištění**
 
 
 
