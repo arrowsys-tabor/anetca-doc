@@ -29,7 +29,6 @@
   * [Nastavení loga](settings/logo/logo.md)
   * [Tiskárna](settings/printer/printer.md)
   * [Prodej v pověření, komisní prodej a prodej v zastoupení](settings/receiptSettings/appoitingReceipt.md)
-  * [Nastavení účtu](settings/accounts/nastaveni-uctu.md)
 * [Práce s daty](práce-s-daty.md)
   * [Export dat](data/export/export.md)
   * [Import](data/import/import.md)
