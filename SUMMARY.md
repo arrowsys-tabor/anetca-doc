@@ -38,6 +38,7 @@
   * [Chyba při instalaci .NET](chyba.md)
   * [Aktualizace - neplatná licence](aktualizace-neplatna-licence.md)
   * [Poskytovatel internetu blokuje EET](poskytovatel-internetu-blokuje-eet.md)
+  * [Blokování tisku](blokovani-tisku.md)
 * [Verze a změny](verze-a-změny.md)
   * [Aktualizace](aktualizace.md)
   * [Verze](verze.md)
