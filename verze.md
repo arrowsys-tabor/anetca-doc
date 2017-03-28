@@ -5,15 +5,19 @@
 * BT tisk doplněn o příznak "placeno: faktura"
 * Režim použitého zboží na účtence neuvádí % daně 0 a daň 0
 * Zaokrouhlení celkové částky do EET
-* Opravena chyba se sléváním textu po zadání desetinné čárky   v Kalkulačce
+* Opravena chyba se sléváním textu po zadání desetinné čárky  
+   v Kalkulačce
 
-* Přidána možnost vybrat vše   z pokladny
+* Přidána možnost vybrat vše  
+   z pokladny
+
 * Zvětšení času na účtence
 * Vycentrování celkové částky na účtence
 * Nyní jde aktivovat pouze 75mm nebo 58mm tisk
-* Nová verze modulu se zákaznickým displejem   - univerzální podpora
+* Nová verze modulu se zákaznickým displejem
+  * univerzální podpora
 
-Opravy 
+Opravy
 
 * Opravena chyba při které po smazání dat byly odstraněny časté hodnoty kalkulačkových položek a nebylo možné přidat částku na účtenku
 * Opraveno problikávání kurzoru Množství/Počet které zabraňovalo otevření numerické klávesnice
