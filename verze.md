@@ -3,8 +3,20 @@
 * Úprava zobrazení jednotkové ceny na BT účtence
 * Tisk DIČ pověřujícího na BT účtencce
 * BT tisk doplněn o příznak "placeno: faktura"
-* Režim použitého zboží na účtence neuvádí % daně 0 a daň
-* Opravena chyba se sléváním textu po zadání desetinné čárky
+* Režim použitého zboží na účtence neuvádí % daně 0 a daň 0
+* Zaokrouhlení celkové částky do EET
+* Opravena chyba se sléváním textu po zadání desetinné čárky   v Kalkulačce
+
+* Přidána možnost vybrat vše   z pokladny
+* Zvětšení času na účtence
+* Vycentrování celkové částky na účtence
+* Nyní jde aktivovat pouze 75mm nebo 58mm tisk
+* Nová verze modulu se zákaznickým displejem   - univerzální podpora
+
+Opravy 
+
+* Opravena chyba při které po smazání dat byly odstraněny časté hodnoty kalkulačkových položek a nebylo možné přidat částku na účtenku
+* Opraveno problikávání kurzoru Množství/Počet které zabraňovalo otevření numerické klávesnice
 
 # 1.3.3.0
 
