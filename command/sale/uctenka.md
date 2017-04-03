@@ -1,13 +1,3 @@
-# Přehledy
-
-Přehledy lze tisknout úzké nebo široké, dle uspořádání tiskáren. Nejužší tisk se řešen pro Bluetooth tiskárnu 58 zn. na řádku.
-
-![Přehledy](img/report.png)
-
-Další tlačítka umožňují tisk tržeb „DNES“ a „ZA OBDOBí“ dle skupin. Ostatní tlačítka jsou popsána  při zakoupení ostré verze programu.
-
-
-
 # Dotisk účtenky
 
 -pokud se potřebujete z jakéhokoli důvodu podívat na již vytištěnou účtenku nebo ji jen dotisknout v kopii zákazníkovi zvolte záložku **PŘEHLEDY-&gt;ÚČTENKY**, vyberte účtenku ze seznamu a stiskněte tlačítko **TISKNOUT VYBRANOU ÚČTENKU **a následně vyberte volbu tisku v horním panelu náhledu účtenky.
