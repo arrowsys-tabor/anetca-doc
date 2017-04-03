@@ -19,6 +19,7 @@
   * [Přehledy](command/reports/reports.md)
   * [Stoly](command/tables/tables.md)
   * [Věrnostní karty](command/loyaltyCards/loyaltyCards.md)
+  * [Účtenka](command/sale/uctenka.md)
 * [Nastavení](nastavení.md)
   * [Účty](settings/accounts/accounts.md)
   * [Nastavení cen](settings/accounts/nastaveni-cen.md)
