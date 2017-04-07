@@ -3,7 +3,8 @@
 * Upozornění na chybějící DIČ zákazníka pokud se jedná o zákazníka s DIČ a platbu nad 10 tisíc
 * Zaokrouhlení celkové částky do EET \(oprava\)
 * Nová verze knihovny ArrowSys.Bluetooth
-* Střihání účtenky po vytištění
+* Stříhání účtenky po vytištění
+* Instalátor pro verzi 1.3.5.0 zahrnuje novou verzi vzdálené podpory verze 12
 
 # 1.3.4.0
 
@@ -21,6 +22,7 @@
 * Zvětšení času na účtence
 
 * Vycentrování celkové částky na účtence
+
 * Nyní jde aktivovat pouze 75mm nebo 58mm tisk
 * Nová verze modulu se zákaznickým displejem
   * univerzální podpora
