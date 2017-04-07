@@ -24,6 +24,7 @@
 * Vycentrování celkové částky na účtence
 
 * Nyní jde aktivovat pouze 75mm nebo 58mm tisk
+
 * Nová verze modulu se zákaznickým displejem
   * univerzální podpora
 
