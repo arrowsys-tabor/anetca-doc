@@ -4,7 +4,7 @@
 
 ### Instalace:
 
-1/ Z přiloženého CD nainstalujte ovladač pro rozhraní USB-to-SERIAL **Win\_Driver\_Prolific\_3\_2\_0\_0.exe** případně stáhněte ovladač přímo z [webu](http://www.w9lrt.com/default/assets/File/baofengprolificvista.zip "WEBU") výrobce.
+1/ Z přiloženého CD nainstalujte ovladač pro rozhraní USB-to-SERIAL **Win\_Driver\_Prolific\_3\_2\_0\_0.exe** případně stáhněte ovladač přímo z [webu ](http://www.axis-distribution.cz/obchod/action/productdetail/oc/3472304/product/displej-elio-ld-240-usb-cerny.xhtml)výrobce.
 
 2/ Jakmile dokončíte instalaci restartujte počítač.
 
@@ -26,13 +26,9 @@
 
 ![](/assets/ZD-aktualizace-ovladace-4.jpg)
 
-
-
 6/ Spusťte **VFDSetupAP\_V3.0 **a** **nastavte COM port, který jste zjistili ve správci zařízení a zadejte jej do kolonky **COM PORT SELECT**
 
 ![](/assets/ZD-program-1.jpg)
-
-
 
 7/ V záložce **Welcome msg **vyplňte úvodní text, který se má zobrazovat na uvítací obrazovce displaye a stiskněte **DOWNLOAD SETTINGS TO VFD**
 
@@ -40,11 +36,7 @@
 
 -pro nastavení textu zobrazeného na v kolonkách je nutné do každé kolonky vyplnit patřičný znak. Pokud se jedná o mezeru je nutno vyplnit zvlášť i ji.
 
-
-
 8/ Po chvíli Vám vyskočí okno s hlášením abyste restartovali Display. To potvrďte a následně odpojte a připojte USB k počítači.
-
-
 
 # Nastavení v ANetCa
 
@@ -54,9 +46,5 @@
 
 3/ Po stisku na tlačítko **NASTAVENÍ **lze display dodatečně konfigurovat.
 
-
-
 ![](/assets/ZD-anetca-nastaveni.jpg)
-
-
 
