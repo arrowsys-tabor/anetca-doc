@@ -1,6 +1,6 @@
-# Zákaznický display LD-240
+# Zákaznický displej LD-240
 
--zákaznický display slouží k zobrazení důležitých informací pro zákazníka. Jako je například částka, kterou má zaplatit, informace o firmě či pouze uvítací oznámení. Tyto informace lze uživatelsky měnit.
+Zákaznický displej slouží k zobrazení důležitých informací pro zákazníka. Jako je například částka, kterou má zaplatit, informace o firmě či pouze uvítací oznámení. Tyto informace lze uživatelsky měnit.
 
 ### Instalace:
 
