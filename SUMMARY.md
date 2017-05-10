@@ -50,4 +50,12 @@
   * [Tiskárna XP-58](periferie/tiskarna-xp-58.md)
 * [PRO DEALERY](pro-dealery.md)
   * [ODBLOKOVÁNÍ LICENCE](pro-dealery/odblokovani-licence.md)
+* [ANETCA dokumentace v.2.0](anetca-dokumentace-v20.md)
+  * [PRODEJ](anetca-dokumentace-v20/prodej.md)
+  * ZBOŽÍ
+  * NASTAVENÍ
+  * KASA
+  * STOLY
+  * PŘEHLEDY
+  * KARTY
 
