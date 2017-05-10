@@ -51,9 +51,18 @@
 * [PRO DEALERY](pro-dealery.md)
   * [ODBLOKOVÁNÍ LICENCE](pro-dealery/odblokovani-licence.md)
 * [ANETCA DOKUMENTACE v.2.0](anetca-dokumentace-v20.md)
-  * PRODEJ
+  * [PRODEJ](anetca-dokumentace-v20/prodej.md)
   * [ZBOŽÍ](anetca-dokumentace-v20/zbozi.md)
-  * NASTAVENÍ
+  * [NASTAVENÍ](anetca-dokumentace-v20/nastaveni.md)
+    * FIRMA
+    * DPH, SKUPINY, CENY
+    * KURZY
+    * ÚČTY
+    * KONFIGURACE
+    * PROSTŘEDÍ
+    * ZAŘÍZENÍ
+    * ÚČTENKA
+    * ZÁLOHA
   * KASA
   * STOLY
   * PŘEHLEDY
