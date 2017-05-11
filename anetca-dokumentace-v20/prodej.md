@@ -47,13 +47,61 @@
 
 ![](/command/sale/img/payment.png)
 
+#### Nová účtenka
 
+-slouží pro přidání nové účtenky do seznamu účtenek nad tímto tlačítkem. Nová účtenka je nutná pro možnost vložení zboží a následné zaslání do EET. Tato účtenka se vytvoří v pravé horní části obrazovky v tzv. seznamu účtenek a standartně má tmavě modrou či zelenou barvu. Záleží zda-li je označena či nikoli.
+
+#### Seznam účtenek
+
+-v seznamu účtenek najdete všechny rozpracované účtenky, které byly vytvořeny, ale nebyly ještě odeslány do EET
+
+\*seznam účtenek je možné posouvat pomocí šípek vlevo a vpravo
+
+#### Mazání rozpracované účtenky
+
+-ze seznamu lze mazat pomocí tlačítka červeného křížku umístěného pod kalkulačkou ve spodní části obrazovky. Stačí pouze danou účtenku označit a stiknout toto tlačítko
+
+\*pro smazání účtenky nutné mít účtenku bez vloženého zboží. Pro odebrání zboží z účtenky stačí položku označit a stiknout tlačítko červeného křížku.
+
+#### **Přidat položku**
+
+-stisknutím vložíte označenou položku na nově založenou účtenku. 
+
+\*zvolit lze v nastavení též režim rychlého vkládání, kdy nemusíte potvrdit vložení zboží na účtenku tlačítkem "PŘIDAT POLOŽKU" nýbrž pouhým kliknutím na dlaždici zboží
+
+#### **Tisk**
+
+-jakmile máte na účtence zboží je možné přejít ke kroku zaplacení. Tlačítkem **"TISK" **zobrazíte tabulku s volbou způsobu úhrady a následně odešlete účtenku do EET.
+
+#### Seznam skupin
+
+-v tomto seznamu se zobrazuje seznam všech založených skupin ze záložky **NASTAVENÍ-&gt;DPH, SKUPINY, CENY. **V tomto seznamu je možné listovat šipkama po levé a pravé straně. Skupinu označíte pokud na ni kliknete myší.
+
+\*pokud dvojkliknete na tlačítko **"VŠE"** zobrazí se Vám přehledný seznam skupin.
+
+#### Zboží/dlaždice
+
+-seznam zboží je imterpretací založeného zboží v záložce **"ZBOŽÍ" **Tento seznam se zobrazuje ve stylu tzv. dlaždic. V dlaždicích lze listovat pomocí šipek umístěnych pod samotným seznamem
 
 #### Množství/počet
 
-**Množství **- množství slouží k vložení pouze části kusu zboží na účtenku. Často je používáno v restauracích, kde se markuje na účtenku například 2dcl kofoly. Toto množství se počítá z celé jednotky, například 1 litru. 
+**Množství **- množství slouží k vložení pouze části kusu zboží na účtenku. Často je používáno v restauracích, kde se markuje na účtenku například 2dcl kofoly. Toto množství se počítá z celé jednotky, například 1 litru.
 
 **Počet **- při vkládání zboží na účtenku lze defiinovat i jeho množství. Toto množství lze zadávat i v režimu desetinných míst čili se nezvtahuje pouze na celá čísla.
+
+#### Kalkulačka
+
+-prodej pomocí kalkulačky je nejjednodušší možnou variantou prodeje. Na kalkulačce vložíte čásku, potvrdíte pomocí dané sazby daně, stisknete tlačítko **"TISK"** a následně potvrdíte **"fajfkou"**
+
+-pomocí kalkulačky lze též násobit. Stačí zadat počet x částku a potvrdit pomocí tlačítka správné daně.
+
+-na kalkulačce je možné vkládat položky na účtenku také pomocí PLU. Stačí zadat číslo PLU uložené v kartě zboží\(viz. záložka ZBOŽÍ\) a stisknout tlačítko **"PLU"**
+
+\*před vložením je nutné PLU přiřadit k určitému zboží
+
+-na kalkulačce lze vytvořit i položku se zápornou hodnotou. Docílíte toho tak, že zadáte částku, kterou potřebujete odečíst, stisknete symbol "-" a následně správnou sazbu daně.
+
+\*zadávání záporné hodnoty je možné použí také pro storno čili odeslání záporné hodnoty do EET.
 
 #### Hledat
 
@@ -69,7 +117,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 #### Ceny
 
--zde nastavíte cenové hladiny. Cenové hladiny se používají například pro NÁKUPNÍ, PRODEJNÍ, DELAERSKOU cenu.
+-zde nastavíte cenové hladiny. Cenové hladiny se používají například pro NÁKUPNÍ, PRODEJNÍ, DELAERSKOU cenu. Pro změnu cenové hladiny rozklikněte roletku a zvolte správnou hladinu.
 
 \*cenu u prodejní hladiny je nutno ve zboží navolit jednotlivě pro každou položku zvlášť
 
@@ -77,25 +125,11 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 #### **Uživatel \(symbol panáčka\)**
 
--zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje.
+-zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele.
 
 \*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY**
 
-#### Nová účtenka
+#### 
 
--slouží pro přidání nové účtenky do seznamu účtenek nad tímto tlačítkem. Nová účtenka je nutná pro možnost vložení zboží a následné zaslání do EET
 
-#### **Přidat položku**
-
--stisknutím vložíte vybranou položku na nově založenou účtenku.
-
-#### **Tisk**
-
--jakmile máte na účtence zboží je možné přejít ke kroku zaplacení. Tlačítkem **"TISK" **zobrazíte tabulku s volbou způsobu úhrady a následně odešlete účtenku do EET.
-
-#### Seznam skupin 
-
--v tomto seznamu se zobrazuje seznam všech založených skupin ze záložky **NASTAVENÍ-&gt;DPH, SKUPINY, CENY. **V tomto seznamu je možné listovat šipkama po levé a pravé straně.
-
-\*pokud dvojkliknete na tlačítko **"VŠE"** zobrazí se Vám přehledný seznam skupin.
 
