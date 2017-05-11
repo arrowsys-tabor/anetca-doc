@@ -83,11 +83,21 @@
 
 -pokud požadujete rozdělit napřiklad 10ks daného zboží na účtence či zákazník chce platit pouze část účtenky, je možno tuto položku rozdělit pomocí označení daného zboží na účtence a stisknutím pole **"ODDĚLIT MNOŽSTVÍ". **Dále pak stačí pouze určit množství k oddělení.
 
+#### Zadávání pomocí čtečky čárového kódu
+
+-pokud máte vyplněný čárový kód u jednotlivých položek v sekci "ZBOŽÍ" je možné tento kód načíst přímo v obrazovce PRODEJ a automaticky se vytvoří účtenka, na kterou bude zboží vloženo.
+
 ## Kalkulačka
 
 -prodej pomocí kalkulačky je nejjednodušší možnou variantou prodeje. Na kalkulačce vložíte čásku, potvrdíte pomocí dané sazby daně, stisknete tlačítko **"TISK"** a následně potvrdíte **"fajfkou"**
 
+-pomocí kalkulačky lze nově i násobit pomocí dlaždic. Stiskněte daný počet na kalkulačce a následně klikněte na dlaždici zboží. Například při stiku 5xdlaždice se vloží na účtenku 5 dlaždic
+
+-CL smaže hodnotu na kalkulačce a slouží pro opravu zadávané částky
+
 -pomocí kalkulačky lze též násobit. Stačí zadat počet x částku a potvrdit pomocí tlačítka správné daně.
+
+-pomocí **","** lze zadat desetinná místa. Například 3,14
 
 -na kalkulačce je možné vkládat položky na účtenku také pomocí PLU. Stačí zadat číslo PLU uložené v kartě zboží\(viz. záložka ZBOŽÍ\) a stisknout tlačítko **"PLU"**
 
@@ -138,6 +148,8 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 **Množství **- množství slouží k vložení pouze části kusu zboží na účtenku. Často je používáno v restauracích, kde se markuje na účtenku například 2dcl kofoly. Toto množství se počítá z celé jednotky, například 1 litru.
 
 **Počet **- při vkládání zboží na účtenku lze defiinovat i jeho množství. Toto množství lze zadávat i v režimu desetinných míst čili se nezvtahuje pouze na celá čísla.
+
+\*hodnoty množství lze předem nastavit v **"ZBOŽÍ"** a před vložením na účtenku vybrat z roletky
 
 ## Karta
 
