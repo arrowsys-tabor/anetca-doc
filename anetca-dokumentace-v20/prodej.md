@@ -47,7 +47,7 @@
 
 ![](/command/sale/img/payment.png)
 
-#### Nová účtenka
+## Nová účtenka
 
 -slouží pro přidání nové účtenky do seznamu účtenek nad tímto tlačítkem. Nová účtenka je nutná pro možnost vložení zboží a následné zaslání do EET. Tato účtenka se vytvoří v pravé horní části obrazovky v tzv. seznamu účtenek a standartně má tmavě modrou či zelenou barvu. Záleží zda-li je označena či nikoli.
 
@@ -65,7 +65,7 @@
 
 #### **Přidat položku**
 
--stisknutím vložíte označenou položku na nově založenou účtenku. 
+-stisknutím vložíte označenou položku na nově založenou účtenku.
 
 \*zvolit lze v nastavení též režim rychlého vkládání, kdy nemusíte potvrdit vložení zboží na účtenku tlačítkem "PŘIDAT POLOŽKU" nýbrž pouhým kliknutím na dlaždici zboží
 
@@ -73,23 +73,17 @@
 
 -jakmile máte na účtence zboží je možné přejít ke kroku zaplacení. Tlačítkem **"TISK" **zobrazíte tabulku s volbou způsobu úhrady a následně odešlete účtenku do EET.
 
-#### Seznam skupin
+#### Částečná platba
 
--v tomto seznamu se zobrazuje seznam všech založených skupin ze záložky **NASTAVENÍ-&gt;DPH, SKUPINY, CENY. **V tomto seznamu je možné listovat šipkama po levé a pravé straně. Skupinu označíte pokud na ni kliknete myší.
+-ne vždy je nutné nebo si zákazník nepřeje uhradit celou účtenku naráz. Pokud by se stalo, že potřebujete uhradit pouze část zboží na účtence, stačí zaškrtnout jen část zboží a následně přejit pomocí tlačítka **"TISK"** platbě.
 
-\*pokud dvojkliknete na tlačítko **"VŠE"** zobrazí se Vám přehledný seznam skupin.
+\*u zboží na účtence je možné rozdělit počet kusů na účtence pomocí volby oddělit množství
 
-#### Zboží/dlaždice
+#### Oddělit množství
 
--seznam zboží je imterpretací založeného zboží v záložce **"ZBOŽÍ" **Tento seznam se zobrazuje ve stylu tzv. dlaždic. V dlaždicích lze listovat pomocí šipek umístěnych pod samotným seznamem
+-pokud požadujete rozdělit napřiklad 10ks daného zboží na účtence či zákazník chce platit pouze část účtenky, je možno tuto položku rozdělit pomocí označení daného zboží na účtence a stisknutím pole **"ODDĚLIT MNOŽSTVÍ". **Dále pak stačí pouze určit množství k oddělení.
 
-#### Množství/počet
-
-**Množství **- množství slouží k vložení pouze části kusu zboží na účtenku. Často je používáno v restauracích, kde se markuje na účtenku například 2dcl kofoly. Toto množství se počítá z celé jednotky, například 1 litru.
-
-**Počet **- při vkládání zboží na účtenku lze defiinovat i jeho množství. Toto množství lze zadávat i v režimu desetinných míst čili se nezvtahuje pouze na celá čísla.
-
-#### Kalkulačka
+## Kalkulačka
 
 -prodej pomocí kalkulačky je nejjednodušší možnou variantou prodeje. Na kalkulačce vložíte čásku, potvrdíte pomocí dané sazby daně, stisknete tlačítko **"TISK"** a následně potvrdíte **"fajfkou"**
 
@@ -103,7 +97,17 @@
 
 \*zadávání záporné hodnoty je možné použí také pro storno čili odeslání záporné hodnoty do EET.
 
-#### Hledat
+## Seznam skupin
+
+-v tomto seznamu se zobrazuje seznam všech založených skupin ze záložky **NASTAVENÍ-&gt;DPH, SKUPINY, CENY. **V tomto seznamu je možné listovat šipkama po levé a pravé straně. Skupinu označíte pokud na ni kliknete myší.
+
+\*pokud dvojkliknete na tlačítko **"VŠE"** zobrazí se Vám přehledný seznam skupin.
+
+#### Zboží/dlaždice
+
+-seznam zboží je imterpretací založeného zboží v záložce **"ZBOŽÍ" **Tento seznam se zobrazuje ve stylu tzv. dlaždic. V dlaždicích lze listovat pomocí šipek umístěnych pod samotným seznamem
+
+## Hledat
 
 Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje automaticky.
 
@@ -115,7 +119,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 \*tlačítkem červeného křížku vedle pole hledání vymažete pole hledání
 
-#### Ceny
+## Ceny/cenové hladiny
 
 -zde nastavíte cenové hladiny. Cenové hladiny se používají například pro NÁKUPNÍ, PRODEJNÍ, DELAERSKOU cenu. Pro změnu cenové hladiny rozklikněte roletku a zvolte správnou hladinu.
 
@@ -123,11 +127,21 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 \*\*prodejní hladiny lze přidat v sekci **NASTAVENÍ-&gt;DPH, SKUPINY, CENY - **toto nastavení je pouze pro pokročilé uživatele
 
-#### **Uživatel \(symbol panáčka\)**
+## **Uživatel \(symbol panáčka\)**
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele.
 
 \*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY**
+
+## Množství/počet
+
+**Množství **- množství slouží k vložení pouze části kusu zboží na účtenku. Často je používáno v restauracích, kde se markuje na účtenku například 2dcl kofoly. Toto množství se počítá z celé jednotky, například 1 litru.
+
+**Počet **- při vkládání zboží na účtenku lze defiinovat i jeho množství. Toto množství lze zadávat i v režimu desetinných míst čili se nezvtahuje pouze na celá čísla.
+
+## Karta
+
+-karta neboli slevové karty slouží pro uplatnění slevy. Pro vložení slevové karty je nutné mít kartu založenou v záložce KARTY a následně zadat její číslo. Sleva se uplatní od zadání karty na všechny vložené položky až do jejího odstranění. Více informací najdete v záložce KARTY.
 
 #### 
 
