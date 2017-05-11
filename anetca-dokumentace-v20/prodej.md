@@ -37,13 +37,65 @@
 
 #### Sekce 4  Účtenka a tisk \(vpravo dole\)
 
-  1.    Tlačítko „PŘIDAT POLOŽKU“ přidá již dříve vybranou položku do účtenky i opakovaně  
-  2.    Tlačítko „TISK“ účtenku vytiskne a pevně uloží  
-  3.    Zaškneme-li čtverec před položku v účtence, lze ji pak stiskem červeného křížku v kolečku smazat  
-  4.    V řádkách účtenky je možno přepsat text \(vhodné pro řemeslníky nebo detailnější označení zboží\)  
-  5.    Vpravo dole je průběžný součet účtenky  
-  6.    Po stisku tlačítka "TISK" se objeví dialogové okno \(viz  dále\)  
-  7.    Zde je možno vybrat způsob platby v Kč, cizích měnách, bitcoinem, Bitcoinpay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.
+1. Tlačítko „PŘIDAT POLOŽKU“ přidá již dříve vybranou položku do účtenky i opakovaně  
+2. Tlačítko „TISK“ účtenku vytiskne a pevně uloží  
+3. Zaškneme-li čtverec před položku v účtence, lze ji pak stiskem červeného křížku v kolečku smazat  
+4. V řádkách účtenky je možno přepsat text \(vhodné pro řemeslníky nebo detailnější označení zboží\)  
+5. Vpravo dole je průběžný součet účtenky  
+6. Po stisku tlačítka "TISK" se objeví dialogové okno \(viz  dále\)  
+7. Zde je možno vybrat způsob platby v Kč, cizích měnách, bitcoinem, Bitcoinpay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.
 
 ![](/command/sale/img/payment.png)
+
+
+
+#### Množství/počet
+
+**Množství **- množství slouží k vložení pouze části kusu zboží na účtenku. Často je používáno v restauracích, kde se markuje na účtenku například 2dcl kofoly. Toto množství se počítá z celé jednotky, například 1 litru. 
+
+**Počet **- při vkládání zboží na účtenku lze defiinovat i jeho množství. Toto množství lze zadávat i v režimu desetinných míst čili se nezvtahuje pouze na celá čísla.
+
+#### Hledat
+
+Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje automaticky.
+
+**Hledání dle čárového kódu** - stačí zadat čárový kód manuálně či pomocí čtečky čárového kódu
+
+**Hledání dle názvu** - zadejte název zboží. Pokud zadáte pouze část názvu, program vyhledá všechny položky se zadaným řetězcem.
+
+**Hledání dle PLU** - Zadajte požadované PLU, které je vyplněno u jednotlicých položek zboží.
+
+\*tlačítkem červeného křížku vedle pole hledání vymažete pole hledání
+
+#### Ceny
+
+-zde nastavíte cenové hladiny. Cenové hladiny se používají například pro NÁKUPNÍ, PRODEJNÍ, DELAERSKOU cenu.
+
+\*cenu u prodejní hladiny je nutno ve zboží navolit jednotlivě pro každou položku zvlášť
+
+\*\*prodejní hladiny lze přidat v sekci **NASTAVENÍ-&gt;DPH, SKUPINY, CENY - **toto nastavení je pouze pro pokročilé uživatele
+
+#### **Uživatel \(symbol panáčka\)**
+
+-zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje.
+
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY**
+
+#### Nová účtenka
+
+-slouží pro přidání nové účtenky do seznamu účtenek nad tímto tlačítkem. Nová účtenka je nutná pro možnost vložení zboží a následné zaslání do EET
+
+#### **Přidat položku**
+
+-stisknutím vložíte vybranou položku na nově založenou účtenku.
+
+#### **Tisk**
+
+-jakmile máte na účtence zboží je možné přejít ke kroku zaplacení. Tlačítkem **"TISK" **zobrazíte tabulku s volbou způsobu úhrady a následně odešlete účtenku do EET.
+
+#### Seznam skupin 
+
+-v tomto seznamu se zobrazuje seznam všech založených skupin ze záložky **NASTAVENÍ-&gt;DPH, SKUPINY, CENY. **V tomto seznamu je možné listovat šipkama po levé a pravé straně.
+
+\*pokud dvojkliknete na tlačítko **"VŠE"** zobrazí se Vám přehledný seznam skupin.
 
