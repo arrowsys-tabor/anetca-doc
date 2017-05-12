@@ -2,9 +2,7 @@
 
 -v této záložce naleznete informace o firmě, nastavení BITCION plateb, vzdálená pomoc, aktivování licence, kontrola aktualizací, syanchronizace.
 
-
-
-ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!
+**ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**
 
 ### Informace o firmě
 
@@ -49,8 +47,6 @@ Zjednodušený režim - režim, kdy subjekt má špatnou dostupnost internetu a 
 **NEJSEM PLÁTCE DPH -** pokud nejste plátcem DPH, zaškrtněte. Tato poznámka se tiskne následně na účtence
 
 **REŽIM POUŽITÉHO ZBOŽÍ - **
-
-
 
 ### VZDÁLENÁ POMOC
 
@@ -97,13 +93,9 @@ Zjednodušený režim - režim, kdy subjekt má špatnou dostupnost internetu a 
 
 \*Synchronizovat lze ZBOŽÍ A ÚČTENKY
 
-
-
 ### Nastavení příjemce EXPORTU
 
 -vyplňte email na který má přijít vygenerovaný EXPORT
-
-
 
 ### Nastavení BITCOIN
 
@@ -112,10 +104,4 @@ Bitcoin
 Bitcoinpay API klíč
 
 Bitcoinpay Callback
-
-
-
-
-
-
 
