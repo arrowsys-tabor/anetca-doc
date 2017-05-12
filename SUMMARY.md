@@ -66,5 +66,14 @@
   * [KASA](anetca-dokumentace-v20/kasa.md)
   * [STOLY](anetca-dokumentace-v20/stoly.md)
   * [PŘEHLEDY](anetca-dokumentace-v20/prehledy.md)
+    * KASA DNES
+    * KASA ZA OBDOBÍ
+    * TRŽBY SMĚNA
+    * TRŽBY DNES
+    * TRŽBY ZA OBDOBÍ
+    * TRŽBY EXPORT
+    * PRODUKTY
+    * ÚČTENKY
+    * TERMINÁL
   * [KARTY](anetca-dokumentace-v20/karty.md)
 
