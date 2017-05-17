@@ -4,9 +4,7 @@
 
 #### Níže uvedený obrázek ilustruje hlavní účtovací obrazovku systému ANetCa.
 
--níže uvedený obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.
-
-![](/assets/PRODEJ-POL.JPG)
+-níže uvedený obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.![](/assets/Prodej.PNG)
 
 #### Sekce 1 Založení účtenky \(vpravo nahoře\)
 
@@ -43,9 +41,7 @@
 4. V řádkách účtenky je možno přepsat text \(vhodné pro řemeslníky nebo detailnější označení zboží\)  
 5. Vpravo dole je průběžný součet účtenky  
 6. Po stisku tlačítka "TISK" se objeví dialogové okno \(viz  dále\)  
-7. Zde je možno vybrat způsob platby v Kč, cizích měnách, bitcoinem, Bitcoinpay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.
-
-![](/command/sale/img/payment.png)
+7. Zde je možno vybrat způsob platby v Kč, cizích měnách, bitcoinem, Bitcoinpay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.![](/assets/TISK.PNG)
 
 ## Nová účtenka
 
