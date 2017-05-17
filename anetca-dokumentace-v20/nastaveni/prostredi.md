@@ -2,31 +2,31 @@
 
 -slouží k nastavení prostředí celého programu. Především, tiskových režimů, řazení, měny, jazyku, zrychlené volby vkládání pouhým kliknutím na zboží nebo například oddělení položek  stejného typu na účtence.
 
-
-
 Zobrazit klávesnici při vyplňování číselných hodnot - zobrazí numerickou klávesnici při kliknutí do pole, kde by se měla zadávat hodnota. Zjednodušuje tak práci především na dotykových obrazovkách
 
-**Tisknout úzké sestavy - 70mm -** přizpůsobuje tiskovou sestavu na 70mm tisk. 
+**Tisknout úzké sestavy - 70mm -** přizpůsobuje tiskovou sestavu na 70mm tisk.
 
 \*pozor: se zapnutým režimem 70mm tisku se na 58mm tiskárně a následně vytištěné účtence nezobrazuje celá tisková sestava, a proto je nutné nastavit režim 58mm tisku.
 
-Otevřít složku umístění exportu po generaci - 
+**Otevřít složku umístění exportu po generaci -** po úspěšném vygenerování exportu otevře složku,  ve které se exportní soubor nachází.
 
-Tisknout kuchyň s ostatním zbožím - 
+**Tisknout kuchyň s ostatním zbožím -** při zaškrtnutí vytiskne na účtenku i čast s objednávkou do kuchyně.
 
-Skrýt tištěnou účtenku \(pouze BT tisk\) - 
+\*vztahuje se pouze na zboží označené jako TISK NA OBJEDNÁVKU. viz. záložka "ZBOŽÍ"
 
-Úzké sestavy  - 58mm - 
+**Skrýt tištěnou účtenku \(pouze BT tisk\) -** po stisknutí fajfky skryje okno s tištěnou účtenkou. Tato volba pouze zrychluje vystavení účtenek, kdy obsluha nemusí odkliknout okno s náhledem účtenky po jejím vytištění.
 
-Přidat zboží na účtenku po stiknutí tlačítka - 
+**Úzké sestavy  -** 58mm - nastaví úzkou 58mm tiskovou sestavu. Vhodné nastavení pro tiskárny 58mm formátu.
 
-Oddělit položky stejného typu na účtence - 
+**Přidat zboží na účtenku po stiknutí tlačítka -** zrychlený režim vkládání zboží na rozpracovanou účtenku. Po kliknutí na danou dlaždici se automaticky vloží toto zboží na účtenku a nemusí se potvrdit tlačítkem PŘIDAT NA ÚČTENKU
 
-Vyžádat přihlášení při spuštění pokladny - 
+\*při vkládání korunové položky je nutné prvně vyplnitdo kolonky POČET 
 
-Povolit uzavření kasy s otevřenými účtenkami - 
+**Oddělit položky stejného typu na účtence -** 
 
+**Vyžádat přihlášení při spuštění pokladny -**
 
+**Povolit uzavření kasy s otevřenými účtenkami -**
 
 **Jazyk -** nastavení jazyku programu. Je možno zvolit ČESTINU, ANGLIČTINU a nově i VIETNAMŠTINU.
 
