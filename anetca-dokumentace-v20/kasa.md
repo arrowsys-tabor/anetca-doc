@@ -1,8 +1,6 @@
 # KASA
 
--zde se odehrávají veškeré pokladní operace jako je například PŘÍJEM, VÝDEJ a UZÁVĚRKA POKLADNY.
-
-
+-zde se odehrávají veškeré pokladní operace jako je například PŘÍJEM, VÝDEJ a UZÁVĚRKA POKLADNY.![](/assets/kasa.PNG)
 
 **PŘÍJEM -** pokud vkládáte do pokladny peníze, zapište do pole **"TEXT"** důvod vkladu, zadejte částku a stiskněte tlačítko **"PŘIDAT"**
 
