@@ -1,4 +1,4 @@
-# DPH, SKUPINY, CENY
+# DPH, SKUPINY, CENY![](/assets/Nastaveni - DPH.PNG)
 
 ## Sazba DPH
 
@@ -19,8 +19,6 @@
 3. Sazba je nyní odstraněna
 
 **\*pokud je sazba použita již ve zboží nebude možné ji odstranit. V takovémto případě ale samozřejmě nepřekáží v chodu a lze ji ponechat**
-
-
 
 ## Skupiny
 
@@ -56,15 +54,7 @@
 
 **VAROVÁNÍ: NASTAVENÍ CENOVÝCH HLADIN DOPORUČUJEME MĚNIT JEN ZKUŠENÝM UŽIVATELŮM. MŮŽE MÍT ZA NÁSLEDEK NEFUNKČNOST PROGRAMU!!!**
 
-
-
 ### IMPORT - HROMADNÉ VKLÁDÁNÍ DAT
 
 -VÍCE INFORMACÍ A VZOROVOU TABULKU PRO IMPORT NALEZNETE V SEKCI **"PRÁCE S DATY-&gt;IMPORT"**
-
-
-
-
-
-
 
