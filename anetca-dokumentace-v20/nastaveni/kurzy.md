@@ -1,6 +1,6 @@
 # KURZY
 
--v záložce kurzy lze vytvářet novou, mazat či upravovat kurz nové či stávající měny. Toto nastavení má vliv na změnu měny v záložce PRODEJ-&gt;TISK
+-v záložce kurzy lze vytvářet novou, mazat či upravovat kurz nové či stávající měny. Toto nastavení má vliv na změnu měny v záložce PRODEJ-&gt;TISK![](/assets/nastaveni - kurzy.PNG)
 
 Založení nové měny
 
@@ -15,8 +15,6 @@ Smazání měny
 2. Stiskněte symbol červeného křížku
 3. Uložte
 
-
-
 Vysvětlení jednotlivých pojmů:
 
 **Název -** Název zobrazovaný v programu
@@ -30,6 +28,4 @@ Vysvětlení jednotlivých pojmů:
 **RATE -** kurz, poměrné číslo vůči kurzu výchozí měny měny
 
 \*výchozí měnu nastavíte v záložce NASTAVENÍ-&gt;PROSTŘEDÍ-&gt;MĚNA
-
-
 
