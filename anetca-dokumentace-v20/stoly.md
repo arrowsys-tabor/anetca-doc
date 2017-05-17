@@ -1,6 +1,6 @@
 # STOLY
 
--v pokladně lze také rozmístit stoly dle potreby a provozovny.
+-v pokladně lze také rozmístit stoly dle potreby a provozovny.![](/assets/stoly.PNG)
 
 ### Vytvoření nového stolu
 
@@ -23,6 +23,4 @@
 3. Přidejte zboží na účtenku a vytiskněte
 
 **\*toto lze opakovat i pro rozpracované účtenky, které byly vytvořeny pomocí záložky stolů**
-
-
 
