@@ -112,7 +112,8 @@
 
 #### Zboží/dlaždice
 
--seznam zboží je imterpretací založeného zboží v záložce **"ZBOŽÍ" **Tento seznam se zobrazuje ve stylu tzv. dlaždic. V dlaždicích lze listovat pomocí šipek umístěnych pod samotným seznamem
+-seznam zboží je imterpretací založeného zboží v záložce **"ZBOŽÍ" **Tento seznam se zobrazuje ve stylu tzv. dlaždic. V dlaždicích lze listovat pomocí šipek umístěnych pod samotným seznamem  
+![](/assets/Seznam dlazdic + skupiny.PNG)
 
 ## Hledat
 
@@ -124,7 +125,8 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 **Hledání dle PLU** - Zadajte požadované PLU, které je vyplněno u jednotlicých položek zboží.
 
-\*tlačítkem červeného křížku vedle pole hledání vymažete pole hledání
+\*tlačítkem červeného křížku vedle pole hledání vymažete pole hledání  
+![](/assets/Hledání.PNG)
 
 ## Ceny/cenové hladiny
 
@@ -138,7 +140,8 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY**
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY  
+**![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
 
@@ -146,11 +149,12 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 **Počet **- při vkládání zboží na účtenku lze defiinovat i jeho množství. Toto množství lze zadávat i v režimu desetinných míst čili se nezvtahuje pouze na celá čísla.
 
-\*hodnoty množství lze předem nastavit v **"ZBOŽÍ"** a před vložením na účtenku vybrat z roletky
+\*hodnoty množství lze předem nastavit v **"ZBOŽÍ"** a před vložením na účtenku vybrat z roletky  
+![](/assets/Mnozstvi pocet.PNG)
 
 ## Karta
 
--karta neboli slevové karty slouží pro uplatnění slevy. Pro vložení slevové karty je nutné mít kartu založenou v záložce KARTY a následně zadat její číslo. Sleva se uplatní od zadání karty na všechny vložené položky až do jejího odstranění. Více informací najdete v záložce KARTY.
+-karta neboli slevové karty slouží pro uplatnění slevy. Pro vložení slevové karty je nutné mít kartu založenou v záložce KARTY a následně zadat její číslo. Sleva se uplatní od zadání karty na všechny vložené položky až do jejího odstranění. Více informací najdete v záložce KARTY.![](/assets/karty.PNG)
 
 #### 
 
