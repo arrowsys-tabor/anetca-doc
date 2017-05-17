@@ -2,7 +2,7 @@
 
 -v této záložce naleznete informace o firmě, nastavení BITCION plateb, vzdálená pomoc, aktivování licence, kontrola aktualizací, syanchronizace.
 
-**ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**
+**ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**![](/assets/nastaveni - firma.PNG)
 
 ### Informace o firmě
 

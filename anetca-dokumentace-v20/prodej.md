@@ -4,9 +4,7 @@
 
 #### Níže uvedený obrázek ilustruje hlavní účtovací obrazovku systému ANetCa.
 
--níže uvedený obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.
-
-![](/assets/PRODEJ-POL.JPG)
+-níže uvedený obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.![](/assets/Prodej.PNG)
 
 #### Sekce 1 Založení účtenky \(vpravo nahoře\)
 
@@ -43,9 +41,7 @@
 4. V řádkách účtenky je možno přepsat text \(vhodné pro řemeslníky nebo detailnější označení zboží\)  
 5. Vpravo dole je průběžný součet účtenky  
 6. Po stisku tlačítka "TISK" se objeví dialogové okno \(viz  dále\)  
-7. Zde je možno vybrat způsob platby v Kč, cizích měnách, bitcoinem, Bitcoinpay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.
-
-![](/command/sale/img/payment.png)
+7. Zde je možno vybrat způsob platby v Kč, cizích měnách, bitcoinem, Bitcoinpay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.![](/assets/TISK.PNG)
 
 ## Nová účtenka
 
@@ -105,7 +101,8 @@
 
 -na kalkulačce lze vytvořit i položku se zápornou hodnotou. Docílíte toho tak, že zadáte částku, kterou potřebujete odečíst, stisknete symbol "-" a následně správnou sazbu daně.
 
-\*zadávání záporné hodnoty je možné použí také pro storno čili odeslání záporné hodnoty do EET.
+\*zadávání záporné hodnoty je možné použí také pro storno čili odeslání záporné hodnoty do EET.  
+![](/assets/Kalkulačka.PNG)
 
 ## Seznam skupin
 
@@ -115,7 +112,8 @@
 
 #### Zboží/dlaždice
 
--seznam zboží je imterpretací založeného zboží v záložce **"ZBOŽÍ" **Tento seznam se zobrazuje ve stylu tzv. dlaždic. V dlaždicích lze listovat pomocí šipek umístěnych pod samotným seznamem
+-seznam zboží je imterpretací založeného zboží v záložce **"ZBOŽÍ" **Tento seznam se zobrazuje ve stylu tzv. dlaždic. V dlaždicích lze listovat pomocí šipek umístěnych pod samotným seznamem  
+![](/assets/Seznam dlazdic + skupiny.PNG)
 
 ## Hledat
 
@@ -127,7 +125,8 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 **Hledání dle PLU** - Zadajte požadované PLU, které je vyplněno u jednotlicých položek zboží.
 
-\*tlačítkem červeného křížku vedle pole hledání vymažete pole hledání
+\*tlačítkem červeného křížku vedle pole hledání vymažete pole hledání  
+![](/assets/Hledání.PNG)
 
 ## Ceny/cenové hladiny
 
@@ -141,7 +140,8 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY**
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY  
+**![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
 
@@ -149,11 +149,12 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 **Počet **- při vkládání zboží na účtenku lze defiinovat i jeho množství. Toto množství lze zadávat i v režimu desetinných míst čili se nezvtahuje pouze na celá čísla.
 
-\*hodnoty množství lze předem nastavit v **"ZBOŽÍ"** a před vložením na účtenku vybrat z roletky
+\*hodnoty množství lze předem nastavit v **"ZBOŽÍ"** a před vložením na účtenku vybrat z roletky  
+![](/assets/Mnozstvi pocet.PNG)
 
 ## Karta
 
--karta neboli slevové karty slouží pro uplatnění slevy. Pro vložení slevové karty je nutné mít kartu založenou v záložce KARTY a následně zadat její číslo. Sleva se uplatní od zadání karty na všechny vložené položky až do jejího odstranění. Více informací najdete v záložce KARTY.
+-karta neboli slevové karty slouží pro uplatnění slevy. Pro vložení slevové karty je nutné mít kartu založenou v záložce KARTY a následně zadat její číslo. Sleva se uplatní od zadání karty na všechny vložené položky až do jejího odstranění. Více informací najdete v záložce KARTY.![](/assets/karty.PNG)
 
 #### 
 

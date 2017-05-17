@@ -1,4 +1,4 @@
-# DPH, SKUPINY, CENY
+# DPH, SKUPINY, CENY![](/assets/Nastaveni - DPH.PNG)
 
 ## Sazba DPH
 
@@ -19,8 +19,6 @@
 3. Sazba je nyní odstraněna
 
 **\*pokud je sazba použita již ve zboží nebude možné ji odstranit. V takovémto případě ale samozřejmě nepřekáží v chodu a lze ji ponechat**
-
-
 
 ## Skupiny
 
@@ -44,7 +42,7 @@
 
 ## Ceny - cenové hladiny
 
--v pokladně ANetCa jzevolit cenové hladiny. Počet cenových hladin není nijak omezený. Cenové hladiny se používaji především tam kde potřebujete rozdělit různé ceny různým skupinám zákazniků. Například CENA A, CENA B, CENA C, VIP...atp.
+-v pokladně ANetCa lze volit cenové hladiny. Počet cenových hladin není nijak omezený. Cenové hladiny se používaji především tam kde potřebujete rozdělit různé ceny různým skupinám zákazniků. Například CENA A, CENA B, CENA C, VIP...atp.![](/assets/nastaveni - dph - cenove hladiny.PNG)
 
 ### Vytvoření nové cenové hladiny
 
@@ -56,15 +54,7 @@
 
 **VAROVÁNÍ: NASTAVENÍ CENOVÝCH HLADIN DOPORUČUJEME MĚNIT JEN ZKUŠENÝM UŽIVATELŮM. MŮŽE MÍT ZA NÁSLEDEK NEFUNKČNOST PROGRAMU!!!**
 
-
-
 ### IMPORT - HROMADNÉ VKLÁDÁNÍ DAT
 
 -VÍCE INFORMACÍ A VZOROVOU TABULKU PRO IMPORT NALEZNETE V SEKCI **"PRÁCE S DATY-&gt;IMPORT"**
-
-
-
-
-
-
 
