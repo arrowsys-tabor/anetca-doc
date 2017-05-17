@@ -22,11 +22,19 @@ Zobrazit klávesnici při vyplňování číselných hodnot - zobrazí numericko
 
 \*při vkládání korunové položky je nutné prvně vyplnitdo kolonky POČET
 
-**Oddělit položky stejného typu na účtence -**
+**Oddělit položky stejného typu na účtence - **oddělí stejné položýky na rozpracované účtence, kdy každá z nich je na samostatném řádku.
 
-**Vyžádat přihlášení při spuštění pokladny -**
+Příklad:
 
-**Povolit uzavření kasy s otevřenými účtenkami -**
+Kofola 0,2l     12kč   1ks
+
+Kofola 0,2l     12kč   1ks
+
+**Vyžádat přihlášení při spuštění pokladny - **při spuštění pokladny ANetCa se vždy objeví dialog pro přihlášení. Je nutné zvolit patřičný uživatelský účet a následně zadat heslo.
+
+\*pokud heslo není na uživatelském účtu nastaveno, stačí pouze vybrat účet a stisknout tlačítko "PŘIHLÁŠENÍ"
+
+**Povolit uzavření kasy s otevřenými účtenkami -**povolí uzavřít pokladnu v záložce KASA-&gt;UZÁVĚRKA POKLADNY
 
 **Jazyk -** nastavení jazyku programu. Je možno zvolit ČESTINU, ANGLIČTINU a nově i VIETNAMŠTINU.
 
