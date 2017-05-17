@@ -20,9 +20,9 @@ Zobrazit klávesnici při vyplňování číselných hodnot - zobrazí numericko
 
 **Přidat zboží na účtenku po stiknutí tlačítka -** zrychlený režim vkládání zboží na rozpracovanou účtenku. Po kliknutí na danou dlaždici se automaticky vloží toto zboží na účtenku a nemusí se potvrdit tlačítkem PŘIDAT NA ÚČTENKU
 
-\*při vkládání korunové položky je nutné prvně vyplnitdo kolonky POČET 
+\*při vkládání korunové položky je nutné prvně vyplnitdo kolonky POČET
 
-**Oddělit položky stejného typu na účtence -** 
+**Oddělit položky stejného typu na účtence -**
 
 **Vyžádat přihlášení při spuštění pokladny -**
 
