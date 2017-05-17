@@ -101,7 +101,8 @@
 
 -na kalkulačce lze vytvořit i položku se zápornou hodnotou. Docílíte toho tak, že zadáte částku, kterou potřebujete odečíst, stisknete symbol "-" a následně správnou sazbu daně.
 
-\*zadávání záporné hodnoty je možné použí také pro storno čili odeslání záporné hodnoty do EET.
+\*zadávání záporné hodnoty je možné použí také pro storno čili odeslání záporné hodnoty do EET.  
+![](/assets/Kalkulačka.PNG)
 
 ## Seznam skupin
 
