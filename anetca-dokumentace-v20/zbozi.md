@@ -1,22 +1,20 @@
 # ZBOŽÍ
 
--pokud chcete používat dlaždice/položky na hlavní obrazovce "PRODEJ" je nutné v první řadě založit i nové ZBOŽÍ. 
-
-
+-pokud chcete používat dlaždice/položky na hlavní obrazovce "PRODEJ" je nutné v první řadě založit i nové ZBOŽÍ.![](/assets/Zbozí.PNG)
 
 ### Založení nového zboží
 
 1. Přejděte do záložky "ZBOŽÍ"
 2. Stiskněte tlačítko "NOVÝ"
 3. Vyplňte NÁZEV, CENU, POČET/JEDNOTKA, ČASTÉ MNOŽSTVÍ, DPH, SKUPINU
-4. stiskněte "PŘIDAT"
+4. stiskněte "PŘIDAT"![](/assets/Nova polozka.PNG)
 
 ### Smazání karty zboží
 
 1. označte v levé polovině obrazovky kartu zboží, kterou potřebujete smazat
 2. stiskněte symbol křížku v levém dolním rohu 
 
-\*pokud je již zboží zahrnuto v tržbách, což znamená, že je již použito na účtence, zboží nelze smazat. 
+\*pokud je již zboží zahrnuto v tržbách, což znamená, že je již použito na účtence, zboží nelze smazat.
 
 ### Hledání zboží
 
@@ -48,8 +46,6 @@ Přidám slevovou položku 20% a vsekci PRODEJ vložím do pole pro počet v hor
 
 Stisknu tlačítko "PŘIDAT POLOŽKU"  a následně se mi zloží na účtenku položkas hodnotou -20
 
-
-
 ### Korunová položka
 
 -používá se především jako náhrada variabilní ceny. Touto položkou a správným postupem lze docílit ceny, kterou požadujete.
@@ -78,9 +74,9 @@ Nyní se chová takto založená položka jako položka s variabilní cenou. Př
 
 **Skupina - **skupina, ve které se zboží nachází.Je nutné, aby každé zboží bylo ve skupině.
 
-**\***skupiny lze vytvářet v záložce **"NASTAVENÍ-&gt;DPH, SKUPINY, CENY"** 
+**\***skupiny lze vytvářet v záložce **"NASTAVENÍ-&gt;DPH, SKUPINY, CENY"**
 
-**Text na účtence - **název zboží zobrazovaný na účtence. 
+**Text na účtence - **název zboží zobrazovaný na účtence.
 
 **\***tuto kolonku není nutné vyplňovat
 
@@ -92,15 +88,7 @@ Nyní se chová takto založená položka jako položka s variabilní cenou. Př
 
 **Pověřující DIČ - **neboli prodej v zastoupení. Pokud prodáváte zboží na jiný subjekt, tak do tohoto pole vyplňte DIČ subjektu. Na účtence bude zaznamenáno toto DIČ a platba odejde do EET také pod tímto DIČ.
 
-
-
 sleva
 
 korunova polozka
-
-
-
-
-
-
 
