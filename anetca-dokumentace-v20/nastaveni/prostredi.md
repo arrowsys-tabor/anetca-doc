@@ -32,7 +32,8 @@ Kofola 0,2l     12kč   1ks
 
 **Vyžádat přihlášení při spuštění pokladny - **při spuštění pokladny ANetCa se vždy objeví dialog pro přihlášení. Je nutné zvolit patřičný uživatelský účet a následně zadat heslo.
 
-\*pokud heslo není na uživatelském účtu nastaveno, stačí pouze vybrat účet a stisknout tlačítko "PŘIHLÁŠENÍ"
+\*pokud heslo není na uživatelském účtu nastaveno, stačí pouze vybrat účet a stisknout tlačítko "PŘIHLÁŠENÍ"  
+![](/assets/heslo vystrizek.png)
 
 **Povolit uzavření kasy s otevřenými účtenkami -**povolí uzavřít pokladnu v záložce KASA-&gt;UZÁVĚRKA POKLADNY
 
