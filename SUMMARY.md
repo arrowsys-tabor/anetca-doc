@@ -66,7 +66,7 @@
   * [KASA](anetca-dokumentace-v20/kasa.md)
   * [STOLY](anetca-dokumentace-v20/stoly.md)
   * [PŘEHLEDY](anetca-dokumentace-v20/prehledy.md)
-    * KASA DNES
+    * [KASA DNES](anetca-dokumentace-v20/prehledy/kasa-dnes.md)
     * KASA ZA OBDOBÍ
     * TRŽBY SMĚNA
     * TRŽBY DNES

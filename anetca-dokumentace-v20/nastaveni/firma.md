@@ -28,7 +28,7 @@
 
 **Stanice - **číslo stanice na dané provozovně. Standartně se volí 1. Pokud máte více pokladen na provozovně je dobré je oddělit svým unikátním číslem
 
-**Provozovna -** číslo Vaší provozovny. Pokud máte více provozoven, je dobré tyto provozovny oddělit svým nikátním číslem
+**Provozovna -** číslo Vaší provozovny. Pokud máte více provozoven, je dobré tyto provozovny oddělit svým unikátním číslem
 
 **EET Provozovna - **nejdůležitější údaj pro vyplnění. Číslo EET PROVOZOVNY naleznete na Daňovém portále po založení provozovny
 
