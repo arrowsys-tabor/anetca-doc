@@ -10,33 +10,33 @@
 
 1. Účtenku založíme tlačítkem ** „NOVÁ ÚČTENKA“**  
 2. Účtenku zrušíme tlačítkem Červený křížek v kolečku – účtenka musí být prázná  
-3. Z více účtenek vybereme danou kliknutím na tuto účtenku  
-4. Text na účtence je možno přepsat \(např. Stů 9, Paní v černém, jarda, atd.\)  
+3. Z více účtenek vybereme danou kliknutím na tuto účtenku.
+4. Text na účtence je možno přepsat \(např. Stů 9, Paní v černém, jarda, atd.\).  
 5. Účtenkový pás je nekonečný – posouvá se stiskem šipky v kolečku vpravo nebo vlevo.
 
 #### Sekce 2 Výběr zboží \(vlevo dole\)
 
-1. Po spuštění programu se zobrazí všechny založené položky  
+1. Po spuštění programu se zobrazí všechny založené položky.
 2. Pás skupin je nekonečný – posouvá se stiskem šipky v kolečku vpravo nebo vlevo.  
-3. Stiskem na skupinu lze vyfiltrovat položky v dané skupině \(viz obrázek dále\)  
-4. Stiskem na tlačítko **"POLOŽKY"** položku vybereme a doplní se základní definované množství  
-5. Pás položek je nekonečný – posouvá se stiskem šipky v kolečku vpravo nebo vlevo pod tlačítky položek
-6. Stiskněte TISK
-7. Potvrďte odeslání účtenky na finanční úřad pomocí tlačítka **fajfy**
-8. Vyčkejte na tisk
+3. Stiskem na skupinu lze vyfiltrovat položky v dané skupině.
+4. Stiskem na tlačítko **"POLOŽKY"** položku vybereme a doplní se základní definované množství. 
+5. Pás položek je nekonečný – posouvá se stiskem šipky v kolečku vpravo nebo vlevo pod tlačítky položek.
+6. Stiskněte **TISK** pro dokonočení účtenky.
+7. Odeslání účtenky na finanční úřad provedete pomocí stisknutí tlačítka **fajfy.**
+8. Vyčkejte na tisk.
 
 #### Sekce 3 Kalkulačkový prodej \(vpravo dole\)
 
 1. Založte novou účtenku \(viz. Sekce 1\)
 2. Zadejte částku a potvrďte správným tlačítkem daně. Toto tlačítko slouží jako znaménko** "="** na běžné kalkulačce
-3. Stiskněte TISK
-4. Potvrďte odeslání účtenky na finanční úřad pomocí tlačítka **fajfky**
-5. Vyčkejte na tisk
+3. Stiskněte **TISK** pro dokonočení účtenky.
+4. Odeslání účtenky na finanční úřad provedete pomocí stisknutí tlačítka **fajfy.**
+5. Vyčkejte na tisk.
 
 #### Sekce 4  Účtenka a tisk \(vpravo dole\)
 
-1. Tlačítko „PŘIDAT POLOŽKU“ přidá již dříve vybranou položku do účtenky i opakovaně  
-2. Tlačítko „TISK“ účtenku vytiskne a pevně uloží  
+1. Tlačítko „PŘIDAT POLOŽKU“ přidá již dříve vybranou položku do účtenky i opakovaně.
+2. Tlačítko „TISK“ účtenku vytiskne a pevně uloží.  
 3. Zaškneme-li čtverec před položku v účtence, lze ji pak stiskem červeného křížku v kolečku smazat  
 4. V řádkách účtenky je možno přepsat text \(vhodné pro řemeslníky nebo detailnější označení zboží\)  
 5. Vpravo dole je průběžný součet účtenky  
@@ -140,7 +140,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY    
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY        
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
