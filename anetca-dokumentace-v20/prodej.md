@@ -11,7 +11,7 @@
 1. Účtenku založíme tlačítkem ** „NOVÁ ÚČTENKA“**  
 2. Účtenku zrušíme tlačítkem Červený křížek v kolečku – účtenka musí být prázná  
 3. Z více účtenek vybereme danou kliknutím na tuto účtenku  
-4. Text na účtence je možno přepsat \(nap5. Stů 9, Paní v černém, jarda, atd.\)  
+4. Text na účtence je možno přepsat \(např. Stů 9, Paní v černém, jarda, atd.\)  
 5. Účtenkový pás je nekonečný – posouvá se stiskem šipky v kolečku vpravo nebo vlevo.
 
 #### Sekce 2 Výběr zboží \(vlevo dole\)
@@ -140,7 +140,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY  
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY    
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
