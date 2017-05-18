@@ -1,10 +1,10 @@
 # ZAŘÍZENÍ
 
-Platební terminál -
+**Platební terminál -**
 
-Bluetooth tiskárna -
+**Bluetooth tiskárna -**
 
-StarPRNT mód -![](/assets/zarizeni.PNG)
+**StarPRNT mód -**![](/assets/zarizeni.PNG)
 
 ### Návod pro spárování Bluetooth tiskárny:
 
