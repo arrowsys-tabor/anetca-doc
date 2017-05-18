@@ -8,9 +8,7 @@
 
 **BLUETOOTH TISK -** vygeneruje seznam zboží na BT tiskárnu
 
-
-
 Z nástrojové lišty lze tisknout či generovat seznam do souboru.
 
-\*EXCEL, WORD, PDF
+\*formát generování do souboru EXCEL, PDF, WORD
 
