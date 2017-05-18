@@ -2,8 +2,6 @@
 
 -exportuje tržby za Vámi zvolené období do standartních formátů .csv a .xml
 
-
-
 ### LOKÁLNÍ EXPORT
 
 1. Přejděte do záložky PŘEHLEDY-&gt;EXPORT
@@ -20,7 +18,5 @@
 3. Vyberte formát EXPORTU
 4. Stiskněte tlačítko ODESLAT NA EMAIL
 
-\*v NASTAVENÍ-&gt;EMAIL PŘÍJEMCE EXPORTU nastavíte email kam se export má standartně zaslat
-
-
+\*v NASTAVENÍ-&gt;EMAIL PŘÍJEMCE EXPORTU nastavíte email kam se export má standartně zaslat![](/assets/TRZBY - EXPORT.PNG)
 
