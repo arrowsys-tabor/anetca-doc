@@ -1,6 +1,6 @@
 # ÚČTY
 
--užívatelské účty slouží k rozdělení obsluhy. Pokud je zvolen uživatelský účet je jméno obsluhy tištěno na účtence. Takto lze určit kdo vydával tu danou účtenku.
+-užívatelské účty slouží k rozdělení obsluhy. Pokud je zvolen uživatelský účet je jméno obsluhy tištěno na účtence. Takto lze určit kdo vydával tu danou účtenku.![](/assets/ucty.PNG)
 
 ### Založení uživatelského účtu
 
@@ -15,7 +15,7 @@
 2. Změňte požadované položky
 3. Stiskněte tlačítko ULOŽIT
 
-###  Smazání uživatelského účtu
+### Smazání uživatelského účtu
 
 1. Označte účet
 2. Stiskněte symbol červeného křížku na pravé straně
@@ -44,8 +44,4 @@
 **PIN storna -** pro operace jako je stornování účtenky či zadávání záporné hodnoty zboží na kalkulačce je možné toto blokovat PIN kódem. Obsluze, která nemá tyto operace provádět bude touto volbou znemožněno provést STORNO
 
 **Směna od - do -** vymezuje směnu obsluhy
-
-
-
-
 
