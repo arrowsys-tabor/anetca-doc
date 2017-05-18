@@ -42,7 +42,7 @@
 
 ## Ceny - cenové hladiny
 
--v pokladně ANetCa lze volit cenové hladiny. Počet cenových hladin není nijak omezený. Cenové hladiny se používaji především tam kde potřebujete rozdělit různé ceny různým skupinám zákazniků. Například CENA A, CENA B, CENA C, VIP...atp.![](/assets/nastaveni - dph - cenove hladiny.PNG)
+-v pokladně ANetCa lze volit cenové hladiny. Počet cenových hladin není nijak omezený. Cenové hladiny se používaji především tam kde potřebujete rozdělit různé ceny různým skupinám zákazniků. Například CENA A, CENA B, CENA C, VIP...atp.![](/assets/ceny.png)
 
 ### Vytvoření nové cenové hladiny
 
