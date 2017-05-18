@@ -18,7 +18,7 @@
 
 1. Vytvořte nový list
 2. Stiskněte tlačítko TISKNOUT
-3. Vyberte pomocí tlačítkové lišty ikonku tiskárny a zvolte tiskárnu, na kterou se má tisknout.
+3. Vyberte pomocí tlačítkové lišty ikonku tiskárny a zvolte tiskárnu, na kterou se má tisknout.![](/assets/TRZBY - smena.PNG)
 
 
 
