@@ -2,9 +2,7 @@
 
 -slouží k nastavení prostředí celého programu. Především, tiskových režimů, řazení, měny, jazyku, zrychlené volby vkládání pouhým kliknutím na zboží nebo například oddělení položek  stejného typu na účtence.
 
-Zobrazit klávesnici při vyplňování číselných hodnot - zobrazí numerickou klávesnici při kliknutí do pole, kde by se měla zadávat hodnota. Zjednodušuje tak práci především na dotykových obrazovkách
-
-**Tisknout úzké sestavy - 70mm -** přizpůsobuje tiskovou sestavu na 70mm tisk.
+Zobrazit klávesnici při vyplňování číselných hodnot - zobrazí numerickou klávesnici při kliknutí do pole, kde by se měla zadávat hodnota. Zjednodušuje tak práci především na dotykových obrazovkách![](/assets/Prostredi.PNG)**Tisknout úzké sestavy - 70mm -** přizpůsobuje tiskovou sestavu na 70mm tisk.
 
 \*pozor: se zapnutým režimem 70mm tisku se na 58mm tiskárně a následně vytištěné účtence nezobrazuje celá tisková sestava, a proto je nutné nastavit režim 58mm tisku.
 
