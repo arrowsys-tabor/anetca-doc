@@ -30,7 +30,7 @@
 
 **Provozovna -** číslo Vaší provozovny. Pokud máte více provozoven, je dobré tyto provozovny oddělit svým unikátním číslem
 
-**EET Provozovna - **nejdůležitější údaj pro vyplnění. Číslo EET PROVOZOVNY naleznete na Daňovém portále po založení provozovny
+**EET Provozovna - **nejdůležitější údaj pro vyplnění. Číslo **EET PROVOZOVNY** naleznete na **Daňovém portále** po založení provozovny
 
 \*Založení provozovny na Daňovém portálu je nutné provést následně pro zapsání správného čísla EET provozovny do programu.
 
@@ -42,7 +42,7 @@
 
 **Neprodukční -** toto pole je pouze pro interní zkušební účely a běžnému uživateli se nedoporučuje zaškrtnout
 
-Zjednodušený režim - režim, kdy subjekt má špatnou dostupnost internetu a znemožňuje se mu odesílání do EET. Vyjímku k tomuto režimu lze sjednat na finančním úřadě, poté lze režim aktivovat. Vyjímky se vystavují vyjímečně, a to ze závažných důvodů
+**Zjednodušený režim** - režim, kdy subjekt má špatnou dostupnost internetu a znemožňuje se mu odesílání do EET. Vyjímku k tomuto režimu lze sjednat na finančním úřadě, poté lze režim aktivovat. Vyjímky se vystavují vyjímečně, a to ze závažných důvodů
 
 **NEJSEM PLÁTCE DPH -** pokud nejste plátcem DPH, zaškrtněte. Tato poznámka se tiskne následně na účtence
 
