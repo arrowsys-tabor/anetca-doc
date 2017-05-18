@@ -2,13 +2,9 @@
 
 -zde naleznete seznam všech provedených účtenek v EET pokladně ANetCa.Lze také opětovně odeslat účtenky, které nebylo možné odeslat řádně do EET například z důvodu výpadku internetu. či provést dotisk účtenky.
 
-
-
 **Účtenky směny -** pořízené pčtenky za období od poslední uzávěrky do teď
 
 **Účtenky archívu -** po provedení uzávěrky KASY se převedou všechny účtenky z účtenek směny do účtenek archívu.
-
-
 
 ### Zobrazení účtenky ze seznamu
 
@@ -25,6 +21,8 @@
 
 \*před tiskem je dobré zkontrolovat, zda-li je tiskárna zapnutá a jestli je v ní papír.
 
+**\*\*účtenka lze také vygenrovat pomocí tlačítkové lišty do formátu EXCEL, PDF  a WORD**
+
 ### Opětovný tisk účtenky Bluetooth tiskárna
 
 1. Zobrazte náhled účtenky
@@ -32,6 +30,8 @@
 3. Účtenka se vytiskne na vybrané BT tiskárně
 
 \*před tiskem je dobré zkontrolovat, zda-li je tiskárna spárovaná s operačním systémem, správně nastavená v pokladně ANetCa, zapnutá a jestli je v ní papír.
+
+**\*\*účtenka lze také vygenrovat pomocí tlačítkové lišty do formátu EXCEL, PDF  a WORD**
 
 ### Storno vybrané účtenky
 
@@ -56,10 +56,6 @@
 3. Stiskněte tlačítko TISKNOUT, které zobrazí náhled účtenek pro vytištění
 4. V horní části náhledu zvolte symbol tiskárny z nástrojové lišy
 5. Potvrďte tisk
-
-
-
-
 
 
 
