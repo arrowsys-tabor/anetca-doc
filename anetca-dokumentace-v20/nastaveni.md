@@ -8,3 +8,7 @@ V "NASTAVENÍ" naleznete prakticky vše, co se v programu nastavuje.
 
 **DPH, SKUPINY, CENY: **v této záložce naleznete informace o vytvoření a změnách DPH sazeb,Skupinách produktů a jejich cenách.
 
+**KURZY**: V této záložce lze vytvářet nové, mazat či upravovat kurz nové či stávající měny.
+
+**ÚČTY**: V této záložce lze vytvářet nové, mazat či upravovat účty jednotlivých uživatelů pokladny.
+
