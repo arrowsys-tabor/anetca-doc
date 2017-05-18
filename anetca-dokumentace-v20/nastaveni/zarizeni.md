@@ -4,7 +4,7 @@
 
 **Bluetooth tiskárna -**
 
-**StarPRNT mód -**![](/assets/zarizeni.PNG)
+**StarPRINT mód -**![](/assets/zarizeni.PNG)
 
 ### Návod pro spárování Bluetooth tiskárny:
 
@@ -17,7 +17,7 @@
 
 \*při párování tiskárny se ujistěte, že máte tiskárnu připojenou k elektrické síti, zapnutou a vložený kotouček s papírem.
 
-**Automaticky tisknout účtenky\(pokud nejsou zvoleny tiskárny, použita je výchozí\) -** pokud máte v systému windows nastavenou výchozí tiskárnu, stačí zatrhnout toto pole a účtenka bude vytištena na tuto tiskárnu. Pokud chcete určit jinou tiskárnu, nechte pole zaškrtnuté a vyberte z roletky HLAVNÍ TISKÁRNU.
+**Automaticky tisknout účtenky\(pokud nejsou zvoleny tiskárny, použita je výchozí\) -** pokud máte v systému windows nastavenou výchozí tiskárnu, stačí zatrhnout toto pole a účtenka bude vytištena na tuto tiskárnu. Pokud chcete určit jinou tiskárnu, nechte pole zaškrtnuté a vyberte z roletky HLAVNÍ TISKÁRNA.
 
 **Otevírat pokladní zásuvku při tisku účtenky. \(Bluetooth\) -** pokud máte připojenou pokladní zásuvku je nutné mít aktivní tuto volbu. Program se poté postara o zaslání impulsu na otevření pokladní zásuvky.
 
