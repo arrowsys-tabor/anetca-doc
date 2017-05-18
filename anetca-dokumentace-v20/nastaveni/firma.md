@@ -76,7 +76,7 @@
 
 ### Zkontrolovat aktualizace
 
--po stisknutí tohoto tlačítka vyčkejte než program zkontroluje platnost licence a klikněte na tlačítko AKTUALIZOVAT. Následně se program spoji serverem, kde stáhne potřebné aktualizační soubory a zeptá se na ukončení programu ANETCA. Stiskněte ANO
+-po stisknutí tohoto tlačítka vyčkejte než program zkontroluje platnost licence a klikněte na tlačítko AKTUALIZOVAT. Následně se program spoji serverem, kde stáhne potřebné aktualizační soubory a zeptá se na ukončení programu ANETCA. Stiskněte **ANO**
 
 1. Stiskněte tlačítko zkontrolovat aktualizace a vyčkejte než program zkontroluje, zda není nová verze pokladny ANetCa k dispozici
 2. Jakmile se ověří licence, stiskněte tlačítko AKTUALIZOVAT
