@@ -55,7 +55,7 @@
 2. V poli VÝBĚR vyberte hodnotu účtenek, které se mají vygenerovat v daném období
 3. Stiskněte tlačítko TISKNOUT, které zobrazí náhled účtenek pro vytištění
 4. V horní části náhledu zvolte symbol tiskárny z nástrojové lišy
-5. Potvrďte tisk
+5. Potvrďte tisk![](/assets/OSTATNI - UCTENKY.PNG)
 
 
 
