@@ -7,7 +7,7 @@ DNES je definováno jako obodbí od posledního uzavření pokladny do TEĎ.
 ### Vygenerování přehledu pokladních operací KASA DNES
 
 1. Přejděte do záložky PŘEHLEDY-&gt;KASA DNES
-2. Vyberte formát tiskové sestavy \(úzký tisk, A4 tisk, Bluetooth tisk\)
+2. Vyberte formát tiskové sestavy \(úzký tisk, A4 tisk, Bluetooth tisk\) - jednotlivými tlačítkyvygenerujete náhled přehledu
 3. Vytiskněte pomocí tlačítkové lišty\(ikonka tiskárny\) nebo vygenerujte do formátu EXCEL, PDF, WORD po kliknutí na obrázek diskety.
 4. Potvrďte
 
@@ -17,5 +17,5 @@ DNES je definováno jako obodbí od posledního uzavření pokladny do TEĎ.
 
 **Bluetooth tisk -** generuje tiskovou sestavu pro Bluetooth tiskárnu
 
-Pouze za účtujícího - Při zaškrtnutí tohoto pole, se provede výpis pouze za aktuálně přihlášeného uživatele. Více informací naleznete v záložce NASTAVENÍ-&gt;ÚČTY
+**Pouze za účtujícího -** Při zaškrtnutí tohoto pole, se provede výpis pouze za aktuálně přihlášeného uživatele. Více informací naleznete v záložce NASTAVENÍ-&gt;ÚČTY
 
