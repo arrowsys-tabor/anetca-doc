@@ -1,16 +1,12 @@
 # Terminál
 
--pokud vlastníte bankovní terminál je nutné jej mít správně nastavený. 
-
-
+-pokud vlastníte bankovní terminál je nutné jej mít správně nastavený.
 
 ### Podporované terminály:
 
 ČSOB - ICT220
 
-KB - 
-
-
+KB -
 
 Uzávěrka - provede uzávěrku terminálu za dané období od poslední uzávěrky.
 
@@ -18,5 +14,5 @@ Uzávěrka - provede uzávěrku terminálu za dané období od poslední uzávě
 
 Mezisoučet - vytiskne na terminálu souhrn pohybů od poslední uzávěrky do teď.
 
-\*pouze přehled terminálových transakcí za dané období.
+\*pouze přehled terminálových transakcí za dané období.![](/assets/OSTATNI - terminal.PNG)
 
