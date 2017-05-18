@@ -10,7 +10,5 @@
 
 Z nástrojové lišty lze tisknout či generovat seznam do souboru.
 
-\*formát generování do souboru EXCEL, PDF, WORD
-
-
+\*formát generování do souboru EXCEL, PDF, WORD![](/assets/OSTATNI - Produkty.PNG)
 
