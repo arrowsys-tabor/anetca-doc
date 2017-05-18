@@ -67,13 +67,13 @@
   * [STOLY](anetca-dokumentace-v20/stoly.md)
   * [PŘEHLEDY](anetca-dokumentace-v20/prehledy.md)
     * [KASA DNES](anetca-dokumentace-v20/prehledy/kasa-dnes.md)
-    * KASA ZA OBDOBÍ
-    * TRŽBY SMĚNA
-    * TRŽBY DNES
-    * TRŽBY ZA OBDOBÍ
-    * TRŽBY EXPORT
-    * PRODUKTY
-    * ÚČTENKY
+    * [KASA ZA OBDOBÍ](anetca-dokumentace-v20/prehledy/kasa-za-obdobi.md)
+    * [TRŽBY SMĚNA](anetca-dokumentace-v20/prehledy/trzby-smena.md)
+    * [TRŽBY DNES](anetca-dokumentace-v20/prehledy/trzby-dnes.md)
+    * [TRŽBY ZA OBDOBÍ](anetca-dokumentace-v20/prehledy/trzby-za-obdobi.md)
+    * [TRŽBY EXPORT](anetca-dokumentace-v20/prehledy/trzby-export.md)
+    * [PRODUKTY](anetca-dokumentace-v20/prehledy/produkty.md)
+    * [ÚČTENKY](anetca-dokumentace-v20/prehledy/uctenky.md)
     * [TERMINÁL](anetca-dokumentace-v20/prehledy/terminal.md)
   * [KARTY](anetca-dokumentace-v20/karty.md)
 
