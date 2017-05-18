@@ -33,7 +33,7 @@
 4. Odeslání účtenky na finanční úřad provedete pomocí stisknutí tlačítka **fajfy.**
 5. Vyčkejte na tisk.
 
-#### Sekce 4  Účtenka a tisk \(vpravo dole\)
+#### Sekce 4  Účtenka a tisk \(vpravo nahoře\)
 
 1. Tlačítko „PŘIDAT POLOŽKU“ přidá již dříve vybranou položku do účtenky i opakovaně.
 2. Tlačítko „TISK“ účtenku vytiskne a pevně uloží.  
@@ -140,7 +140,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY        
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY          
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
