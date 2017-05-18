@@ -4,7 +4,7 @@ Platební terminál -
 
 Bluetooth tiskárna -
 
-StarPRNT mód -
+StarPRNT mód -![](/assets/zarizeni.PNG)
 
 ### Návod pro spárování Bluetooth tiskárny:
 
@@ -36,6 +36,4 @@ StarPRNT mód -
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 **Nastavení zákaznického displaye - **zde vyplňte text při neaktivitě zákaznického displaye a uložte. Doba neaktivity lze měnit případnou utilitou na cd přiloženém k zákaznickému displayi.
-
-
 
