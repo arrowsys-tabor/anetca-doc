@@ -1,4 +1,4 @@
-# Kasa DNES ss
+# Kasa DNES
 
 
 
