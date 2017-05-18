@@ -73,7 +73,7 @@
     * TRŽBY ZA OBDOBÍ
     * TRŽBY EXPORT
     * PRODUKTY
-    * ÚČTENKY
+    * [ÚČTENKY](anetca-dokumentace-v20/prehledy/uctenky.md)
     * [TERMINÁL](anetca-dokumentace-v20/prehledy/terminal.md)
   * [KARTY](anetca-dokumentace-v20/karty.md)
 
