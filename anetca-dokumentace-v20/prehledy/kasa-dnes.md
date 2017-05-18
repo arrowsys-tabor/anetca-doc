@@ -1,12 +1,10 @@
 # Kasa DNES
 
--kasa dnes generuje přehled pokladních operací za období DNES. 
+-kasa dnes generuje přehled pokladních operací za období DNES.
 
 DNES je definováno jako obodbí od posledního uzavření pokladny do TEĎ.
 
-
-
-### Vygenerování pokladních operací KASA DNES
+### Vygenerování přehledu pokladních operací KASA DNES
 
 1. Přejděte do záložky PŘEHLEDY-&gt;KASA DNES
 2. Vyberte formát tiskové sestavy \(úzký tisk, A4 tisk, Bluetooth tisk\)
@@ -19,10 +17,5 @@ DNES je definováno jako obodbí od posledního uzavření pokladny do TEĎ.
 
 **Bluetooth tisk -** generuje tiskovou sestavu pro Bluetooth tiskárnu
 
-  
 Pouze za účtujícího - Při zaškrtnutí tohoto pole, se provede výpis pouze za aktuálně přihlášeného uživatele. Více informací naleznete v záložce NASTAVENÍ-&gt;ÚČTY
-
-
-
-
 
