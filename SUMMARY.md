@@ -74,6 +74,6 @@
     * TRŽBY EXPORT
     * PRODUKTY
     * ÚČTENKY
-    * TERMINÁL
+    * [TERMINÁL](anetca-dokumentace-v20/prehledy/terminal.md)
   * [KARTY](anetca-dokumentace-v20/karty.md)
 
