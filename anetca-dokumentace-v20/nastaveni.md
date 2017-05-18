@@ -12,3 +12,9 @@ V "NASTAVENÍ" naleznete prakticky vše, co se v programu nastavuje.
 
 **ÚČTY**: V této záložce lze vytvářet nové, mazat či upravovat účty jednotlivých uživatelů pokladny.
 
+**KONFUGURACE: **Naleznete zde nastavení certifikátu, umístění souborů pro aktualizaci a exportní cesty.
+
+**PROSTŘEDÍ: **V této záložce naleznete nastavení tiskových režimů, řazení, měny, jazyku, zrychlené volby vkládání pouhým kliknutím na zboží nebo například oddělení položek  stejného typu na účtence.
+
+**ZAŘÍZENÍ: **
+
