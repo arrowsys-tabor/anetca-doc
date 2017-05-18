@@ -16,5 +16,9 @@ V "NASTAVENÍ" naleznete prakticky vše, co se v programu nastavuje.
 
 **PROSTŘEDÍ: **V této záložce naleznete nastavení tiskových režimů, řazení, měny, jazyku, zrychlené volby vkládání pouhým kliknutím na zboží nebo například oddělení položek  stejného typu na účtence.
 
-**ZAŘÍZENÍ: **
+**ZAŘÍZENÍ: **V této sekci naleznete nastavení připojených zařízení jako jsou tiskárny, váhy a nebo platebního terminálu.
+
+**ÚČTENKA: **V této sekci naleznete nastavení vzhledu účtenky a nebo způsob počítání číselné řady účtenky.
+
+**ZÁLOHA: **V této sekci naleznete možnost zálohy nastavení a dat na externí disk.
 
