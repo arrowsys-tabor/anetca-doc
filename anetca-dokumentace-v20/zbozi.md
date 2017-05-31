@@ -1,6 +1,6 @@
 # ZBOŽÍ
 
-pokud chcete používat dlaždice/položky na hlavní obrazovce "PRODEJ" je nutné v první řadě založit i nové ZBOŽÍ.![](/assets/Zbozí.PNG)
+pokud chcete používat dlaždice/položky na hlavní obrazovce "PRODEJ" je nutné v první řadě založit i nové ZBOŽÍ.![](/assets/Zbozí.PNG)![](/assets/Zbozí.PNG)
 
 ### Založení nového zboží
 
@@ -87,8 +87,4 @@ Nyní se chová takto založená položka jako položka s variabilní cenou. Př
 **PLU - **je uživatelsky měnitelný kód. Slouží pro zjednodušené vkládání pomocí kalkulačky. Pomocí PLU lze hledat zboží v obsahu na záložce **"PRODEJ"**
 
 **Pověřující DIČ - **neboli prodej v zastoupení. Pokud prodáváte zboží na jiný subjekt, tak do tohoto pole vyplňte DIČ subjektu. Na účtence bude zaznamenáno toto DIČ a platba odejde do EET také pod tímto DIČ.
-
-sleva
-
-korunova polozka
 

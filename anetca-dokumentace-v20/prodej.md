@@ -140,7 +140,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY              
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
@@ -154,7 +154,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 ## Karta
 
--karta neboli slevové karty slouží pro uplatnění slevy. Pro vložení slevové karty je nutné mít kartu založenou v záložce KARTY a následně zadat její číslo. Sleva se uplatní od zadání karty na všechny vložené položky až do jejího odstranění. Více informací najdete v záložce KARTY.![](/assets/karty.PNG)
+-karta neboli slevové karty slouží pro uplatnění slevy. Pro vložení slevové karty je nutné mít kartu založenou v záložce KARTY a následně zadat její číslo. Sleva se uplatní od zadání karty na všechny vložené položky až do jejího odstranění. Více informací najdete v záložce KARTY.![](/assets/KARTA.JPG)
 
 #### 
 

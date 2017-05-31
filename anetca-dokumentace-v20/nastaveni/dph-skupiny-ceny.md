@@ -1,8 +1,6 @@
 # DPH, SKUPINY,CENY
 
--Nastavení sazeb DPH, skupin a cen
-
-# ![](/assets/Nastaveni - DPH.PNG)
+-Nastavení sazeb DPH, skupin a cen![](/assets/Nastaveni - DPH.PNG)
 
 ## Sazba DPH
 
