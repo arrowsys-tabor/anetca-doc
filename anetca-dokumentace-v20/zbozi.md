@@ -1,6 +1,6 @@
 # ZBOŽÍ
 
-pokud chcete používat dlaždice/položky na hlavní obrazovce "PRODEJ" je nutné v první řadě založit i nové ZBOŽÍ.![](/assets/Zbozí.PNG)![](/assets/Zbozí.PNG)
+pokud chcete používat dlaždice/položky na hlavní obrazovce "PRODEJ" je nutné v první řadě založit i nové ZBOŽÍ.![](/assets/Zbozí.PNG)
 
 ### Založení nového zboží
 
