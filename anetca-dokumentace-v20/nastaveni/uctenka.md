@@ -2,7 +2,7 @@
 
 **Číselná řada účtenky -** nastavení číslování účtenek. Jako výchozí je nastaveno 2017\*\*\*\*\*, kdy hvězdičky zastupují plovoucí čísla. V případě
 
-\*číslování účtenky může mít maximálně 10 číslic, kdy "0" a "\*" reprezentují tzv. plovoucí místa. Tato plovoucí místa dávají prostor pro posloupně se číslující účtenky. Pokud by bylo zvoleno pouze jedno plovoucí místo, program bude mít prostor pro číslování pouze 10 účtenek a poté začně opět od prvního čísla.
+**\***číslování účtenky může mít maximálně 10 číslic, kdy "0" a "\*" reprezentují tzv. plovoucí místa. Tato plovoucí místa dávají prostor pro posloupně se číslující účtenky. Pokud by bylo zvoleno pouze jedno plovoucí místo, program bude mít prostor pro číslování pouze 10 účtenek a poté začně opět od prvního čísla.
 
 **Záhlaví \(oddělit ";"\) -** do záhlaví účtenky lze zapsat jakýkoli text. Pokud chcete text oddělit na nový řádek, vložte mezi text znak ";"
 
