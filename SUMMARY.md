@@ -1,9 +1,9 @@
 # Summary
 
+* [Videonávody](videonavody.md)
 * [Úvod](README.md)
   * [Aktivování licence](settings/license/license.md)
   * [Nastavení EET](settings/companyEET/companyEET.md)
-  * [Videonávody](videonavody.md)
 * [Časté otázky](časté-otázky.md)
   * [Tiskne se mi pouze PKP](questions/pkp.md)
   * [Jak dostat přehledy tržeb do PDF, Excelu nebo Wordu](questions/export.md)
