@@ -2,11 +2,11 @@
 
 **Platební terminál - **aktivuje možnost platebního terminálu na Vaší provozovně. Následně je nutné mít správně nastavený bankovní terminál.
 
-**Bluetooth tiskárna - **mód pro aktivaci tisku pomocí nastavené Bluetooth tiskárny
+**Bluetooth tiskárna - **mód pro aktivaci tisku pomocí nastavené Bluetooth tiskárny.
 
-**StarPRINT mód - **aktivuje tiskový režim pro STAR MICRONICS tiskárny
+**StarPRINT mód - **aktivuje tiskový režim pro **STAR MICRONICS tiskárny**.
 
-\*pokud vlastníte tiskárnu STAR MICRONICS, je nutné aktivovat tento režim pro bezchybný tisk
+\*pokud vlastníte tiskárnu **STAR MICRONICS**, je nutné aktivovat tento režim pro bezchybný tisk.
 
 ![](/assets/zarizeni.PNG)
 
@@ -14,30 +14,32 @@
 
 1. Spárujte Bluetooth tiskárnu s operačním systémem
 2. Přejděte do záložky NASTAVENÍ-&gt;ZAŘÍZENÍ
-3. Vyplňte pole NÁZEV TISKÁRNY  a PÁROVACÍ KLÍČ
-4. Uložte
-5. Stiskněte tlačítko TEST
-6. Na obrazovce by se měla zobrazit správa, že bylo zařízení bluetooth úspěšně spárováno
+3. Vyplňte pole **"NÁZEV TISKÁRNY"** a **"PÁROVACÍ KLÍČ"**
+4. Uložte.
+5. Stiskněte tlačítko **"TEST"**.
+6. Na obrazovce by se měla zobrazit správa, že bylo zařízení bluetooth úspěšně spárováno.
 
 \*při párování tiskárny se ujistěte, že máte tiskárnu připojenou k elektrické síti, zapnutou a vložený kotouček s papírem.
 
-**Automaticky tisknout účtenky\(pokud nejsou zvoleny tiskárny, použita je výchozí\) -** pokud máte v systému windows nastavenou výchozí tiskárnu, stačí zatrhnout toto pole a účtenka bude vytištena na tuto tiskárnu. Pokud chcete určit jinou tiskárnu, nechte pole zaškrtnuté a vyberte z roletky HLAVNÍ TISKÁRNA.
+**Automaticky tisknout účtenky\(pokud nejsou zvoleny tiskárny, použita je výchozí\) -** pokud máte v systému Windows nastavenou výchozí tiskárnu, stačí zatrhnout toto pole a účtenka bude vytištěna na tuto tiskárnu. Pokud chcete určit jinou tiskárnu, nechte pole zaškrtnuté a vyberte z roletky **"HLAVNÍ TISKÁRNA"**.
 
-**Otevírat pokladní zásuvku při tisku účtenky. \(Bluetooth\) -** pokud máte připojenou pokladní zásuvku je nutné mít aktivní tuto volbu. Program se poté postara o zaslání impulsu na otevření pokladní zásuvky.
+**Otevírat pokladní zásuvku při tisku účtenky. \(Bluetooth\) -** pokud máte připojenou pokladní zásuvku, je nutné mít aktivní tuto volbu. Program se poté postará o zaslání impulsu na otevření pokladní zásuvky.
 
-\*každá pokladní zásuvka je jiná, ale všeobecně platí, že je nutné nastavít v ovladačích pro tiskárnu její připojení. Toto je schopna provést většina IT techniků a nastavení takovéto zásuvky je již považováno za placenou službu nastavení.
+\*každá pokladní zásuvka je jiná, ale všeobecně platí, že je nutné nastavit v ovladačích pro tiskárnu její připojení. Toto je schopna provést většina IT techniků a nastavení takovéto zásuvky je již považováno za placenou službu nastavení.
 
 ### Návod pro nastavení USB tiskárny:
 
-1. Přejděte do záložky NASTAVENÍ-&gt;ZAŘÍZENÍ
-2. Nainstalujte ovladač k tiskárně\(tiskárna musí být zapnuta přítomna v operačním systému\)
-3. Zvolte HLAVNÍ TISKÁRNU pomocí roletky
-4. Volitelně lze zvolit i TISKÁRNU OBJEDNÁVEK, která vytiskne pouze objednávkový lístek například do kuchyně, čili obsluha nemusí psát objednávku ručně.
-5. Uložte
+1. Přejděte do záložky **"NASTAVENÍ-&gt;ZAŘÍZENÍ"**.
+2. Nainstalujte ovladač k tiskárně. \(tiskárna musí být zapnuta přítomna v operačním systému\)
+3. Zvolte **"HLAVNÍ TISKÁRNU"** pomocí roletky.
+4. Volitelně lze zvolit i **"TISKÁRNU OBJEDNÁVEK"**, která vytiskne pouze objednávkový lístek například do kuchyně, čili obsluha nemusí psát objednávku ručně.
+5. Uložte.
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 **Nastavení zákaznického displaye - **zde vyplňte text při neaktivitě zákaznického displaye a uložte. Doba neaktivity lze měnit případnou utilitou na cd přiloženém k zákaznickému displayi.
+
+\*Utilita je program, který dokáže zařízení a jeho parametry nastavit z pohodlí počítače.
 
