@@ -1,4 +1,4 @@
-# Vývojová verze dokumentace pro pokladnu ANETCA v.2.0
+# Obsluha EET pokladny ANetCa
 
-**-verze pouze pro interní účely.**
+
 
