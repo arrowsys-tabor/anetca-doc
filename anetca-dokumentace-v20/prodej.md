@@ -99,6 +99,17 @@ Prodej pomocí kalkulačky je nejjednodušší možnou variantou prodeje. Na kal
 
 Na kalkulačce lze vytvořit i položku se zápornou hodnotou. Docílíte toho tak, že zadáte částku, kterou potřebujete odečíst, stisknete symbol "-" a následně správnou sazbu daně.
 
+### Daňové položky - tlačítka 21%, 15%, 10% a 0%
+
+Pro bezproblémový chod kalkulačky musí být založeny položky se správnou sazbou daně, cenou "1", kódem zboží "999999" a PLU:
+
+* **pro Bez DPH: 90900**
+* **pro DPH 10%: 90910**
+* **pro DPH 15%: 90915**
+* **pro DPH 21%: 90921**
+
+
+
 \*zadávání záporné hodnoty je možné použít také pro storno, čili odeslání záporné hodnoty do EET.  
 ![](/assets/Kalkulačka.PNG)
 
@@ -138,7 +149,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                      
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                        
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
