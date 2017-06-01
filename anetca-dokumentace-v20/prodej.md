@@ -95,9 +95,9 @@ Prodej pomocí kalkulačky je nejjednodušší možnou variantou prodeje. Na kal
 4. **"," **slouží pro oddělení desetinných míst. Například 3,14
 5. Na kalkulačce je možné vkládat položky na účtenku také pomocí PLU. Stačí zadat číslo PLU uložené v kartě zboží\(viz. záložka ZBOŽÍ\) a stisknout tlačítko **"PLU"**
 
-        \*před vložením je nutné PLU přiřadit k určitému zboží
+\*před vložením je nutné PLU přiřadit k určitému zboží
 
-    6. Na kalkulačce lze vytvořit i položku se zápornou hodnotou. Docílíte toho tak, že zadáte částku, kterou potřebujete odečíst, stisknete symbol "-" a následně správnou sazbu daně.
+Na kalkulačce lze vytvořit i položku se zápornou hodnotou. Docílíte toho tak, že zadáte částku, kterou potřebujete odečíst, stisknete symbol "-" a následně správnou sazbu daně.
 
 \*zadávání záporné hodnoty je možné použít také pro storno, čili odeslání záporné hodnoty do EET.  
 ![](/assets/Kalkulačka.PNG)
@@ -130,7 +130,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde nastavíte cenové hladiny. Cenové hladiny se používají například pro NÁKUPNÍ, PRODEJNÍ, DELAERSKOU cenu. Pro změnu cenové hladiny rozklikněte roletku a zvolte správnou hladinu.
 
-\*cenu u prodejní hladiny je nutno ve zboží navolit jednotlivě pro každou položku zvlášť. 
+\*cenu u prodejní hladiny je nutno ve zboží navolit jednotlivě pro každou položku zvlášť.
 
 \*\*prodejní hladiny lze přidat v sekci **NASTAVENÍ-&gt;DPH, SKUPINY, CENY - **toto nastavení je pouze pro pokročilé uživatele a při špatném nastavení může mít za následek špatnou funkčnost programu.
 
@@ -138,7 +138,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                    
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                      
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
