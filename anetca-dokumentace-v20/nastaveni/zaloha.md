@@ -20,5 +20,5 @@
 5. Vyjměte FLASH DISK 
 6. Spusťte EET pokladnu ANetCa
 
-
+\*pozor při obnově musí být dodatečně nastaveno číslování účtenek tak, aby nedošlo k duplicitnímu zaslání účtenky na finanční správu. Číslování účtenek změníte v záložce **"NASTAVENÍ -&gt; ÚČTENKA"**. Zkontrolujte proto poslední číslo vystavené účtenky.
 

@@ -9,7 +9,7 @@
   * [Jak dostat přehledy tržeb do PDF, Excelu nebo Wordu](questions/export.md)
 * [Tipy a triky](tipy.md)
   * [Jak rychle markovat](jak-rychle-markovat.md)
-* [Obsluha programu](obsluha-programu.md)
+* [Obsluha programu v.1.0](obsluha-programu.md)
   * [Prodej](command/sale/sale.md)
     * [Platba](command/sale/payment.md)
     * [Sleva](command/sale/discount.md)
