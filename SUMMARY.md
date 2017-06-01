@@ -50,7 +50,7 @@
   * [Tiskárna XP-58](periferie/tiskarna-xp-58.md)
 * [PRO DEALERY](pro-dealery.md)
   * [ODBLOKOVÁNÍ LICENCE](pro-dealery/odblokovani-licence.md)
-* [ANETCA DOKUMENTACE V.2.0](anetca-dokumentace-v20.md)
+* [Obsluha programu v.2.0](anetca-dokumentace-v20.md)
   * [PRODEJ](anetca-dokumentace-v20/prodej.md)
   * [ZBOŽÍ](anetca-dokumentace-v20/zbozi.md)
   * [NASTAVENÍ](anetca-dokumentace-v20/nastaveni.md)
