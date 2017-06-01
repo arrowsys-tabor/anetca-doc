@@ -1,12 +1,12 @@
 # FIRMA
 
--v této záložce naleznete informace o firmě, nastavení BITCION plateb, vzdálená pomoc, aktivování licence, kontrola aktualizací, syanchronizace.
+-v této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdálená pomoc, aktivování licence, kontrola aktualizací, synchronizace.
 
 **ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**![](/assets/nastaveni - firma.PNG)
 
 ### Informace o firmě
 
-**Název firmy - **vyplňte název firmy
+**Název firmy - **vyplňte název firmy.
 
 **Ulice -** ulice, ve které se nachází provozovna
 
@@ -20,17 +20,17 @@
 
 **DIČ pověřujícího -** pověřené DIČ neboli DIČ subjektu, na který prodáváte zboží
 
-**DIČ - **Vaše DIČ. Každý má nyní DIČ. Je zjistitelné dle informací na Daňovém portálu
+**DIČ - **Vaše DIČ. Každý má nyní DIČ. Je zjistitelné dle informací na Daňovém portálu. 
 
 **IČO -** Vaše Identifikační číslo
 
 **Banka -** číslo bankovního účtu - jedná se o nepovinný údaj
 
-**Stanice - **číslo stanice na dané provozovně. Standartně se volí 1. Pokud máte více pokladen na provozovně je dobré je oddělit svým unikátním číslem
+**Stanice - **číslo stanice na dané provozovně. Standardně se volí 1. Pokud máte více pokladen na provozovně je dobré je oddělit svým unikátním číslem. Lépe se pak identifikují tržby na **DAŇOVÉM PORTÁLU.**
 
-**Provozovna -** číslo Vaší provozovny. Pokud máte více provozoven, je dobré tyto provozovny oddělit svým unikátním číslem
+**Provozovna -** číslo Vaší provozovny. Pokud máte více provozoven, je dobré tyto provozovny oddělit svým unikátním číslem. Lépe se pak identifikují tržby na **DAŇOVÉM PORTÁLU.**
 
-**EET Provozovna - **nejdůležitější údaj pro vyplnění. Číslo **EET PROVOZOVNY** naleznete na **Daňovém portále** po založení provozovny
+**EET Provozovna - **nejdůležitější údaj pro vyplnění. Číslo **EET PROVOZOVNY** naleznete na **Daňovém portálu** po založení provozovny. Finanční správa a případná kontrola dbá na jeho vyplnění.
 
 \*Založení provozovny na Daňovém portálu je nutné provést následně pro zapsání správného čísla EET provozovny do programu.
 
@@ -46,7 +46,7 @@
 
 **NEJSEM PLÁTCE DPH -** pokud nejste plátcem DPH, zaškrtněte. Tato poznámka se tiskne následně na účtence
 
-**REŽIM POUŽITÉHO ZBOŽÍ - **
+**REŽIM POUŽITÉHO ZBOŽÍ - **pokud prodáváte použité zboží, je nutné mít zaškrtnuté toto pole. Toto pole slouží především pro bazarový prodej dle paragrafu 90.
 
 ### VZDÁLENÁ POMOC
 
@@ -54,17 +54,19 @@
 
 #### **Postup na spuštění vzdálené pomoci**
 
-1. Přejděte do NASTAVENÍ-&gt;FIRMA a stiskněte tlačítko VZDÁLENÁ POMOC
+1. Přejděte do **"NASTAVENÍ-&gt;FIRMA"** a stiskněte tlačítko **"VZDÁLENÁ POMOC"**
 2. Vyčkejte než se zobrazí spouštěcí dialog, že vzdálená pomoc může provádět změny na Vašem počítači a potvrďte jej
-3. Vyčkejte na druhý dialog a stiskněte tlačítko PŘIJMOUT
+3. Vyčkejte na druhý dialog a stiskněte tlačítko **"PŘIJMOUT"**
 4. Technické podpoře do telefonu nadiktujte 9-ti místné číslo tzv. ID a následně heslo
 5. Po odstranění problému okno se vzdálenou správou ukončete
 
 **\*TATO SLUŽBA MŮŽE BÝT ZPOPLATNĚNA POKUD SE NEJEDNÁ BEZPROSTŘEDNĚ O VADU PROGRAMU!!!**
 
+**\*\*Před spuštěním vzdálené pomoci se ujistěte, že ve Vašem počítači ji neběží na pozadí program TEAMVIEWER**
+
 ### Registrovat produkt
 
--pro uplatnění licence a převod ze zkušební verze \(kde je omezení na 20 účtenek\) na plnou stiskněte tlačítko REGISTROVAT PRODUKT. Následně po Vás bude program požadovat vyplnit následující 4 údaje
+-pro uplatnění licence a převod ze zkušební verze, kde je omezení na 20 účtenek, na plnou stiskněte tlačítko R**EGISTROVAT PRODUKT**. Následně po Vás bude program požadovat vyplnit následující 4 údaje:
 
 1. Licence
 2. Telefon
@@ -72,18 +74,18 @@
 4. IČO
 5. Potvrďte tlačítkem OVĚŘIT KLÍČ nebo ukončete pomocí ZAVŘÍT
 
-\*Kontrolu aktivace licence provedete v NASTAVENÍ-&gt;FIRMA, kde je ve spodní části napsané verze programu a **LICENCE PROGRAMU JE PLATNÁ**
+\*Kontrolu aktivace licence provedete v **"NASTAVENÍ-&gt;FIRMA"**, kde je ve spodní části napsané verze programu a hláška "**LICENCE PROGRAMU JE PLATNÁ".**
 
 ### Zkontrolovat aktualizace
 
--po stisknutí tohoto tlačítka vyčkejte než program zkontroluje platnost licence a klikněte na tlačítko AKTUALIZOVAT. Následně se program spoji serverem, kde stáhne potřebné aktualizační soubory a zeptá se na ukončení programu ANETCA. Stiskněte **ANO**
+-po stisknutí tohoto tlačítka vyčkejte než program zkontroluje platnost licence a klikněte na tlačítko **"AKTUALIZOVAT"**. Následně se program spoji serverem, kde stáhne potřebné aktualizační soubory a zeptá se na ukončení programu **ANETCA**. Stiskněte **ANO.**
 
 1. Stiskněte tlačítko zkontrolovat aktualizace a vyčkejte než program zkontroluje, zda není nová verze pokladny ANetCa k dispozici
-2. Jakmile se ověří licence, stiskněte tlačítko AKTUALIZOVAT
-3. Vyčkejte než pokladna stáhne potřebné soubory pro aktualizaci
-4. Potvrďte dialog, který se Vás ptá na ukončení pokladny ANetCa
-5. Nyní se aktualizuje, proto vyčkejte než se pokladna opět sama nespustí
-6. Zkontrolujte verzi programu
+2. Jakmile se ověří licence, stiskněte tlačítko **"AKTUALIZOVAT"**.
+3. Vyčkejte než pokladna stáhne potřebné soubory pro aktualizaci.
+4. Potvrďte dialog, který se Vás ptá na ukončení pokladny ANetCa.
+5. Nyní se aktualizuje, proto vyčkejte než se pokladna opět sama nespustí.
+6. Zkontrolujte verzi programu.
 
 \*v případě, že by nedošlo k aktualizaci, proveďte výše zmiňované kroky znovu dokud se pokladna nezaktualizuje
 
@@ -91,11 +93,13 @@
 
 -synchronizuje data se serverem ARROWSYS
 
-\*Synchronizovat lze ZBOŽÍ A ÚČTENKY
+\*Synchronizovat lze ZBOŽÍ a ÚČTENKY
 
 ### Nastavení příjemce EXPORTU
 
 -vyplňte email na který má přijít vygenerovaný EXPORT
+
+\*pozor pro toto nastavení je nutné mít nastaveno jako výchozí program pro email **"POŠTA"**
 
 ### Nastavení BITCOIN
 

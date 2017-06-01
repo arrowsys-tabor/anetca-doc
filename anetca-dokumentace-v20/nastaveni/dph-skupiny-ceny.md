@@ -1,30 +1,32 @@
 # DPH, SKUPINY,CENY
 
+**!!! POZOR TOTO NASTAVENÍ MŮŽE MÍT VLIV NA FUNKČNOST PROGRAMU. PŘI ŠPATNÉM NASTAVENÍ NEMUSÍ JÍT VYSTAVOVAT ÚČTENKY SE SPRÁVNOU CENOU.**
+
 -Nastavení sazeb DPH, skupin a cen![](/assets/Nastaveni - DPH.PNG)
 
 ## Sazba DPH
 
--standartně jsou všechny aktuální sazby DPH založeny již při prvotní instalaci pokladny ANetCa. Pokud by se ale stalo, že se sazba DPH změní nebo je z nějakého předem neznámého důvodu nutné založit novou, je možné tuto sazbu dodatečně vytovřit.
+-standardně jsou všechny aktuální sazby DPH založeny již při prvotní instalaci pokladny ANetCa. Pokud by se ale stalo, že se sazba DPH změní nebo je z nějakého předem neznámého důvodu nutné založit novou, je možné tuto sazbu dodatečně vytvořit.
 
 ### Nová sazba DPH
 
-1. Přejděte do záložky NASTAVENI-&gt;DPH, SKUPINY, CENY-&gt;Sazba DPH a a vedle roletky vyplňte do prvního pole Název nové sazby.
-2. Do pole pod názvem doplňte procenta daně
-3. Stiskněte ULOŽIT
+1. Přejděte do záložky **"NASTAVENI-&gt;DPH, SKUPINY, CENY-&gt;Sazba DPH"** a vedle roletky vyplňte do prvního pole **Název nové sazby**.
+2. Do pole pod názvem doplňte **procento daně**.
+3. Stiskněte **"ULOŽIT"**.
 
-**\*pokud je daň přenesená, zaškrtněte pole DAŇ JE PŘENESENÁ**
+**\*pokud je daň přenesená, zaškrtněte pole "DAŇ JE PŘENESENÁ"**
 
 ### Odstranění sazby DPH
 
-1. Vyberte pomoci roletky sazbu DPH
-2. Klikněte na symbol červeného křížku 
-3. Sazba je nyní odstraněna
+1. Vyberte pomoci roletky sazbu DPH.
+2. Klikněte na symbol červeného křížku. 
+3. Sazba je nyní odstraněna.
 
 **\*pokud je sazba použita již ve zboží nebude možné ji odstranit. V takovémto případě ale samozřejmě nepřekáží v chodu a lze ji ponechat**
 
 ## Skupiny
 
--pro kategorizování zboží je nutné mít vytvořenou skupinu. Takto vytvořené skupiny zjednodušují hledání zboží při přidávání položek na účtenku
+-pro kategorizování zboží je nutné mít vytvořenou skupinu. Takto vytvořené skupiny zjednodušují hledání zboží při přidávání položek na účtenku. 
 
 ### Vytvoření nové skupiny
 
@@ -44,13 +46,13 @@
 
 ## Ceny - cenové hladiny
 
--v pokladně ANetCa lze volit cenové hladiny. Počet cenových hladin není nijak omezený. Cenové hladiny se používaji především tam kde potřebujete rozdělit různé ceny různým skupinám zákazniků. Například CENA A, CENA B, CENA C, VIP...atp.![](/assets/ceny.png)
+-v pokladně ANetCa lze volit cenové hladiny. Počet cenových hladin není nijak omezený. Cenové hladiny se používají především tam, kde potřebujete rozdělit různé ceny skupinám zákazníků. Například PRODEJ, NÁKUP, DEALER, CENA A, CENA B, CENA C, VIP...atp.![](/assets/ceny.png)
 
 ### Vytvoření nové cenové hladiny
 
-1. Přejděte do záložky NASTAVENÍ-&gt;DPH, SKUPINY, CENY
-2. Vyplňte název cenové hladiny
-3. Uložte
+1. Přejděte do záložky **"NASTAVENÍ-&gt;DPH, SKUPINY, CENY"**.
+2. Vyplňte název cenové hladiny.
+3. Uložte.
 
 \*vždy musí být alespoň jedna cenová hladina nastavena jako výchozí
 
