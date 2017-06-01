@@ -6,9 +6,9 @@
 
 **Export cesta -** výchozí umístění souboru pro **"EXPORT"**. viz. **"PŘEHLEDY-&gt;TRŽBY EXPORT"**.
 
-**Kontrolní URL -**
+**Kontrolní URL - **zde lze nastavit alternativní adresu pro tzv. ping. Ping provádí kontrolu spojení s internetem, proto je nutné jej mít povolený, případně nastavený na specifickou adresu.
 
-**Odesílání účtenek do web služby EET ARROWSYS -**
+**Odesílání účtenek do web služby EET ARROWSYS - **
 
 **URL web služby -**
 
@@ -22,7 +22,7 @@
 
 ### Nastavení odpisu
 
--jedná se o nastavení odpisu stavů skladu ze **"ZÁSOB"**. Program **"ZÁSOBY"** je možno doobjednat. Více informací Vám sdělíme na emailu obchod@arrowsys.cz 
+-jedná se o nastavení odpisu stavů skladu ze **"ZÁSOB"**. Program **"ZÁSOBY"** je možno doobjednat. Více informací Vám sdělíme na emailu **obchod@arrowsys.cz**
 
 **Odepisovat po každé účtence -** odepíše vše prodané ze zásob po každé vytištěné účtence.
 
