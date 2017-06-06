@@ -69,6 +69,16 @@
 
 -jakmile máte na účtence zboží je možné přejít ke kroku zaplacení. Stisknutím tlačítka **"TISK" **zobrazíte tabulku s volbou způsobu úhrady a následně odešlete účtenku do EET.
 
+#### Tisk poznámky
+
+-pokud potřebujete vytisknout jakoukoli poznámku na účtenku, lze ji jednoduše vyplnit do pole s poznámkou. Tisk poznámky musí být aktivován v sekci **"NASTAVENÍ-&gt;ÚČTENKA"**
+
+![](/assets/IKONA POZNAMKA.PNG)
+
+#### Tisk spotřební daně na účtence
+
+-pro tisk spotřební daně, která musí být vyplněna v první řadě na kartě **"ZBOŽÍ"** je nutné jej aktivovat v záložce **"NASTAVENÍ-&gt;ÚČTENKA"**
+
 #### Částečná platba
 
 -ne vždy je nutné nebo si zákazník nepřeje uhradit celou účtenku naráz a dochází k jejímu postupnému zaplacení. Pokud by se stalo, že potřebujete uhradit pouze část zboží na účtence, stačí zaškrtnout jen část zboží a následně přejít pomocí tlačítka **"TISK" **k platbě. Uhradí se pouze zvolená část a na účtence zůstane zbytek. Po uhrazení celé účtenky zmizí ze seznamu účtenek jako při standardním proplacení celé účtenky.
@@ -149,7 +159,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                          
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                            
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet

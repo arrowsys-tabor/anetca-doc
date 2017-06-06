@@ -1,8 +1,12 @@
 # ÚČTENKA
 
+-nastavení všeho, co se týká účtenky a tisku na ní.
+
+![](/assets/Nastaveni - uctenka2.PNG)
+
 **Číselná řada účtenky -** nastavení číslování účtenek. Jako **výchozí je nastaveno 2017\*\*\*\*\***, kdy hvězdičky zastupují plovoucí čísla. V případě
 
-**\***číslování účtenky může mít maximálně 10 číslic, kdy **"0"** a** "\*" **reprezentují tzv. plovoucí místa. Tato plovoucí místa dávají prostor pro posloupně se číslující účtenky. Pokud by bylo zvoleno pouze jedno plovoucí místo, program bude mít prostor pro číslování pouze 10 účtenek a poté začne opět od prvního čísla. 
+**\***číslování účtenky může mít maximálně 10 číslic, kdy **"0"** a** "\*" **reprezentují tzv. plovoucí místa. Tato plovoucí místa dávají prostor pro posloupně se číslující účtenky. Pokud by bylo zvoleno pouze jedno plovoucí místo, program bude mít prostor pro číslování pouze 10 účtenek a poté začne opět od prvního čísla.
 
 **Záhlaví \(oddělit ";"\) -** do záhlaví účtenky lze zapsat jakýkoli text. Pokud chcete text oddělit na nový řádek, vložte mezi text znak **";"**
 
@@ -25,4 +29,8 @@
 **Čas položky při pořizování účtenky -** Na účtence se tiskne čas vložení položky. Oblíbené především v restauracích pro kontrolu číšníka, zda přidal na účtenku dané zboží a kdy to bylo naposled.
 
 **Tisknout jednotkovou cenu -** tiskne jednotkovou cenu na účtence.
+
+**Vyčíslit spotřební daň na účtence -** na účtenku se vytiskne hodnota spotřební daně.
+
+**Tisknout poznámku účtenky -** na účtence se vytiskne poznámka, která byla vyplněna v sekci PRODEJ přímo do pole poznámky.
 
