@@ -1,15 +1,28 @@
 # Účtenky
 
--zde naleznete seznam všech provedených účtenek v EET pokladně ANetCa.Lze také opětovně odeslat účtenky, které nebylo možné odeslat řádně do EET například z důvodu výpadku internetu. či provést dotisk účtenky.
+-zde naleznete seznam všech provedených účtenek v EET pokladně ANetCa.Lze také opětovně odeslat účtenky, které nebylo možné odeslat řádně do EET například z důvodu výpadku internetu. či provést dotisk účtenky.![](/assets/PREHLEDY-uctenka.PNG)
 
-**Účtenky směny -** pořízené pčtenky za období od poslední uzávěrky do teď.
+**Účtenky směny -** pořízené účtenky za období od poslední uzávěrky do teď.
 
 **Účtenky archívu -** po provedení uzávěrky KASY se převedou všechny účtenky z účtenek směny do účtenek archívu.
+
+### Filtrování obsahu účtenek \(vpravo nahoře\)
+
+1. Vyberte počáteční a konečné datum.
+2. Pokud potřebujete filtrovat dle částky na účtence, lze ji v poli **"ČÁSTKA"** zadat spolu se znaménky menší, větší nebo rovno.
+
+ Tato kolonka není povinná a nemusí se vyplňovat.
+
+1. V poli **"ZAPLACENO"** vyberte způsob úhrady účtenky. Za předpokladu, že nerozhoduje způsob úhrady, nemusíte vyplňovat.
+2. Zvolte účet, který tuto platbu provedl. Za předpokladu, že máte pouze jeden účet nemusíte vyplňovat.
+3. Jakmile máte filtr správně nastaven, stiskněte tlačítko **"VYHLEDAT"**.
+
+Filtrovat lze také pouze neodeslané účtenky. Stačí jednoduše zatrhnout pole **"ZOBRAZIT POUZE NEODESLANÉ".**
 
 ### Zobrazení účtenky ze seznamu
 
 1. Přejděte do záložky **"PŘEHLEDY-&gt;ÚČTENKY"**.
-2. Vyhledejte v seznamu účtenek požadované číslo účtenky a stiskněte tlačítko **"ZOBRAZIT VYBRANOU ÚČTENKU"**.
+2. Vyhledejte v seznamu požadované číslo účtenky a stiskněte tlačítko **"ZOBRAZIT VYBRANOU ÚČTENKU"**.
 3. V levé části obrazovky se Vám zobrazí náhled účtenky.
 
 ### Opětovný tisk účtenky USB tiskárna
@@ -21,7 +34,7 @@
 
 \*před tiskem je dobré zkontrolovat, zda-li je tiskárna zapnutá a jestli je v ní papír.
 
-**\*\*účtenka lze také vygenrovat pomocí tlačítkové lišty do formátu EXCEL, PDF  a WORD**
+**\*\*účtenka lze také vygenerovat pomocí tlačítkové lišty do formátu EXCEL, PDF  a WORD**
 
 ### Opětovný tisk účtenky Bluetooth tiskárna
 
@@ -53,11 +66,13 @@
 
 ### Přehled účtenek \(archív\)
 
-1. Vyberte rozpětí data, za které potřebujete vytisknout.
-2. V poli **"VÝBĚR"** vyberte hodnotu účtenek, které se mají vygenerovat v daném období.
-3. Stiskněte tlačítko **"TISKNOUT"**, které zobrazí náhled účtenek pro vytištění.
-4. V horní části náhledu zvolte symbol tiskárny z nástrojové lišty.
-5. Potvrďte tisk.![](/assets/OSTATNI - UCTENKY.PNG)
+1. Přejděte do záložky **"PŘEHLEDY-&gt;ÚČTENKY".**
+2. Stiskněte tlačítko **"PŘEHLED ÚČTENEK \(ARCHÍV\)".**
+3. Vyberte rozpětí data, za které potřebujete vytisknout přehled účtenek.
+4. Vyberte hodnotu účtenek, které se mají vygenerovat v daném období. Lze volit mezi znaménky větší, menší a rovno.
+5. Stiskněte tlačítko **"TISKNOUT"** nebo **"BLUETOOTH TISK"**, které zobrazí náhled účtenek pro vytištění.
+6. V horní části náhledu zvolte symbol tiskárny z nástrojové lišty.
+7. Vyberte tiskárnu a potvrďte tisk.
 
 
 

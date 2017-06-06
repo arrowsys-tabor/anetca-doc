@@ -159,7 +159,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                            
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                              
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
