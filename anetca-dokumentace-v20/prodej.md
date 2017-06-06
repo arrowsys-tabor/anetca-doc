@@ -4,7 +4,7 @@
 
 #### Níže uvedený obrázek ilustruje hlavní účtovací obrazovku systému ANetCa.
 
--obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.![](/assets/Prodej.PNG)
+-obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.![](/assets/PRODEJ2.png)
 
 #### Sekce 1 Založení účtenky \(vpravo nahoře\)
 
@@ -41,7 +41,7 @@
 4. V řádcích účtenky je možno přepsat text. \(vhodné pro řemeslníky nebo detailnější označení zboží\)  
 5. Vpravo dole je průběžný součet účtenky.
 6. Po stisku tlačítka** "TISK"** se objeví dialogové okno \(viz. obrázek níže\)  
-7. Zde je možno vybrat způsob platby v Kč, cizích měnách, Bitcoinem, BitcoinPay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.![](/assets/TISK.PNG)
+7. Zde je možno vybrat způsob platby v Kč, cizích měnách, Bitcoinem, BitcoinPay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.![](/assets/TISK2.png)
 
 ## Nová účtenka
 
@@ -95,6 +95,8 @@ Prodej pomocí kalkulačky je nejjednodušší možnou variantou prodeje. Na kal
 4. **"," **slouží pro oddělení desetinných míst. Například 3,14
 5. Na kalkulačce je možné vkládat položky na účtenku také pomocí PLU. Stačí zadat číslo PLU uložené v kartě zboží\(viz. záložka ZBOŽÍ\) a stisknout tlačítko **"PLU"**
 
+**TLAČÍTKO VÁHY -** pro zvážení zboží připojte váhu a stiskněte tlačítko se symbolem váhy, které Vám přenese zvážené množství do programu a automaticky vypočítá cenu z jednotky udané u dané položky ZBOŽÍ.
+
 \*před vložením je nutné PLU přiřadit k určitému zboží
 
 Na kalkulačce lze vytvořit i položku se zápornou hodnotou. Docílíte toho tak, že zadáte částku, kterou potřebujete odečíst, stisknete symbol "-" a následně správnou sazbu daně.
@@ -108,10 +110,8 @@ Pro bezproblémový chod kalkulačky musí být založeny položky se správnou 
 * **pro DPH 15%: 90915**
 * **pro DPH 21%: 90921**
 
-
-
 \*zadávání záporné hodnoty je možné použít také pro storno, čili odeslání záporné hodnoty do EET.  
-![](/assets/Kalkulačka.PNG)
+![](/assets/Kalkulačka2.PNG)
 
 ## Seznam skupin
 
@@ -149,7 +149,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 -zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                        
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                          
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet

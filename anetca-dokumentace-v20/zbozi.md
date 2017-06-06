@@ -64,9 +64,9 @@ Nyní se chová takto založená položka jako položka s variabilní cenou. Př
 
 **Počet/Jednotka - **Počet označuje počet prodávaných kusů, jednotka pak slouží jako textové pole, do kterého lze zapsat jakýkoli text. **Nejčastěji ks, kč, noc** nebo jiná zkratka pro jednotku. Tato zkratka se zobrazuje na účtence u zboží.
 
-**Časté množství - **používá se především pro určení často prodávaného množství. 
+**Časté množství - **používá se především pro určení často prodávaného množství.
 
-     **Příklad:** Zákazník objedná litr 0,2l kofoly a pokud bude vyplněno časté množství 0,2, přidá se na účtenku pouze poměrná část výchozí jednotky. Pomocí tlačítka** "+" **přidáte časté množství. Pomocí křížku pak následně lze po označení odstranit.
+ \*\*Příklad: Zákazník objedná litr 0,2l kofoly a pokud bude vyplněno časté množství 0,2, přidá se na účtenku pouze poměrná část výchozí jednotky. Pomocí tlačítka\*\* "+" \*\*přidáte časté množství. Pomocí křížku pak následně lze po označení odstranit.
 
 **\***pro použití častého množství je nutné mít nastaveno cenu za jednotku\(litr, kus\), ze které se následně počítá poměrná část ceny.
 
