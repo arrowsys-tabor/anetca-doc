@@ -35,6 +35,16 @@
 4. Volitelně lze zvolit i **"TISKÁRNU OBJEDNÁVEK"**, která vytiskne pouze objednávkový lístek například do kuchyně, čili obsluha nemusí psát objednávku ručně.
 5. Uložte.
 
+### Možnost tisku objednávky na USB tiskárnu při zvolené Bluetooth tiskárně jako hlavní
+
+* standardně lze nastavit Bluetooth tiskárnu pro tisk účtenek a zároveň USB tiskárnu pro tisk do kuchyně
+
+\*Tisk na objednávku vyvoláte v sekci **"PRODEJ-&gt;TISK-&gt;TISK OBJEDNÁVKY"**
+
+
+
+
+
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
