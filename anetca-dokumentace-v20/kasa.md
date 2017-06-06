@@ -12,3 +12,9 @@
 
 **\*uzávěrka pokladny je potřeba pro PŘEHLEDY TRŽEB. Dokud není řádně provedena uzávěrka pokladny, tak se v přehledu tržeb nemá co generovat. \(viz. PŘEHLEDY-&gt;KASA-&gt;DNES/ZA OBDOBÍ a PŘEHLEDY-&gt;TRŽBY-&gt;DNES/ZA OBDOBÍ\)**
 
+### **Zaokrouhlení v sestavě uzávěrky**
+
+-při uzávěrce pokladny je na tiskové sestavě uvedeno zaokrouhlení, které program provedl na vystavených účtenkách. Toto zaokrouhlení se zobrazuje i na sestavě přehledů tržeb.
+
+
+
