@@ -1,13 +1,13 @@
 # ZBOŽÍ
 
-pokud chcete používat dlaždice/položky na hlavní obrazovce **"PRODEJ"** je nutné v první řadě založit i nové ZBOŽÍ.![](/assets/Zbozí.PNG)
+pokud chcete používat dlaždice/položky na hlavní obrazovce **"PRODEJ"** je nutné v první řadě založit i nové ZBOŽÍ.![](/assets/Zbozí2.PNG)
 
 ### Založení nového zboží
 
 1. Přejděte do záložky **"ZBOŽÍ"**
 2. Stiskněte tlačítko **"NOVÝ"**
 3. Vyplňte povinná pole "**NÁZEV, CENU, POČET/JEDNOTKA, ČASTÉ MNOŽSTVÍ, DPH, SKUPINU"**
-4. stiskněte **"PŘIDAT"**![](/assets/Nova polozka.PNG)
+4. stiskněte **"PŘIDAT"**![](/assets/Nova polozka2.PNG)
 
 ### Smazání karty zboží
 
@@ -18,7 +18,7 @@ pokud chcete používat dlaždice/položky na hlavní obrazovce **"PRODEJ"** je 
 
 ### Hledání zboží
 
--do kolonky **"HLEDAT"** vypište daný řetězec pro hledání. Následně Vám bude vyfiltrováno vše, co obsahuje zadaný řetězec nebo jeho část
+-do kolonky **"HLEDAT"** vypište daný řetězec pro hledání a stiskněte tlačítko **"VYHLEDAT"**. Následně Vám bude vyfiltrováno vše, co obsahuje zadaný řetězec nebo jeho část.
 
 ### Nastavení priority
 
@@ -66,11 +66,15 @@ Nyní se chová takto založená položka jako položka s variabilní cenou. Př
 
 **Časté množství - **používá se především pro určení často prodávaného množství.
 
- \*\*Příklad: Zákazník objedná litr 0,2l kofoly a pokud bude vyplněno časté množství 0,2, přidá se na účtenku pouze poměrná část výchozí jednotky. Pomocí tlačítka\*\* "+" \*\*přidáte časté množství. Pomocí křížku pak následně lze po označení odstranit.
+\*\*Příklad: Zákazník objedná litr 0,2l kofoly a pokud bude vyplněno časté množství 0,2, přidá se na účtenku pouze poměrná část výchozí jednotky. Pomocí tlačítka\*\* "+" \*\*přidáte časté množství. Pomocí křížku pak následně lze po označení odstranit.
 
 **\***pro použití častého množství je nutné mít nastaveno cenu za jednotku\(litr, kus\), ze které se následně počítá poměrná část ceny.
 
-**Tisk na objednávku - **toto pole slouží pro zjednodušení práce obsluhy. Při zatržení **"TISK NA OBJEDNÁVKU"** a vložení takového produktu na účtenku, lze vytisknout toto zboží na druhou tiskárnu. Používá se hodně v restauraci, kdy se v kuchyni vytiskne číslo objednávky a rozpis jídel, která se mají uvařit. Obsluha tak nemusí psát tyto položky ručně a nést zvlášť do kuchyně.
+**Spotřební daň -** na komodity jako je **alkohol, benzín či cigarety** je uvalena spotřební daň. Ta lze vyčíslit rovnou v programu a následně se tiskne **na účtence a v přehledech**.
+
+**Tisk "Na objednávku" - **toto pole slouží pro zjednodušení práce obsluhy. Při zatržení **"NA OBJEDNÁVKU"** a vložení takového produktu na účtenku, lze vytisknout toto zboží na druhou tiskárnu. Používá se hodně v restauraci, kdy se v kuchyni vytiskne číslo objednávky a rozpis jídel, která se mají uvařit. Obsluha tak nemusí psát tyto položky ručně a nést zvlášť do kuchyně.
+
+**Proměnná cena -** při vložení takto označeného zboží na účtenku se Vás vždy program dotáže na cenu zboží. Chová se jako volitelná cena, tudíž nemusíte zakládat více položek s rozdílnou cenou, ale stačí jedna univerzální, kde si cenu zvolíte po každém vložení na účtenku sami.
 
 **DPH - **daň z přidané hodnoty daného zboží
 
@@ -89,4 +93,6 @@ Nyní se chová takto založená položka jako položka s variabilní cenou. Př
 **PLU - **je uživatelsky měnitelný kód. Slouží pro zjednodušené vkládání pomocí kalkulačky. Pomocí PLU lze hledat zboží v obsahu na záložce **"PRODEJ"**
 
 **Pověřující DIČ - **neboli prodej v zastoupení. Pokud prodáváte zboží na jiný subjekt, tak do tohoto pole vyplňte DIČ subjektu. Na účtence bude zaznamenáno toto DIČ a platba odejde do EET také pod tímto DIČ.
+
+**Přidat na účtenku - **přidá označené zboží na rozpracovanou účtenku.
 
