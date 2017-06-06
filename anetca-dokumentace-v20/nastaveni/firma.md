@@ -2,7 +2,13 @@
 
 -v této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdálená pomoc, aktivování licence, kontrola aktualizací, synchronizace.
 
-**ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**![](/assets/nastaveni - firma.PNG)
+
+
+**LICENČNÍ ČÍSLO NALEZNETE VE SPODNÍ ČÁSTI OBRAZOVKY VEDLE AKTUÁLNÍ VERZE PROGRAMU.**
+
+
+
+**ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**![](/assets/nastaveni - firma2.PNG)
 
 ### Informace o firmě
 
@@ -20,7 +26,7 @@
 
 **DIČ pověřujícího -** pověřené DIČ neboli DIČ subjektu, na který prodáváte zboží
 
-**DIČ - **Vaše DIČ. Každý má nyní DIČ. Je zjistitelné dle informací na Daňovém portálu. 
+**DIČ - **Vaše DIČ. Každý má nyní DIČ. Je zjistitelné dle informací na Daňovém portálu.
 
 **IČO -** Vaše Identifikační číslo
 
@@ -89,11 +95,11 @@
 
 \*v případě, že by nedošlo k aktualizaci, proveďte výše zmiňované kroky znovu dokud se pokladna nezaktualizuje
 
-### Synchronizace
+### Kontakt podpora
 
--synchronizuje data se serverem ARROWSYS
+-po stisknutí tlačítka se Vám objeví kontakt na výrobce pokladny ANetCa. Tlačítkem křížek se vrátíte zpět do **NASTAVENÍ-&gt;FIRMA**
 
-\*Synchronizovat lze ZBOŽÍ a ÚČTENKY
+![](/assets/kontakt podpora.PNG)
 
 ### Nastavení příjemce EXPORTU
 
