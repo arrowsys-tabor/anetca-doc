@@ -11,11 +11,14 @@
 1. Vyberte počáteční a konečné datum.
 2. Pokud potřebujete filtrovat dle částky na účtence, lze ji v poli **"ČÁSTKA"** zadat spolu se znaménky menší, větší nebo rovno.
 
- Tato kolonka není povinná a nemusí se vyplňovat.
+   Tato kolonka není povinná a nemusí se vyplňovat.
 
-1. V poli **"ZAPLACENO"** vyberte způsob úhrady účtenky. Za předpokladu, že nerozhoduje způsob úhrady, nemusíte vyplňovat.
-2. Zvolte účet, který tuto platbu provedl. Za předpokladu, že máte pouze jeden účet nemusíte vyplňovat.
-3. Jakmile máte filtr správně nastaven, stiskněte tlačítko **"VYHLEDAT"**.
+3. V poli **"ZAPLACENO"** vyberte způsob úhrady účtenky. Za předpokladu, že nerozhoduje způsob úhrady, nemusíte vyplňovat.
+
+4. Zvolte účet, který tuto platbu provedl. Za předpokladu, že máte pouze jeden účet nemusíte vyplňovat.
+5. Jakmile máte filtr správně nastaven, stiskněte tlačítko **"VYHLEDAT"**.
+
+#### **Filtrování neodeslaných účtenek**
 
 Filtrovat lze také pouze neodeslané účtenky. Stačí jednoduše zatrhnout pole **"ZOBRAZIT POUZE NEODESLANÉ".**
 
