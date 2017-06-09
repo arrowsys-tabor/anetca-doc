@@ -30,6 +30,8 @@ Vedle kolonky pro název je také možnost nastavit prioritu zobrazovaní zbož�
 
 Pro vytvoření zboží, pomocí kterého budete vytvářet v pokladně slevy je nutné dodržet pár pravidel.
 
+![](/assets/ZBOŽÍ SLEVA.PNG)
+
 1. Vytvořte zboží, které se bude jmenovat například **"Sleva 20%"**
 2. Vyplňte cenu **"1"**
 3. Do kolonky časté množství vyplňte hodnotu **"-0,2"**, což označuje **slevu 20%**. Potvrďte pomocí zeleného tlačítka **"+"**

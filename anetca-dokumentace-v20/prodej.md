@@ -83,6 +83,10 @@ Pro tisk spotřební daně, která musí být vyplněna v první řadě na kart�
 
 Ne vždy je nutné nebo si zákazník nepřeje uhradit celou účtenku naráz a dochází k jejímu postupnému zaplacení. Pokud by se stalo, že potřebujete uhradit pouze část zboží na účtence, stačí zaškrtnout jen část zboží a následně přejít pomocí tlačítka **"TISK" **k platbě. Uhradí se pouze zvolená část a na účtence zůstane zbytek. Po uhrazení celé účtenky zmizí ze seznamu účtenek jako při standardním proplacení celé účtenky.
 
+![](/command/sale/img/partialPayment1.png)
+
+![](/command/sale/img/partialPayment2.png)
+
 \*u zboží na účtence je možné **rozdělit počet kusů** na účtence pomocí volby **oddělit množství.**
 
 #### Oddělit množství
@@ -94,6 +98,17 @@ Pokud požadujete rozdělit napřiklad 10ks daného zboží na účtence či zá
 Pokud máte vyplněný čárový kód u jednotlivých položek v sekci **"ZBOŽÍ"** je možné tento kód načíst přímo v obrazovce **"PRODEJ" **a automaticky se vytvoří účtenka, na kterou bude zboží vloženo.
 
 \*načtením dalšího kódu se vloží další zboží na aktuálně označenou účtenku.
+
+### Použití slevy {#použití-slevy}
+
+1. Na hlavní účtovací obrazovce **PRODEJ **klikněte na položku slevy.
+2. Do kolonky **Počet **\(červeně orámovaná kolonka na obrázku\) napište částku, ze které chcete zlevnit.
+
+![](/assets/PRODEJ SLEVA.PNG)
+
+\*podrobnosti slevy naleznete v sekci **"ZBOŽÍ"** této dokumentace.
+
+\*\*pro každou slevovou kartu je nutné mít správně nastavenou sazbu daně ve **"ZBOŽÍ"**.
 
 ## Kalkulačka
 
@@ -159,7 +174,7 @@ Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro 
 
 Zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                        
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
