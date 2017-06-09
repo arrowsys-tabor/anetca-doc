@@ -2,6 +2,10 @@
 
 Je nejdůležitější částí programu a v této záložce lze vytvořit novou účtenku, účtovat pomocí kalkulačky, přihlásit jiný účet, hledat zboží či zadávat množství.
 
+
+
+
+
 #### Níže uvedený obrázek ilustruje hlavní účtovací obrazovku systému ANetCa.
 
 Obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.![](/assets/PRODEJ2.png)
@@ -53,7 +57,7 @@ V seznamu účtenek najdete všechny rozpracované účtenky, které byly vytvo�
 
 \*seznam účtenek je možné posouvat pomocí šípek vlevo a vpravo.
 
-#### Mazání rozpracované účtenky
+#### Smazání rozpracované účtenky
 
 Ze seznamu lze mazat pomocí tlačítka červeného křížku umístěného pod kalkulačkou ve spodní části obrazovky. Stačí pouze danou účtenku označit a stisknout toto tlačítko
 
@@ -174,7 +178,7 @@ Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro 
 
 Zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                        
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                          
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
