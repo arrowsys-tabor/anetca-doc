@@ -1,6 +1,6 @@
 # KONFIGURACE
 
--jedna z nejdůležitějších sekcí celého programu. Naleznete zde především nastavení certifikátu, umístění souborů pro aktualizaci a exportní cestu.![](/assets/nastaveni - konfigurace.PNG)
+Jedna z nejdůležitějších sekcí celého programu. Naleznete zde především nastavení certifikátu, umístění souborů pro aktualizaci a exportní cestu.![](/assets/nastaveni - konfigurace.PNG)
 
 **Složka aktualizace -** odkazuje na umístění složky nutné pro aktualizaci programu. viz. "NASTAVENÍ-&gt;FIRMA-ZKONTROLOVAT AKTUALIZACE".
 
@@ -22,7 +22,7 @@
 
 ### Nastavení odpisu
 
--jedná se o nastavení odpisu stavů skladu ze **"ZÁSOB"**. Program **"ZÁSOBY"** je možno doobjednat. Více informací Vám sdělíme na emailu **obchod@arrowsys.cz**
+Jedná se o nastavení odpisu stavů skladu ze **"ZÁSOB"**. Program **"ZÁSOBY"** je možno doobjednat. Více informací Vám sdělíme na emailu **obchod@arrowsys.cz**
 
 **Odepisovat po každé účtence -** odepíše vše prodané ze zásob po každé vytištěné účtence.
 
@@ -34,7 +34,7 @@
 
 ### Mazání zkušebních dat
 
--používá se především pro smazání dat, která již nechcete mít v programu.
+Používá se především pro smazání dat, která již nechcete mít v programu.
 
 **Odstranit produkty - **odstraní všechny produkty, které nejsou přítomny na pořízených účtenkách.
 

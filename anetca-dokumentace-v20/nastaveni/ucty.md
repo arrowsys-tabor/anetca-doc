@@ -1,6 +1,6 @@
 # ÚČTY
 
--uživatelské účty slouží k rozdělení obsluhy. Pokud je zvolen uživatelský účet, je jméno obsluhy tištěno na účtence. Takto lze určit kdo vydával danou účtenku.![](/assets/ucty.PNG)
+Uživatelské účty slouží k rozdělení obsluhy. Pokud je zvolen uživatelský účet, je jméno obsluhy tištěno na účtence. Takto lze určit kdo vydával danou účtenku.![](/assets/ucty.PNG)
 
 ### Založení uživatelského účtu
 

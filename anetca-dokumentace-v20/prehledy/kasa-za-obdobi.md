@@ -1,6 +1,6 @@
 # Kasa ZA OBDOBÍ
 
--kasa za období generuje přehled pokladních operací za zvolené.
+Kasa za období generuje přehled pokladních operací za zvolené.
 
 \*období lze volit pomocí kolonek **POČÁTEČNÍ** a **KONEČNÉ DATUM**.
 

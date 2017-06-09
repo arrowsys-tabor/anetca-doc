@@ -1,6 +1,6 @@
 # Tržby DNES
 
--tržby dnes generuje přehled pokladních operací za období **"DNES"**.
+Tržby dnes generuje přehled pokladních operací za období **"DNES"**.
 
 DNES je definováno jako období od posledního uzavření pokladny do **"TEĎ"**.
 

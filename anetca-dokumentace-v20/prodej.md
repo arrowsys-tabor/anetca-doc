@@ -1,10 +1,10 @@
 # PRODEJ
 
--je nejdůležitější částí programu a v této záložce lze vytvořit novou účtenku, účtovat pomocí kalkulačky, přihlásit jiný účet, hledat zboží či zadávat množství.
+Je nejdůležitější částí programu a v této záložce lze vytvořit novou účtenku, účtovat pomocí kalkulačky, přihlásit jiný účet, hledat zboží či zadávat množství.
 
 #### Níže uvedený obrázek ilustruje hlavní účtovací obrazovku systému ANetCa.
 
--obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.![](/assets/PRODEJ2.png)
+Obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.![](/assets/PRODEJ2.png)
 
 #### Sekce 1 Založení účtenky \(vpravo nahoře\)
 
@@ -45,53 +45,53 @@
 
 ## Nová účtenka
 
--slouží pro založení nové účtenky do seznamu účtenek nad tlačítkem **"NOVÁ ÚČTENKA"**. Nová účtenka je nutná pro možnost vložení zboží a následné zaslání konečné částky do EET. Tato účtenka se vytvoří v pravé horní části obrazovky v tzv. seznamu účtenek a standardně má tmavě modrou či zelenou barvu. Záleží zda-li je označena či nikoli.
+Slouží pro založení nové účtenky do seznamu účtenek nad tlačítkem **"NOVÁ ÚČTENKA"**. Nová účtenka je nutná pro možnost vložení zboží a následné zaslání konečné částky do EET. Tato účtenka se vytvoří v pravé horní části obrazovky v tzv. seznamu účtenek a standardně má tmavě modrou či zelenou barvu. Záleží zda-li je označena či nikoli.
 
 #### Seznam účtenek
 
--v seznamu účtenek najdete všechny rozpracované účtenky, které byly vytvořeny, ale nebyly ještě odeslány do EET
+V seznamu účtenek najdete všechny rozpracované účtenky, které byly vytvořeny, ale nebyly ještě odeslány do EET
 
 \*seznam účtenek je možné posouvat pomocí šípek vlevo a vpravo.
 
 #### Mazání rozpracované účtenky
 
--ze seznamu lze mazat pomocí tlačítka červeného křížku umístěného pod kalkulačkou ve spodní části obrazovky. Stačí pouze danou účtenku označit a stisknout toto tlačítko
+Ze seznamu lze mazat pomocí tlačítka červeného křížku umístěného pod kalkulačkou ve spodní části obrazovky. Stačí pouze danou účtenku označit a stisknout toto tlačítko
 
 \*pro smazání účtenky nutné mít účtenku bez vloženého zboží. Pro odebrání zboží z účtenky stačí položku označit a stisknout tlačítko červeného křížku.
 
 #### **Přidat položku**
 
--stisknutím vložíte označené zboží na založenou a označenou účtenku.
+Stisknutím vložíte označené zboží na založenou a označenou účtenku.
 
 \*zvolit lze v nastavení též režim rychlého vkládání, kdy nemusíte pokaždé potvrdit vložení zboží na účtenku tlačítkem **"PŘIDAT POLOŽKU",** nýbrž pouhým kliknutím na dlaždici zboží.
 
 #### Tlačítko TISK
 
--jakmile máte na účtence zboží je možné přejít ke kroku zaplacení. Stisknutím tlačítka **"TISK" **zobrazíte tabulku s volbou způsobu úhrady a následně odešlete účtenku do EET.
+Jakmile máte na účtence zboží je možné přejít ke kroku zaplacení. Stisknutím tlačítka **"TISK" **zobrazíte tabulku s volbou způsobu úhrady a následně odešlete účtenku do EET.
 
 #### Tisk poznámky
 
--pokud potřebujete vytisknout jakoukoli poznámku na účtenku, lze ji jednoduše vyplnit do pole s poznámkou. Tisk poznámky musí být aktivován v sekci **"NASTAVENÍ-&gt;ÚČTENKA"**
+Pokud potřebujete vytisknout jakoukoli poznámku na účtenku, lze ji jednoduše vyplnit do pole s poznámkou. Tisk poznámky musí být aktivován v sekci **"NASTAVENÍ-&gt;ÚČTENKA"**
 
 ![](/assets/IKONA POZNAMKA.PNG)
 
 #### Tisk spotřební daně na účtence
 
--pro tisk spotřební daně, která musí být vyplněna v první řadě na kartě **"ZBOŽÍ"** je nutné jej aktivovat v záložce **"NASTAVENÍ-&gt;ÚČTENKA"**
+Pro tisk spotřební daně, která musí být vyplněna v první řadě na kartě **"ZBOŽÍ"** je nutné jej aktivovat v záložce **"NASTAVENÍ-&gt;ÚČTENKA"**
 
 #### Částečná platba
 
--ne vždy je nutné nebo si zákazník nepřeje uhradit celou účtenku naráz a dochází k jejímu postupnému zaplacení. Pokud by se stalo, že potřebujete uhradit pouze část zboží na účtence, stačí zaškrtnout jen část zboží a následně přejít pomocí tlačítka **"TISK" **k platbě. Uhradí se pouze zvolená část a na účtence zůstane zbytek. Po uhrazení celé účtenky zmizí ze seznamu účtenek jako při standardním proplacení celé účtenky.
+Ne vždy je nutné nebo si zákazník nepřeje uhradit celou účtenku naráz a dochází k jejímu postupnému zaplacení. Pokud by se stalo, že potřebujete uhradit pouze část zboží na účtence, stačí zaškrtnout jen část zboží a následně přejít pomocí tlačítka **"TISK" **k platbě. Uhradí se pouze zvolená část a na účtence zůstane zbytek. Po uhrazení celé účtenky zmizí ze seznamu účtenek jako při standardním proplacení celé účtenky.
 
 \*u zboží na účtence je možné **rozdělit počet kusů** na účtence pomocí volby **oddělit množství.**
 
 #### Oddělit množství
 
--pokud požadujete rozdělit napřiklad 10ks daného zboží na účtence či zákazník chce platit pouze část účtenky, je možno tuto položku rozdělit pomocí označení daného zboží na účtence a stisknutím pole **"ODDĚLIT MNOŽSTVÍ". **Dále pak stačí pouze určit množství k oddělení.
+Pokud požadujete rozdělit napřiklad 10ks daného zboží na účtence či zákazník chce platit pouze část účtenky, je možno tuto položku rozdělit pomocí označení daného zboží na účtence a stisknutím pole **"ODDĚLIT MNOŽSTVÍ". **Dále pak stačí pouze určit množství k oddělení.
 
 #### Zadávání pomocí čtečky čárového kódu
 
--pokud máte vyplněný čárový kód u jednotlivých položek v sekci **"ZBOŽÍ"** je možné tento kód načíst přímo v obrazovce **"PRODEJ" **a automaticky se vytvoří účtenka, na kterou bude zboží vloženo.
+Pokud máte vyplněný čárový kód u jednotlivých položek v sekci **"ZBOŽÍ"** je možné tento kód načíst přímo v obrazovce **"PRODEJ" **a automaticky se vytvoří účtenka, na kterou bude zboží vloženo.
 
 \*načtením dalšího kódu se vloží další zboží na aktuálně označenou účtenku.
 
@@ -125,13 +125,13 @@ Pro bezproblémový chod kalkulačky musí být založeny položky se správnou 
 
 ## Seznam skupin
 
--v tomto seznamu se zobrazuje **seznam všech založených** skupin ze záložky NASTAVENÍ-&gt;DPH, SKUPINY, CENY.** **V tomto seznamu je možné listovat šipkama po levé a pravé straně. Skupinu označíte, pokud na ni kliknete myší.
+V tomto seznamu se zobrazuje **seznam všech založených** skupin ze záložky NASTAVENÍ-&gt;DPH, SKUPINY, CENY.** **V tomto seznamu je možné listovat šipkama po levé a pravé straně. Skupinu označíte, pokud na ni kliknete myší.
 
 \*pokud tzv. dvojkliknete na tlačítko **"VŠE"** zobrazí se Vám přehledný seznam skupin.
 
 #### Zboží/dlaždice
 
--seznam zboží je imterpretací založeného zboží v záložce **"ZBOŽÍ" **Tento seznam se zobrazuje ve stylu tzv. dlaždic. V dlaždicích lze listovat pomocí šipek umístěných pod samotným seznamem  
+Seznam zboží je imterpretací založeného zboží v záložce **"ZBOŽÍ" **Tento seznam se zobrazuje ve stylu tzv. dlaždic. V dlaždicích lze listovat pomocí šipek umístěných pod samotným seznamem  
 ![](/assets/Seznam dlazdic + skupiny.PNG)
 
 ## Hledat
@@ -149,7 +149,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 ## Ceny/cenové hladiny
 
--zde nastavíte cenové hladiny. Cenové hladiny se používají například pro NÁKUPNÍ, PRODEJNÍ, DELAERSKOU cenu. Pro změnu cenové hladiny rozklikněte roletku a zvolte správnou hladinu.
+Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro NÁKUPNÍ, PRODEJNÍ, DELAERSKOU cenu. Pro změnu cenové hladiny rozklikněte roletku a zvolte správnou hladinu.
 
 \*cenu u prodejní hladiny je nutno ve zboží navolit jednotlivě pro každou položku zvlášť.
 
@@ -157,9 +157,9 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 ## **Uživatel \(symbol panáčka\)**
 
--zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
+Zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                              
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
@@ -173,7 +173,7 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 ## Karta
 
--karta neboli slevové karty slouží pro uplatnění slevy. Pro vložení slevové karty je nutné mít kartu založenou v záložce **"KARTY"** a následně zadat její číslo. Sleva se uplatní od zadání karty na všechny vložené položky až do jejího odstranění. Více informací najdete v záložce **"KARTY"**.![](/assets/KARTA.JPG)
+Karta neboli slevové karty slouží pro uplatnění slevy. Pro vložení slevové karty je nutné mít kartu založenou v záložce **"KARTY"** a následně zadat její číslo. Sleva se uplatní od zadání karty na všechny vložené položky až do jejího odstranění. Více informací najdete v záložce **"KARTY"**.![](/assets/KARTA.JPG)
 
 #### 
 

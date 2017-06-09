@@ -1,6 +1,6 @@
 # KURZY
 
--v záložce kurzy lze vytvářet, mazat či upravovat kurz nové či stávající měny. Toto nastavení má vliv na změnu měny v záložce "PRODEJ-&gt;TISK"![](/assets/nastaveni - kurzy.PNG)
+V záložce kurzy lze vytvářet, mazat či upravovat kurz nové či stávající měny. Toto nastavení má vliv na změnu měny v záložce "PRODEJ-&gt;TISK"![](/assets/nastaveni - kurzy.PNG)
 
 **Založení nové měny**
 

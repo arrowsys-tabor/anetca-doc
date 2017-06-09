@@ -1,6 +1,6 @@
 # ÚČTENKA
 
--nastavení všeho, co se týká účtenky a tisku na ní.
+Nastavení všeho, co se týká účtenky a tisku na ní.
 
 ![](/assets/Nastaveni - uctenka2.PNG)
 

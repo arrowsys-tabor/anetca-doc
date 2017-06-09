@@ -18,17 +18,17 @@ pokud chcete používat dlaždice/položky na hlavní obrazovce **"PRODEJ"** je 
 
 ### Hledání zboží
 
--do kolonky **"HLEDAT"** vypište daný řetězec pro hledání a stiskněte tlačítko **"VYHLEDAT"**. Následně Vám bude vyfiltrováno vše, co obsahuje zadaný řetězec nebo jeho část.
+Do kolonky **"HLEDAT"** vypište daný řetězec pro hledání a stiskněte tlačítko **"VYHLEDAT"**. Následně Vám bude vyfiltrováno vše, co obsahuje zadaný řetězec nebo jeho část.
 
 ### Nastavení priority
 
--vedle kolonky pro název je také možnost nastavit prioritu zobrazovaní zboží. Pokud je nastavena vyšší priorita, bude se **"ZBOŽÍ" **zobrazovat v záložce **"PRODEJ"** na prvních místech.
+Vedle kolonky pro název je také možnost nastavit prioritu zobrazovaní zboží. Pokud je nastavena vyšší priorita, bude se **"ZBOŽÍ" **zobrazovat v záložce **"PRODEJ"** na prvních místech.
 
 \*tímto nastavením lze volit, které zboží se bude zobrazovat jako první. Většinou se nastavuje na nejvíce prodávanou položku.
 
 ### Slevová položka
 
--pro vytvoření zboží, pomocí kterého budete vytvářet v pokladně slevy je nutné dodržet pár pravidel.
+Pro vytvoření zboží, pomocí kterého budete vytvářet v pokladně slevy je nutné dodržet pár pravidel.
 
 1. Vytvořte zboží, které se bude jmenovat například **"Sleva 20%"**
 2. Vyplňte cenu **"1"**
@@ -48,7 +48,7 @@ Stisknu tlačítko **"PŘIDAT POLOŽKU"**  a následně se mi vloží na účten
 
 ### Korunová položka
 
--používá se především jako náhrada variabilní ceny, která díky cenovým hladinám nemůže být v pokladně ANetCa realizována. Touto položkou a správným postupem lze docílit ceny, kterou požadujete, bez nutnosti mít založeno několik položek s pevně danou cenou.
+Používá se především jako náhrada variabilní ceny, která díky cenovým hladinám nemůže být v pokladně ANetCa realizována. Touto položkou a správným postupem lze docílit ceny, kterou požadujete, bez nutnosti mít založeno několik položek s pevně danou cenou.
 
 1. Vytvořte zboží, které má všechny důležité náležitosti jako je **"Název, Cena, Množství, Časté množství, DPH, a Skupina"**.
 2. Do kolonky kód zboží vyplňte **"999999".**

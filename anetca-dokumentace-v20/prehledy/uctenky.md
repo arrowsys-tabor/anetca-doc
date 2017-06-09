@@ -1,6 +1,6 @@
 # Účtenky
 
--zde naleznete seznam všech provedených účtenek v EET pokladně ANetCa.Lze také opětovně odeslat účtenky, které nebylo možné odeslat řádně do EET například z důvodu výpadku internetu. či provést dotisk účtenky.![](/assets/PREHLEDY-uctenka.PNG)
+Zde naleznete seznam všech provedených účtenek v EET pokladně ANetCa.Lze také opětovně odeslat účtenky, které nebylo možné odeslat řádně do EET například z důvodu výpadku internetu. či provést dotisk účtenky.![](/assets/PREHLEDY-uctenka.PNG)
 
 **Účtenky směny -** pořízené účtenky za období od poslední uzávěrky do teď.
 
@@ -16,6 +16,7 @@
 3. V poli **"ZAPLACENO"** vyberte způsob úhrady účtenky. Za předpokladu, že nerozhoduje způsob úhrady, nemusíte vyplňovat.
 
 4. Zvolte účet, který tuto platbu provedl. Za předpokladu, že máte pouze jeden účet nemusíte vyplňovat.
+
 5. Jakmile máte filtr správně nastaven, stiskněte tlačítko **"VYHLEDAT"**.
 
 #### **Filtrování neodeslaných účtenek**
@@ -59,7 +60,7 @@ Filtrovat lze také pouze neodeslané účtenky. Stačí jednoduše zatrhnout po
 
 ### Opětovné odeslání NEODESLANÝCH účtenek
 
--pokud se stane například, že se Vám na účtence vytiskne PKP kód, je nutné účtenku nejpozději do 48hodin opětovně odeslat.
+Pokud se stane například, že se Vám na účtence vytiskne PKP kód, je nutné účtenku nejpozději do 48hodin opětovně odeslat.
 
 1. Přejděte do záložky **"PŘEHLEDY-&gt;ÚČTENKY"**.
 2. Stiskněte tlačítko **"ODESLAT NEEVIDOVANÉ ÚČTENKY"**.

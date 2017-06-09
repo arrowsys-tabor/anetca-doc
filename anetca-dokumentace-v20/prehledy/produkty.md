@@ -1,6 +1,6 @@
 # Produkty
 
--pokud potřebujete vytisknout seznam prodávaného zboží/produktů například jako podklad pro inventuru, vyberte cenovou hladinu a následně stiskněte pro jeho vygenerování jedno z následujících tlačítek
+Pokud potřebujete vytisknout seznam prodávaného zboží/produktů například jako podklad pro inventuru, vyberte cenovou hladinu a následně stiskněte pro jeho vygenerování jedno z následujících tlačítek
 
 **A4 TISK - **vygeneruje seznam zboží ve formátu A4
 

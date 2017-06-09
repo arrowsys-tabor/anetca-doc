@@ -1,6 +1,6 @@
 # ZÁLOHA
 
--slouží pro kompletní zálohování pokladny ANetCa.
+Slouží pro kompletní zálohování pokladny ANetCa.
 
 ### Postup zálohování
 

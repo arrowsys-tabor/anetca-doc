@@ -1,6 +1,6 @@
 # Tržby SMĚNA
 
--generovat lze také tržby za jednotlivou směnu
+Generovat lze také tržby za jednotlivou směnu
 
 ### Vygenerování nového listu
 

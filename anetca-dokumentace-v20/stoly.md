@@ -1,6 +1,6 @@
 # STOLY
 
--v pokladně lze také rozmístit stoly dle potreby a provozovny.![](/assets/stoly.PNG)
+V pokladně lze také rozmístit stoly dle potreby a provozovny.![](/assets/stoly.PNG)
 
 ### Vytvoření nového stolu
 

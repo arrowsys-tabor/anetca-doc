@@ -1,6 +1,6 @@
 # Kasa DNES
 
--kasa dnes generuje přehled pokladních operací za období DNES.
+Kasa dnes generuje přehled pokladních operací za období DNES.
 
 DNES je definováno jako období od posledního uzavření pokladny do TEĎ.
 

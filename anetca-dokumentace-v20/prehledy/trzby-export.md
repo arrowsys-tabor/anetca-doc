@@ -1,6 +1,6 @@
 # Tržby EXPORT
 
--exportuje tržby za Vámi zvolené období do standartních **formátů .csv a .xml**
+Exportuje tržby za Vámi zvolené období do standartních **formátů .csv a .xml**
 
 ### LOKÁLNÍ EXPORT
 

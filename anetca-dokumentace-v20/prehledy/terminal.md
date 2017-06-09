@@ -1,6 +1,6 @@
 # Terminál
 
--pokud vlastníte bankovní terminál je nutné jej mít správně nastavený.
+Pokud vlastníte bankovní terminál je nutné jej mít správně nastavený.
 
 ### Podporované terminály:
 

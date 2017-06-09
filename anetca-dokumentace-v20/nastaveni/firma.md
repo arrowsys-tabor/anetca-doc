@@ -1,12 +1,8 @@
 # FIRMA
 
--v této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdálená pomoc, aktivování licence, kontrola aktualizací, synchronizace.
-
-
+V této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdálená pomoc, aktivování licence, kontrola aktualizací, synchronizace.
 
 **LICENČNÍ ČÍSLO NALEZNETE VE SPODNÍ ČÁSTI OBRAZOVKY VEDLE AKTUÁLNÍ VERZE PROGRAMU.**
-
-
 
 **ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**![](/assets/nastaveni - firma2.PNG)
 
@@ -56,7 +52,7 @@
 
 ### VZDÁLENÁ POMOC
 
--tlačítko vzdálené pomoci spustí program pro vzdálenou správu, aby bylo možné se připojit na Váš počítač a pomoci s problémem na dálku.
+Tlačítko vzdálené pomoci spustí program pro vzdálenou správu, aby bylo možné se připojit na Váš počítač a pomoci s problémem na dálku.
 
 #### **Postup na spuštění vzdálené pomoci**
 
@@ -72,7 +68,7 @@
 
 ### Registrovat produkt
 
--pro uplatnění licence a převod ze zkušební verze, kde je omezení na 20 účtenek, na plnou stiskněte tlačítko R**EGISTROVAT PRODUKT**. Následně po Vás bude program požadovat vyplnit následující 4 údaje:
+Pro uplatnění licence a převod ze zkušební verze, kde je omezení na 20 účtenek, na plnou stiskněte tlačítko R**EGISTROVAT PRODUKT**. Následně po Vás bude program požadovat vyplnit následující 4 údaje:
 
 1. Licence
 2. Telefon
@@ -84,7 +80,7 @@
 
 ### Zkontrolovat aktualizace
 
--po stisknutí tohoto tlačítka vyčkejte než program zkontroluje platnost licence a klikněte na tlačítko **"AKTUALIZOVAT"**. Následně se program spoji serverem, kde stáhne potřebné aktualizační soubory a zeptá se na ukončení programu **ANETCA**. Stiskněte **ANO.**
+Po stisknutí tohoto tlačítka vyčkejte než program zkontroluje platnost licence a klikněte na tlačítko **"AKTUALIZOVAT"**. Následně se program spoji serverem, kde stáhne potřebné aktualizační soubory a zeptá se na ukončení programu **ANETCA**. Stiskněte **ANO.**
 
 1. Stiskněte tlačítko zkontrolovat aktualizace a vyčkejte než program zkontroluje, zda není nová verze pokladny ANetCa k dispozici
 2. Jakmile se ověří licence, stiskněte tlačítko **"AKTUALIZOVAT"**.
@@ -97,13 +93,13 @@
 
 ### Kontakt podpora
 
--po stisknutí tlačítka se Vám objeví kontakt na výrobce pokladny ANetCa. Tlačítkem křížek se vrátíte zpět do **NASTAVENÍ-&gt;FIRMA**
+Po stisknutí tlačítka se Vám objeví kontakt na výrobce pokladny ANetCa. Tlačítkem křížek se vrátíte zpět do **NASTAVENÍ-&gt;FIRMA**
 
 ![](/assets/kontakt podpora.PNG)
 
 ### Nastavení příjemce EXPORTU
 
--vyplňte email na který má přijít vygenerovaný EXPORT
+Vyplňte email na který má přijít vygenerovaný EXPORT
 
 \*pozor pro toto nastavení je nutné mít nastaveno jako výchozí program pro email **"POŠTA"**
 

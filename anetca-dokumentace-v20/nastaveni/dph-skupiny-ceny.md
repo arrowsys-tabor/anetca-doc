@@ -2,11 +2,11 @@
 
 **!!! POZOR TOTO NASTAVENÍ MŮŽE MÍT VLIV NA FUNKČNOST PROGRAMU. PŘI ŠPATNÉM NASTAVENÍ NEMUSÍ JÍT VYSTAVOVAT ÚČTENKY SE SPRÁVNOU CENOU.**
 
--Nastavení sazeb DPH, skupin a cen![](/assets/Nastaveni - DPH.PNG)
+Nastavení sazeb DPH, skupin a cen![](/assets/Nastaveni - DPH.PNG)
 
 ## Sazba DPH
 
--standardně jsou všechny aktuální sazby DPH založeny již při prvotní instalaci pokladny ANetCa. Pokud by se ale stalo, že se sazba DPH změní nebo je z nějakého předem neznámého důvodu nutné založit novou, je možné tuto sazbu dodatečně vytvořit.
+Standardně jsou všechny aktuální sazby DPH založeny již při prvotní instalaci pokladny ANetCa. Pokud by se ale stalo, že se sazba DPH změní nebo je z nějakého předem neznámého důvodu nutné založit novou, je možné tuto sazbu dodatečně vytvořit.
 
 ### Nová sazba DPH
 
@@ -26,7 +26,7 @@
 
 ## Skupiny
 
--pro kategorizování zboží je nutné mít vytvořenou skupinu. Takto vytvořené skupiny zjednodušují hledání zboží při přidávání položek na účtenku. 
+-pro kategorizování zboží je nutné mít vytvořenou skupinu. Takto vytvořené skupiny zjednodušují hledání zboží při přidávání položek na účtenku.
 
 ### Vytvoření nové skupiny
 
@@ -38,7 +38,7 @@
 
 ### Odstranění skupiny
 
--pro případ, že potřebujete skupinu odstranit zkontrolujte zda je skupina prázdná a není v ní žádné zboží
+Pro případ, že potřebujete skupinu odstranit zkontrolujte zda je skupina prázdná a není v ní žádné zboží
 
 1. Vyberte skupinu
 2. Stiskněte tlačítko červeného křížku
@@ -46,7 +46,7 @@
 
 ## Ceny - cenové hladiny
 
--v pokladně ANetCa lze volit cenové hladiny. Počet cenových hladin není nijak omezený. Cenové hladiny se používají především tam, kde potřebujete rozdělit různé ceny skupinám zákazníků. Například PRODEJ, NÁKUP, DEALER, CENA A, CENA B, CENA C, VIP...atp.![](/assets/ceny.png)
+V pokladně ANetCa lze volit cenové hladiny. Počet cenových hladin není nijak omezený. Cenové hladiny se používají především tam, kde potřebujete rozdělit různé ceny skupinám zákazníků. Například PRODEJ, NÁKUP, DEALER, CENA A, CENA B, CENA C, VIP...atp.![](/assets/ceny.png)
 
 ### Vytvoření nové cenové hladiny
 
@@ -60,5 +60,5 @@
 
 ### IMPORT - HROMADNÉ VKLÁDÁNÍ DAT
 
--VÍCE INFORMACÍ A VZOROVOU TABULKU PRO IMPORT NALEZNETE V SEKCI **"PRÁCE S DATY-&gt;IMPORT"**
+VÍCE INFORMACÍ A VZOROVOU TABULKU PRO IMPORT NALEZNETE V SEKCI **"PRÁCE S DATY-&gt;IMPORT"**
 

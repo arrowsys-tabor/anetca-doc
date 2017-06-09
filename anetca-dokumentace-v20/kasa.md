@@ -1,6 +1,6 @@
 # KASA
 
--zde se odehrávají veškeré pokladní operace jako je například PŘÍJEM HOTOVOSTI, VÝDEJ HOTOVOSTI a UZÁVĚRKA POKLADNY.![](/assets/kasa.PNG)
+Zde se odehrávají veškeré pokladní operace jako je například PŘÍJEM HOTOVOSTI, VÝDEJ HOTOVOSTI a UZÁVĚRKA POKLADNY.![](/assets/kasa.PNG)
 
 **PŘÍJEM -** pokud vkládáte do pokladny peníze, zapište do pole **"TEXT"** důvod vkladu, zadejte částku a stiskněte tlačítko **"PŘIDAT"**
 
@@ -14,7 +14,5 @@
 
 ### **Zaokrouhlení v sestavě uzávěrky**
 
--při uzávěrce pokladny je na tiskové sestavě uvedeno zaokrouhlení, které program provedl na vystavených účtenkách. Toto zaokrouhlení se zobrazuje i na sestavě přehledů tržeb.
-
-
+Při uzávěrce pokladny je na tiskové sestavě uvedeno zaokrouhlení, které program provedl na vystavených účtenkách. Toto zaokrouhlení se zobrazuje i na sestavě přehledů tržeb.
 

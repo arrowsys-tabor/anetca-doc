@@ -1,6 +1,6 @@
 # Tržby ZA OBDOBÍ
 
--tržby za období generuje přehled pokladních operací za zvolené.
+Tržby za období generuje přehled pokladních operací za zvolené.
 
 \*období lze volit pomocí kolonek **POČÁTEČNÍ a KONEČNÉ DATUM**.
 
