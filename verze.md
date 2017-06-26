@@ -1,3 +1,15 @@
+# 1.3.6.0
+
+* Nová funkce proměnná cena, obdoba proměnné ceny jako v programu LILKA
+* Oprava odsazení zleva při tisku
+* Přidána možnost tisku poznámky na účtenku; tiskne se text který je zadaný v rozpracované účtence pod časem
+* V nastavení přidáno zobrazení licence pro snadnější identifikaci, upraven kontakt na podporu,
+* Přepracování vzhledu přehledu účtenek, nový filtr účtenek
+* Přidána možnost vyjádření spotřební daně na účtence, ve vlastnostech produktu lze nově zadat výši spotřební daně
+* Přidáno vyčíslení zaokrouhlení v přehledu tržeb
+* Tlačítko vážení bylo nově přidáno na rychlou kalkulačku a na numerickou klávesnici
+* Upravena logika vyhledávání v produktech, nově se zadává název a pak tlačítko Vyhledat 
+
 # 1.3.5.0
 
 * Upozornění na chybějící DIČ zákazníka pokud se jedná o zákazníka s DIČ a platbu nad 10 tisíc
@@ -26,6 +38,7 @@
 * Nyní jde aktivovat pouze 75mm nebo 58mm tisk
 
 * Nová verze modulu se zákaznickým displejem
+
   * univerzální podpora
 
 Opravy
