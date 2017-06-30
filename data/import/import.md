@@ -31,5 +31,7 @@ Datové typy
 
 decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporované formáty: 2; 2.00; 2,00
 
-![Import produktů](img/import.png)
+![](/assets/NASTAVENI-IMPORT.PNG)
+
+
 
