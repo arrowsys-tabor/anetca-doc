@@ -18,15 +18,15 @@ Z webu [https://www.arrowsys.cz/cs/soubory-ke-stazeni](https://www.arrowsys.cz/c
 
 ![](/assets/instalaceXP58-4.JPG)
 
-**1/ Nastavte správný operační systém**
+**1/ Nastavte správný operační systém.**
 
-**2/ Nastavte rozhraní tiskárny - Printer Interface \(většinou USB\)**
+**2/ Nastavte rozhraní tiskárny - Printer Interface \(většinou USB\).**
 
 **3/ Nastavte typ tiskárny - Printer series. **
 
-**4/ Stiskněte CHECK USB PORT a INSTALL NOW - je možno rovnou vytisknout i zkušební stránku**
+**4/ Stiskněte CHECK USB PORT a INSTALL NOW - je možno rovnou vytisknout i zkušební stránku.**
 
-**\*Tiskárnu je možné nastavit danou tiskárnu jako výchozí  "set Default Printer"**
+**\*Tiskárnu je možné nastavit jako výchozí při zatrhnutí kolonky  "set Default Printer"**
 
 **\*\*příznak "C" v modelu tiskárny značí "CUTTER" neboli funkci automatického ustřihnutí účtenky po vytištění**
 
