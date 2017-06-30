@@ -11,7 +11,7 @@ Slouží pro kompletní zálohování pokladny ANetCa.
 5. Vyčkejte, než se program zazálohuje. Tato akce může trvat několik minut. 
 6. Jakmile je záloha hotová, vyjměte FLASH DISK
 
-### Postup obnovění
+### Postup obnovení
 
 1. Vypněte EET pokladnu ANetCa
 2. Vložte FLASH DISK do Vašeho počítače
