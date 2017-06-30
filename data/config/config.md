@@ -3,10 +3,10 @@
 ## Automatická záloha dat
 
 1. Připojte externí jednotku do zařízení s produktem ANetCa \(např. USB nebo externí disk\)
-2. Spusťte program ANetCa a otevřete "NASTAVENÍ &gt; Záloha"
-3. Vyberte název připojené jednotky a potvrď stisknutím tlačítka "Záloha"
+2. Spusťte program ANetCa a otevřete **"NASTAVENÍ &gt; Záloha"**
+3. Vyberte název připojené jednotky a potvrď stisknutím tlačítka **"Záloha"**
 
-ANetCa se následně vypne a nahraje na vybrané externí zařízení zálohovaná data ve složce "anetca".
+ANetCa se následně vypne a nahraje na vybrané externí zařízení zálohovaná data ve složce, která má v názvu aktualní datum, čas a je v ní podsložka s názvem "ANETCA".
 
 **Zálohují se všechny soubory uvedené na obrázku níže:**
 
