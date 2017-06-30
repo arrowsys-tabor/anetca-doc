@@ -16,7 +16,7 @@
 
 ![](/assets/Vaha-nastaveni.jpg)
 
-2/ Přejděte do záložky **PRODEJ**, stikněte **NOVÁ ÚČTENKA** a klikněte do kolonky **POČET.**
+2/ Přejděte do záložky **PRODEJ**, stiskněte **NOVÁ ÚČTENKA** a klikněte do kolonky **POČET.**
 
 ![](/assets/Vaha-PRODEJ.jpg)
 
@@ -24,5 +24,5 @@
 
 4/ Následně stačí jen dokončit všechny kroky pro úspěšné vytištění účtenky.
 
-**\*upozornění: pro správný chod váhy je nutné zadat u zboží cenu za jednotku, aby mohl program s naváženým množstvím správně pracovat**
+**\*upozornění: pro správný chod váhy je nutné zadat u zboží cenu za jednotku, aby mohl program s naváženým množstvím správně pracovat.**
 

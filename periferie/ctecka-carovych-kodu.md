@@ -12,15 +12,11 @@
 
 4/ Pokud i tak načítá diakritická znaménka je nutno změnit jazyk klávesnice na anglický, tak, aby se při načtení čárového kódu objevila čísla nikoli diakritická znaménka.
 
+### Vkládání čárového kódu do programu:
 
-
-### Vkládání čárového kódu do programu: 
-
-1/ Spusťte program ANetCa
+1/ Spusťte program ANetCa.
 
 2/ Přejděte do záložky "ZBOŽÍ" a vytvořte položku kam vložíte čárový kód dané položky. Poté uložte.
 
 3/ Přejděte do záložky "PRODEJ", stiskněte tlačítko "NOVÁ ÚČTENKA" a nascanujte kód ze zboží, který by se měl pokud máte správně nastavenou čtečku čárového kódu načíst automaticky do účtenky.
-
-
 

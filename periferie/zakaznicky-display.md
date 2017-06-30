@@ -34,9 +34,9 @@ Zákaznický displej slouží k zobrazení důležitých informací pro zákazn�
 
 ![](/assets/ZD-program-2.jpg)
 
--pro nastavení textu zobrazeného na v kolonkách je nutné do každé kolonky vyplnit patřičný znak. Pokud se jedná o mezeru je nutno vyplnit zvlášť i ji.
+-pro nastavení textu zobrazeného v kolonkách je nutné do každého pole vyplnit patřičný znak. Pokud se jedná o mezeru je nutno vyplnit zvlášť i ji.
 
-8/ Po chvíli Vám vyskočí okno s hlášením abyste restartovali Display. To potvrďte a následně odpojte a připojte USB k počítači.
+8/ Po chvíli Vám vyskočí okno s hlášením, abyste restartovali Display. To potvrďte a následně odpojte a připojte zákaznický display k počítači.
 
 # Nastavení v ANetCa
 
