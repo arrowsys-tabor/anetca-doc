@@ -14,3 +14,7 @@
 
 7\) po spuštění zkontrolujte novou verzi v záložce **"NASTAVENÍ -&gt; FIRMA"** \(verze programu je uvedena v dolní části obrazovky\)
 
+![](/assets/AKTUALIZACE 1.PNG)
+
+![](/assets/AKTUALIZACE.PNG)
+
