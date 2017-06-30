@@ -31,7 +31,13 @@ Datové typy
 
 decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporované formáty: 2; 2.00; 2,00
 
+### 
+
+### Nahrání Importu do pokladny ANetCa
+
+1. Přejděte do záložky **"NASTAVENÍ-&gt;DPH, SKUPINY, CENY"** a stiskněte tlačítko **"NAČÍST PRODUKTY"**
+2. Vyberte, kde se soubor pro import nachází a načtěte ho.
+3. Vyčkejte moment, dokud program nezahlásí **"POLOŽKY BYLY ÚSPĚŠNĚ IMPORTOVÁNY"**.
+
 ![](/assets/NASTAVENI-IMPORT.PNG)
-
-
 
