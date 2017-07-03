@@ -1,13 +1,18 @@
 # Aktivování licence
 
-Licence se aktivuje v **NASTAVENÍ** v záložce **Firma**. Kliknutím na tlačítko **Registrovat produkt** se otevře formulář, kam je potřeba vložit:
+Pro uplatnění licence a převod ze zkušební verze, kde je omezení na 20 účtenek, na plnou stiskněte tlačítko R**EGISTROVAT PRODUKT**. Následně po Vás bude program požadovat vyplnit následující 4 údaje:
 
-1. licenční kód \(kód vám bude zaslán po zaplacení produktu ANetCa\)
-2. tel. číslo 
-3. email
+1. Licence
+2. Telefon
+3. Email
 4. IČO
+5. Potvrďte tlačítkem **"OVĚŘIT KLÍČ"** nebo ukončete pomocí **"ZAVŘÍT"**.
 
-Aktivace může probíhat pár vteřin.
+Aktivace může trvat několik vteřin.
+
+\*Kontrolu aktivace licence provedete v **"NASTAVENÍ-&gt;FIRMA"**, kde je ve spodní části napsané verze programu a hláška "**LICENCE PROGRAMU JE PLATNÁ".**
+
+
 
 ![](/assets/klicence.jpg)
 
