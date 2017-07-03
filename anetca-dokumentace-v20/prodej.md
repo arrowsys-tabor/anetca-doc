@@ -47,9 +47,11 @@ Obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základníc
 
 Slouží pro založení nové účtenky do seznamu účtenek nad tlačítkem **"NOVÁ ÚČTENKA"**. Nová účtenka je nutná pro možnost vložení zboží a následné zaslání konečné částky do EET. Tato účtenka se vytvoří v pravé horní části obrazovky v tzv. seznamu účtenek a standardně má tmavě modrou či zelenou barvu. Záleží zda-li je označena či nikoli.
 
-#### Seznam účtenek
+#### Seznam účtenek 
 
-V seznamu účtenek najdete všechny rozpracované účtenky, které byly vytvořeny, ale nebyly ještě odeslány do EET
+V seznamu účtenek najdete všechny rozpracované účtenky, které byly vytvořeny, ale nebyly ještě odeslány do EET.
+
+![](/assets/IKONA POZNAMKA.PNG)
 
 \*seznam účtenek je možné posouvat pomocí šípek vlevo a vpravo.
 
@@ -57,17 +59,23 @@ V seznamu účtenek najdete všechny rozpracované účtenky, které byly vytvo�
 
 Ze seznamu lze mazat pomocí tlačítka červeného křížku umístěného pod kalkulačkou ve spodní části obrazovky. Stačí pouze danou účtenku označit a stisknout toto tlačítko
 
+![](/assets/cerveny krizek.PNG)
+
 \*pro smazání účtenky nutné mít účtenku bez vloženého zboží. Pro odebrání zboží z účtenky stačí položku označit a stisknout tlačítko červeného křížku.
 
 #### **Přidat položku**
 
 Stisknutím vložíte označené zboží na založenou a označenou účtenku.
 
+![](/assets/pridat polouzku2.PNG)
+
 \*zvolit lze v nastavení též režim rychlého vkládání, kdy nemusíte pokaždé potvrdit vložení zboží na účtenku tlačítkem **"PŘIDAT POLOŽKU",** nýbrž pouhým kliknutím na dlaždici zboží.
 
 #### Tlačítko TISK
 
 Jakmile máte na účtence zboží je možné přejít ke kroku zaplacení. Stisknutím tlačítka **"TISK" **zobrazíte tabulku s volbou způsobu úhrady a následně odešlete účtenku do EET.
+
+![](/assets/tisk.PNG)
 
 #### Tisk poznámky
 
@@ -87,17 +95,19 @@ Ne vždy je nutné nebo si zákazník nepřeje uhradit celou účtenku naráz a 
 
 ![](/command/sale/img/partialPayment2.png)
 
-\*u zboží na účtence je možné **rozdělit počet kusů** na účtence pomocí volby **oddělit množství.**
+**\***u zboží na účtence je možné **rozdělit počet kusů** na účtence pomocí volby **oddělit množství.**
 
 #### Oddělit množství
 
-Pokud požadujete rozdělit napřiklad 10ks daného zboží na účtence či zákazník chce platit pouze část účtenky, je možno tuto položku rozdělit pomocí označení daného zboží na účtence a stisknutím pole **"ODDĚLIT MNOŽSTVÍ". **Dále pak stačí pouze určit množství k oddělení.
+Pokud požadujete rozdělit například 10 ks daného zboží na účtence či zákazník chce platit pouze část účtenky, je možno tuto položku rozdělit pomocí označení daného zboží na účtence a stisknutím pole **"ODDĚLIT MNOŽSTVÍ". **Dále pak stačí pouze určit množství k oddělení.
+
+![](/assets/oddelit mnozstvi.PNG)
 
 #### Zadávání pomocí čtečky čárového kódu
 
 Pokud máte vyplněný čárový kód u jednotlivých položek v sekci **"ZBOŽÍ"** je možné tento kód načíst přímo v obrazovce **"PRODEJ" **a automaticky se vytvoří účtenka, na kterou bude zboží vloženo.
 
-\*načtením dalšího kódu se vloží další zboží na aktuálně označenou účtenku.
+**\***načtením dalšího kódu se vloží další zboží na aktuálně označenou účtenku.
 
 ### Použití slevy {#použití-slevy}
 
@@ -166,6 +176,8 @@ Hledat lze podle čárového kódu, názvu a PLU. Hledaný text se filtruje auto
 
 Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro NÁKUPNÍ, PRODEJNÍ, DELAERSKOU cenu. Pro změnu cenové hladiny rozklikněte roletku a zvolte správnou hladinu.
 
+![](/assets/prodejni hladiny.PNG)
+
 \*cenu u prodejní hladiny je nutno ve zboží navolit jednotlivě pro každou položku zvlášť.
 
 \*\*prodejní hladiny lze přidat v sekci **NASTAVENÍ-&gt;DPH, SKUPINY, CENY - **toto nastavení je pouze pro pokročilé uživatele a při špatném nastavení může mít za následek špatnou funkčnost programu.
@@ -174,7 +186,7 @@ Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro 
 
 Zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                            
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                              
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet

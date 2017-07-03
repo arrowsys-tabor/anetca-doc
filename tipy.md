@@ -1,4 +1,4 @@
 # Tipy a triky
 
-Zjednodušuje práci s programem.
+Zjednodušují práci s programem.
 
