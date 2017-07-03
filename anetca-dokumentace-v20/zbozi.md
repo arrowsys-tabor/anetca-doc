@@ -12,7 +12,7 @@ pokud chcete používat dlaždice/položky na hlavní obrazovce **"PRODEJ"** je 
 ### Smazání karty zboží
 
 1. označte v levé polovině obrazovky kartu zboží, kterou potřebujete smazat
-2. stiskněte symbol křížku v levém dolním rohu 
+2. stiskněte symbol křížku v levém dolním rohu ![](/assets/cerveny krizek.PNG)
 
 \*pokud je již zboží zahrnuto v tržbách, což znamená, že je již použito na účtence, nelze jej smazat.
 
@@ -20,9 +20,13 @@ pokud chcete používat dlaždice/položky na hlavní obrazovce **"PRODEJ"** je 
 
 Do kolonky **"HLEDAT"** vypište daný řetězec pro hledání a stiskněte tlačítko **"VYHLEDAT"**. Následně Vám bude vyfiltrováno vše, co obsahuje zadaný řetězec nebo jeho část.
 
+![](/assets/hledat.PNG)
+
 ### Nastavení priority
 
 Vedle kolonky pro název je také možnost nastavit prioritu zobrazovaní zboží. Pokud je nastavena vyšší priorita, bude se **"ZBOŽÍ" **zobrazovat v záložce **"PRODEJ"** na prvních místech.
+
+![](/assets/priorita.PNG)
 
 \*tímto nastavením lze volit, které zboží se bude zobrazovat jako první. Většinou se nastavuje na nejvíce prodávanou položku.
 
