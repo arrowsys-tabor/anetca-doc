@@ -12,6 +12,7 @@
   * [Jak pracovat s kalkulačkou](jak-pracovat-s-kalkulackou.md)
   * [Jak nastavit tiskárnu](jak-nastavit-tiskarnu.md)
   * [Jak rychle markovat](jak-rychle-markovat.md)
+  * [Mám neodeslané účtenky](mam-neodeslane-uctenky.md)
   * [Vzdálená pomoc](vzdalena-pomoc.md)
 * [Prodej](anetca-dokumentace-v20/prodej.md)
 * [Zboží](anetca-dokumentace-v20/zbozi.md)

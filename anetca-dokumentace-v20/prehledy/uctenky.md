@@ -68,6 +68,14 @@ Pokud se stane například, že se Vám na účtence vytiskne PKP kód, je nutn�
 
 \*x zastupuje počet.
 
+### Filtrování pouze neodeslaných účtenek
+
+1. Přejděte do záložky **"PŘEHLEDY-ÚČTENKY".**
+2. Vymažte symbolem křížku veškeré zvolené filtry.
+3. Zaškrtněte pole **"ZOBRAZIT POUZE NEODESLANÉ".**
+4. Stiskněte **"VYHLEDAT".**
+5. Nyní se Vám vyfiltrují pouze neodeslané účtenky.
+
 ### Přehled účtenek \(archív\)
 
 1. Přejděte do záložky **"PŘEHLEDY-&gt;ÚČTENKY".**
