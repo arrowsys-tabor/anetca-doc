@@ -8,6 +8,8 @@
 4. Text na účtence je možno přepsat \(např. Stůl 9, paní v černém, Jarda, atd.\).  
 5. **Účtenkový pás je nekonečný** – posouvá se stiskem šipky v kolečku vpravo nebo vlevo.
 
+
+
 #### Sekce 2 Výběr zboží \(vlevo dole\)
 
 1. Po spuštění programu se zobrazí všechny založené položky.
