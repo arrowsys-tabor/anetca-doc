@@ -9,6 +9,7 @@
   * [Jak dostat přehledy tržeb do PDF, Excelu nebo Wordu](questions/export.md)
 * [Tipy a triky](tipy.md)
   * [Jak vytvořit účtenku](jak-vytvorit-uctenku.md)
+  * [Jak pracovat s kalkulačkou](jak-pracovat-s-kalkulackou.md)
   * [Jak nastavit tiskárnu](jak-nastavit-tiskarnu.md)
   * [Jak rychle markovat](jak-rychle-markovat.md)
   * [Vzdálená pomoc](vzdalena-pomoc.md)
