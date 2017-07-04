@@ -57,7 +57,7 @@ Tlačítko vzdálené pomoci spustí program pro vzdálenou správu, aby bylo mo
 #### **Postup na spuštění vzdálené pomoci**
 
 1. Přejděte do **"NASTAVENÍ-&gt;FIRMA"** a stiskněte tlačítko **"VZDÁLENÁ POMOC"**
-2. Vyčkejte než se zobrazí spouštěcí dialog, že vzdálená pomoc může provádět změny na Vašem počítači a potvrďte jej
+2. Vyčkejte než se zobrazí spouštěcí dialog, že vzdálená pomoc může provádět změny na Vašem počítači a potvrďte jej pomocí **"ANO"**
 3. Vyčkejte na druhý dialog a stiskněte tlačítko **"PŘIJMOUT"**
 4. Technické podpoře do telefonu nadiktujte 9-ti místné číslo tzv. ID a následně heslo
 5. Po odstranění problému okno se vzdálenou správou ukončete

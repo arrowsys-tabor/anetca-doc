@@ -9,6 +9,7 @@
   * [Jak dostat přehledy tržeb do PDF, Excelu nebo Wordu](questions/export.md)
 * [Tipy a triky](tipy.md)
   * [Jak rychle markovat](jak-rychle-markovat.md)
+  * [Vzdálená pomoc](vzdalena-pomoc.md)
 * [Prodej](anetca-dokumentace-v20/prodej.md)
 * [Zboží](anetca-dokumentace-v20/zbozi.md)
 * [Nastavení](anetca-dokumentace-v20/nastaveni.md)
