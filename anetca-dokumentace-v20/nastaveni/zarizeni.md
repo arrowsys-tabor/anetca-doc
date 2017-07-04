@@ -41,11 +41,13 @@
 
 \*Tisk na objednávku vyvoláte v sekci **"PRODEJ-&gt;TISK-&gt;TISK OBJEDNÁVKY"**
 
+### **Vysvětlení jednotlivých pojmů:**
+
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 **Nastavení zákaznického displaye - **zde vyplňte text při neaktivitě zákaznického displaye a uložte. Doba neaktivity lze měnit případnou utilitou na cd přiloženém k zákaznickému displayi.
 
-\*Utilita je program, který dokáže zařízení a jeho parametry nastavit z pohodlí počítače.
+\*utilita je program, který dokáže zařízení a jeho parametry nastavit z pohodlí počítače.
 
