@@ -11,7 +11,33 @@ Pro úspěšné vygenerování přehledu tržeb je nutné v první řadě uděla
 3. Stiskněte tlačítko **"UZAVŘÍT"** a potvrďte dialog pomocí **"ANO"**
 4. Tiskárna Vám vytiskne přehled uzávěrky pokladny v období od poslední uzávěrky do teď.
 
-### Přehledy lze dělit na:
+### Vygenerování přehledu pokladních operací KASA DNES
+
+1. Přejděte do záložky **"PŘEHLEDY-&gt;KASA DNES"**.
+2. Vyberte formát tiskové sestavy \(úzký tisk, A4 tisk, Bluetooth tisk\) - jednotlivými tlačítky vygenerujete náhled přehledu
+3. Vytiskněte pomocí tlačítkové lišty\(ikonka tiskárny\) nebo vygenerujte do **formátu EXCEL, PDF, WORD** po kliknutí na obrázek diskety.
+4. Potvrďte.
+
+### Vygenerování přehledu pokladních operací KASA ZA OBDOBÍ
+
+1. Přejděte do záložky **"PŘEHLEDY-&gt;KASA ZA OBDOBÍ"**.
+2. Vyberte formát tiskové sestavy \(úzký tisk, A4 tisk, Bluetooth tisk\) - jednotlivými tlačítky vygenerujete náhled přehledu
+3. Vytiskněte pomocí tlačítkové lišty\(ikonka tiskárny\) nebo vygenerujte do formátu EXCEL, PDF, WORD po kliknutí na obrázek diskety.
+4. Potvrďte
+
+### Vygenerování přehledu pokladních operací TRŽBY DNES
+
+1. Přejděte do záložky **"PŘEHLEDY-&gt;TRŽBY DNES"**.
+2. Vyberte formát tiskové sestavy \(úzký tisk, A4 tisk, Bluetooth tisk\) - jednotlivými tlačítky vygenerujete náhled přehledu
+3. Vytiskněte pomocí tlačítkové lišty\(ikonka tiskárny\) nebo vygenerujte do formátu EXCEL, PDF, WORD po kliknutí na obrázek diskety.
+4. Potvrďte.
+
+### Vygenerování přehledu pokladních operací TRŽBY ZA OBDOBÍ
+
+1. Přejděte do záložky **"PŘEHLEDY-&gt;TRŽBY ZA OBDOBÍ"**.
+2. Vyberte formát tiskové sestavy \(úzký tisk, A4 tisk, Bluetooth tisk\) - jednotlivými tlačítky vygenerujete náhled přehledu
+3. Vytiskněte pomocí tlačítkové lišty\(ikonka tiskárny\) nebo vygenerujte do formátu** EXCEL, PDF, WORD** po kliknutí na obrázek diskety.
+4. Potvrďte.
 
 **Kasa DNES -** kasa, kde jsou data z ještě neuzavřené pokladny \(slouží pro průběžnou kontrolu\)
 
