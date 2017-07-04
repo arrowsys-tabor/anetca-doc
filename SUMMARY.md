@@ -13,6 +13,7 @@
   * [Jak založit nové zboží](jak-zalozit-nove-zbozi.md)
   * [Jak nastavit tiskárnu](jak-nastavit-tiskarnu.md)
   * [Jak rychle markovat](jak-rychle-markovat.md)
+  * [Jak na přehledy tržeb](v-prehledech-se-mi-nezobrazuji-data.md)
   * [Mám neodeslané účtenky](mam-neodeslane-uctenky.md)
   * [Vzdálená pomoc](vzdalena-pomoc.md)
 * [Prodej](anetca-dokumentace-v20/prodej.md)
