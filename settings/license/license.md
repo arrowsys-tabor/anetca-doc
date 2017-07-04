@@ -6,13 +6,11 @@ Pro uplatnění licence a převod ze zkušební verze, kde je omezení na 20 ú�
 2. Telefon
 3. Email
 4. IČO
-5. Potvrďte tlačítkem **"OVĚŘIT KLÍČ"** nebo ukončete pomocí **"ZAVŘÍT"**.
+5. Potvrďte tlačítkem **"OVĚŘIT KLÍČ"** a ukončete pomocí **"ZAVŘÍT"**.
 
 Aktivace může trvat několik vteřin.
 
 \*Kontrolu aktivace licence provedete v **"NASTAVENÍ-&gt;FIRMA"**, kde je ve spodní části napsané verze programu a hláška "**LICENCE PROGRAMU JE PLATNÁ".**
-
-
 
 ![](/assets/klicence.jpg)
 
