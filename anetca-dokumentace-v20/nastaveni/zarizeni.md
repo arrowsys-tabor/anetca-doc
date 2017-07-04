@@ -30,7 +30,7 @@
 ### Návod pro nastavení USB tiskárny:
 
 1. Přejděte do záložky **"NASTAVENÍ-&gt;ZAŘÍZENÍ"**.
-2. Nainstalujte ovladač k tiskárně. \(tiskárna musí být zapnuta přítomna v operačním systému\)
+2. Nainstalujte ovladač k tiskárně. \(tiskárna musí být připojena k PC, zapnuta a po nainstalování ovladače přítomna v operačním systému\)
 3. Zvolte **"HLAVNÍ TISKÁRNU"** pomocí roletky.
 4. Volitelně lze zvolit i **"TISKÁRNU OBJEDNÁVEK"**, která vytiskne pouze objednávkový lístek například do kuchyně, čili obsluha nemusí psát objednávku ručně.
 5. Uložte.
@@ -40,10 +40,6 @@
 * standardně lze nastavit Bluetooth tiskárnu pro tisk účtenek a zároveň USB tiskárnu pro tisk do kuchyně
 
 \*Tisk na objednávku vyvoláte v sekci **"PRODEJ-&gt;TISK-&gt;TISK OBJEDNÁVKY"**
-
-
-
-
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
