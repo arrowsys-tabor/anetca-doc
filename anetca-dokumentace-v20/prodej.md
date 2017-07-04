@@ -47,7 +47,7 @@ Obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základníc
 
 Slouží pro založení nové účtenky do seznamu účtenek nad tlačítkem **"NOVÁ ÚČTENKA"**. Nová účtenka je nutná pro možnost vložení zboží a následné zaslání konečné částky do EET. Tato účtenka se vytvoří v pravé horní části obrazovky v tzv. seznamu účtenek a standardně má tmavě modrou či zelenou barvu. Záleží zda-li je označena či nikoli.
 
-#### Seznam účtenek 
+#### Seznam účtenek
 
 V seznamu účtenek najdete všechny rozpracované účtenky, které byly vytvořeny, ale nebyly ještě odeslány do EET.
 
@@ -186,7 +186,7 @@ Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro 
 
 Zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                              
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                                
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
