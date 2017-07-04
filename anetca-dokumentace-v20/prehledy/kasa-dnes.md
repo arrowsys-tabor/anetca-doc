@@ -8,7 +8,7 @@ DNES je definováno jako období od posledního uzavření pokladny do TEĎ.
 
 1. Přejděte do záložky **"PŘEHLEDY-&gt;KASA DNES"**.
 2. Vyberte formát tiskové sestavy \(úzký tisk, A4 tisk, Bluetooth tisk\) - jednotlivými tlačítky vygenerujete náhled přehledu
-3. Vytiskněte pomocí tlačítkové lišty\(ikonka tiskárny\) nebo vygenerujte do **formátu EXCEL, PDF, WORD** po kliknutí na obrázek diskety.
+3. Vytiskněte pomocí tlačítkové lišty\(ikonka tiskárny\) nebo vygenerujte do formátu** EXCEL, PDF, WORD** po kliknutí na obrázek diskety.
 4. Potvrďte.
 
 **Úzký tisk -** generuje tisk úzké sestavy 58mm, pro pokladní tiskárnu.
