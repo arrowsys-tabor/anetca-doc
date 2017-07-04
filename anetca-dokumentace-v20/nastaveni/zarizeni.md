@@ -13,11 +13,12 @@
 ### Návod pro spárování Bluetooth tiskárny:
 
 1. Spárujte Bluetooth tiskárnu s operačním systémem
-2. Přejděte do záložky NASTAVENÍ-&gt;ZAŘÍZENÍ
-3. Vyplňte pole **"NÁZEV TISKÁRNY"** a **"PÁROVACÍ KLÍČ"**
-4. Uložte.
-5. Stiskněte tlačítko **"TEST"**.
-6. Na obrazovce by se měla zobrazit správa, že bylo zařízení bluetooth úspěšně spárováno.
+2. Přejděte do záložky **"NASTAVENÍ-&gt;ZAŘÍZENÍ"**
+3. Zaškrtněte pole **"BLUETOOTH TISKÁRNA"**
+4. Vyplňte pole **"NÁZEV TISKÁRNY"** a **"PÁROVACÍ KLÍČ"**
+5. Uložte.
+6. Stiskněte tlačítko **"TEST"**.
+7. Na obrazovce by se měla zobrazit správa, že bylo zařízení bluetooth úspěšně spárováno.
 
 \*při párování tiskárny se ujistěte, že máte tiskárnu připojenou k elektrické síti, zapnutou a vložený kotouček s papírem.
 
