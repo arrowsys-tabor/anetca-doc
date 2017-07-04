@@ -10,6 +10,7 @@
 * [Tipy a triky](tipy.md)
   * [Jak vytvořit účtenku](jak-vytvorit-uctenku.md)
   * [Jak pracovat s kalkulačkou](jak-pracovat-s-kalkulackou.md)
+  * [Jak založit nové zboží](jak-zalozit-nove-zbozi.md)
   * [Jak nastavit tiskárnu](jak-nastavit-tiskarnu.md)
   * [Jak rychle markovat](jak-rychle-markovat.md)
   * [Mám neodeslané účtenky](mam-neodeslane-uctenky.md)
