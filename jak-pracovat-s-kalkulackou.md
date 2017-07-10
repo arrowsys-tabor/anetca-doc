@@ -4,6 +4,16 @@
 
 Prodej pomocí kalkulačky je nejjednodušší možnou variantou prodeje. Na kalkulačce vložíte čásku, potvrdíte pomocí dané sazby daně, stisknete tlačítko **"TISK"** a následně potvrdíte **"FAJFKOU"**
 
+### Nová účtenka pomocí kalkulačky
+
+1. Přejděte do záložky **"PRODEJ"**
+2. Na kalkulačce v pravém dolním rohu zadejte částku, kterou potřebujete přidat na účtenku
+3. Stiskněte správné tlačítko daně. Toto tlačítko slouží jako** "="** na standartní kalkulačce.
+4. Po vložení částky do kalkulačky stiskněte tlačítko** "PLATBA"**
+5. Potvrďte způsob úhrady a stiskněte **"UHRADIT A TISKNOUT"** \(při volbě úhrady Hotovost\)
+
+### Dodatečné funkce a tlačítka kalkulačky
+
 1. S kalkulačkou lze nově i násobit pomocí dlaždic. Stiskněte daný počet na kalkulačce a následně klikněte na dlaždici zboží. Například při stisku 5 x dlaždice se vloží na účtenku 5 kusů daného zboží.
 2. Pomocí kalkulačky lze též násobit. Stačí zadat počet x částku a potvrdit pomocí tlačítka správné daně.
 3. **CL** smaže hodnotu na kalkulačce a slouží pro opravu zadávané částky
@@ -27,6 +37,4 @@ Pro bezproblémový chod kalkulačky musí být založeny položky se správnou 
 
 \*zadávání záporné hodnoty je možné použít také pro storno, čili odeslání záporné hodnoty do EET.  
 ![](/assets/Kalkulačka2.PNG)
-
-
 
