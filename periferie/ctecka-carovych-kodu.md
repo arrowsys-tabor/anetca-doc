@@ -48,3 +48,5 @@
 
 ![](/assets/CTECKA-END.PNG)
 
+\*uvedené kódy naleznete v uživatelském manuálu, přiloženém k čtečce.
+
