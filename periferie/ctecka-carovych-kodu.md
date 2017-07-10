@@ -26,7 +26,25 @@
 
 2/ Uveďte čtečku do továrního nastavení. Načtěte kód **"START-&gt;DEFAULT-&gt;END"**
 
+![](/assets/CTECKA-START.PNG)
+
+![](/assets/CTECKA-DEFAULT.PNG)
+
+![](/assets/CTECKA-END.PNG)
+
 3/ Nastavte tzv. **"TERMINÁTOR"** na znak **"ENTER". **Načtěte **"START-&gt;\*ENTER\(0X0D\)-&gt;END"**
 
+![](/assets/CTECKA-START.PNG)
+
+![](/assets/CTECKA-ENTER.PNG)
+
+![](/assets/CTECKA-END.PNG)
+
 4/ Nastavte jazyk čtečky na **"FRENCH" **\(je nutné nastavit pro čtení čárových kódů jako číslo\). Načtěte **"START-&gt;FRENCH-&gt;END"**
+
+![](/assets/CTECKA-START.PNG)
+
+![](/assets/CTECKA-FRENCH.PNG)
+
+![](/assets/CTECKA-END.PNG)
 
