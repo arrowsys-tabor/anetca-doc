@@ -9,16 +9,12 @@ Od verze 1.3.6. jsou dva způsoby pro vytištění poznámky účtenky.
 3. Následně **odešlete** účtenku do EET.
 4. Na účtence se vytiskne poznámka.
 
-
-
 ### Poznámka na účtence pomocí pole "DIČ zákazníka"
 
 1. Vytvořte účtenku, vložte zboží a přejděte pomocí tlačítka** "TISK" **na obrazovku s výběrem způsobu úhrady.
 2. Do pole **"DIČ zákazníka"** vyplňte poznámku. Jedná se o textové pole, kde může být vyplněno jak DIČ zákazníka, tak jakýkoli text.
 3. Následně **odešlete** účtenku do EET.
 4. Na účtence se vytiskne poznámka.
-
-
 
 
 
