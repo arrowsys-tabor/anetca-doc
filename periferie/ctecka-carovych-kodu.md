@@ -24,9 +24,9 @@
 
 1/ Zapněte čtečku a dlouhým stiskem scanovacího tlačítka zjistěte, zda je funkční laser.
 
-2/ Uveďte čtečku do továrního nastavení. 
+2/ Uveďte čtečku do továrního nastavení. Načtěte kód **"START-&gt;DEFAULT-&gt;END"**
 
-3/ Nastavte tzv. "TERMINÁTOR" na znak "ENTER"
+3/ Nastavte tzv. **"TERMINÁTOR"** na znak **"ENTER". **Načtěte **"START-&gt;\*ENTER\(0X0D\)-&gt;END"**
 
-4/ Nastavte jazyk čtečky na "FRENCH"
+4/ Nastavte jazyk čtečky na **"FRENCH" **\(je nutné nastavit pro čtení čárových kódů jako číslo\). Načtěte **"START-&gt;FRENCH-&gt;END"**
 
