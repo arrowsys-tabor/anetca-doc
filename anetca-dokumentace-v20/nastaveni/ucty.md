@@ -24,10 +24,11 @@ Uživatelské účty slouží k rozdělení obsluhy. Pokud je zvolen uživatelsk
 ### Nastavení hesla účtu
 
 1. Vytvořte účet **"VLASTNÍK"** a **"POKLADNÍ"**.
-2. Na obou účtech nastavte heslo a vždy uložte.
+2. Na obou účtech nastavte heslo a **"ULOŽTE"** modrým tlačítkem..
 3. Zaškrtněte pole **"VYŽADOVAT ÚČET VLASTNÍK PRO VSTUP DO ZBOŽÍ, NASTAVENÍ A PŘEHLEDŮ ZA OBDOBÍ".**
-4. Vypněte a opětovně spusťte EET pokladnu ANetCa.
-5. Po spuštění vyberte správný účet a zadejte heslo. \(Pokladní má omezené právo dostat se do zboží, nastavení a přehledů. Vlastník má neomezená práva\)
+4. **"ULOŽTE"** zeleným tlačítkem.
+5. Vypněte a opětovně spusťte EET pokladnu ANetCa.
+6. Po spuštění vyberte správný účet a zadejte heslo. \(Pokladní má omezené právo dostat se do zboží, nastavení a přehledů. Vlastník má neomezená práva\)
 
 ### Vysvětlení jednotlivých pojmů:
 
