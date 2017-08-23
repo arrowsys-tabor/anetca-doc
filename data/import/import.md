@@ -39,5 +39,7 @@ decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporovan
 2. Vyberte, kde se soubor pro import nachází a načtěte ho.
 3. Vyčkejte moment, dokud program nezahlásí **"POLOŽKY BYLY ÚSPĚŠNĚ IMPORTOVÁNY"**.
 
+\*pokud potřebujete pomocí importu jednoduše změnit pouze například cenu, stačí ji v souboru s importem upravit a zachovat stejný  KÓD ZBOŽÍ a PLU. Toto zaručí, že se položky z importu nezduplikují, ale pouze upraví. Nové položky budou přidány standardní cestou.
+
 ![](/assets/NASTAVENI-IMPORT.PNG)
 
