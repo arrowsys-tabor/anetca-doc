@@ -19,7 +19,7 @@
 * **Kód zboží** - Číslo ceníku
 * **Prodej. množství** - počet na účtenku, výchozí 1
 * **Kuchyně** - 1 - položka patří do kuchyně
-* **PLU** - kód pro vyhledávání \(pouze čísla\)
+* **PLU** - kód pro vyhledávání \(pouze celá čísla\)
 
 **Zvýrazněné sloupce musejí být naplněny, ostatní mohou být prázdné.**
 
