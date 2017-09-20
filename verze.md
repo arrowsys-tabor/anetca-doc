@@ -1,3 +1,40 @@
+# 1.4.1.0
+
+* Oprava dvojího spuštění.
+
+# 1.4.0.0
+
+* Podpora evidence Slovenské fiskální pokladny.
+* Překlad do slovenštiny  .
+* Upravení přepínání prostředí do Vietnamštiny.
+* Podpora přímého propojení s váhami Mattler Toledo a CAS \(Zeman váhy\).
+* Funkce Manuální účtenky.
+
+# 1.3.9.0
+
+*  Oprava výpočtu zaokrouhlení na sestavě TRŽBY a TRŽBY DNES  .
+* Automatické založení účtenky po stisknutí položky  .
+
+# 1.3.8.0
+
+* Stabilní převod pokladních operací a účtenek do archivu.
+* Opravena chyba u doodeslání účtenek z archivu \(účtenky za 0,-\).
+* Přidána možnost kliknout do pole pravým tlačítkem myši a kopírovat/vložit/vyjmout.
+
+# 1.3.7.0
+
+* Skrytí hesla Účtu
+* Upraven formulář pro zadávání číselné hodnoty. Lze zadávat numerickou klávesnicí. 
+* PIN v numerické dotykové klávesnici je skrytý.
+* Možnost nastavení PIN pro refundaci  .
+* Možnost nastavení PIN pro slevu  .
+* Možnost nastavení více kopií bonu do kuchyně  .
+* Ošetření vypínání aplikace při aktualizaci  .
+* EET Opraven základ DPH u položek po slevě  .
+* Opraven střih papíru na BT sestavě uzávěrky a pokladny  .
+* Uzávěrka upravena na uzavírání velkého množství dat.
+* Přidán export do Skladů - Přehledy - Produkty - Export položek
+
 # 1.3.6.0
 
 * Nová funkce proměnná cena, obdoba proměnné ceny jako v programu LILKA
