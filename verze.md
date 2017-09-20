@@ -7,7 +7,7 @@
 * Podpora evidence Slovenské fiskální pokladny.
 * Překlad do slovenštiny
 * Upravení přepínání prostředí do Vietnamštiny.
-* Podpora přímého propojení s váhami Mattler Toledo a CAS \(Zeman váhy\).
+* Podpora přímého propojení s váhami Mettler Toledo a CAS \(Zeman váhy\).
 * Funkce Manuální účtenky.
 
 # 1.3.9.0
