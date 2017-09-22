@@ -4,9 +4,17 @@ Nastavení všeho, co se týká účtenky a tisku na ní.
 
 ![](/assets/Nastaveni - uctenka2.PNG)
 
+#### Číselná řada účtenky
+
 **Číselná řada účtenky -** nastavení číslování účtenek. Jako **výchozí je nastaveno 2017\*\*\*\*\***, kdy hvězdičky zastupují plovoucí čísla. V případě
 
 **\***číslování účtenky může mít maximálně 10 číslic, kdy **"0"** a** "\*" **reprezentují tzv. plovoucí místa. Tato plovoucí místa dávají prostor pro posloupně se číslující účtenky. Pokud by bylo zvoleno pouze jedno plovoucí místo, program bude mít prostor pro číslování pouze 10 účtenek a poté začne opět od prvního čísla.
+
+#### Manuální nastavení číselné řady účtenky
+
+     **Pokračování v číselné řadě -** do kolonky "ČÍSELNÁ ŘADA ÚČTENKY" stačí zapsat číslo poslední účtenky a uložit. Následně se budou další pořízené účtenky odvíjet od tohoto čísla, kdy při pořízení nové účtenky se přičte vždy +1.
+
+
 
 **Záhlaví \(oddělit ";"\) -** do záhlaví účtenky lze zapsat jakýkoli text. Pokud chcete text oddělit na nový řádek, vložte mezi text znak **";"**
 
