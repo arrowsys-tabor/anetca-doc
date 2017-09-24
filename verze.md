@@ -1,3 +1,13 @@
+# 1.4.2.0
+
+* Tarování váhou
+* Doodeslání účtenek při spuštění programu
+* Po ukončení účtenky hlavní okno nepřejde od pozadí \(oprava\)
+* Možnost nastavení zobrazení všech skupin jedním kliknutím na VŠE \(Prostředí\)
+* Bluetooth účtenka tiskne název položky vždy na nový řádek
+* Úprava účtenek podle požadavků ČMI
+* Oprava platby Bitcoinem
+
 # 1.4.1.0
 
 * Oprava dvojího spuštění.
