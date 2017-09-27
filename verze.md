@@ -1,3 +1,7 @@
+# 1.4.2.1
+
+* Oprava zadávání na kalkulačce.
+
 # 1.4.2.0
 
 * Tarování váhou
