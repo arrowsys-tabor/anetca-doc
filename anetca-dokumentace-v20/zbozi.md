@@ -1,13 +1,13 @@
 # ZBOŽÍ
 
-pokud chcete používat dlaždice/položky na hlavní obrazovce **"PRODEJ"** je nutné v první řadě založit i nové ZBOŽÍ.![](/assets/Zbozí2.PNG)
+pokud chcete používat dlaždice/položky na hlavní obrazovce **"PRODEJ"** je nutné v první řadě založit i nové ZBOŽÍ.![](/assets/Zbozi2.JPG)
 
 ### Založení nového zboží
 
 1. Přejděte do záložky **"ZBOŽÍ"**
 2. Stiskněte tlačítko **"NOVÝ"**
 3. Vyplňte povinná pole "**NÁZEV, CENU, POČET/JEDNOTKA, ČASTÉ MNOŽSTVÍ, DPH, SKUPINU"**
-4. stiskněte **"PŘIDAT"**![](/assets/Nova polozka2.PNG)
+4. stiskněte **"PŘIDAT"**![](/assets/ZBOZI3.JPG)
 
 ### Smazání karty zboží
 
@@ -20,7 +20,7 @@ pokud chcete používat dlaždice/položky na hlavní obrazovce **"PRODEJ"** je 
 
 Do kolonky **"HLEDAT"** vypište daný řetězec pro hledání a stiskněte tlačítko **"VYHLEDAT"**. Následně Vám bude vyfiltrováno vše, co obsahuje zadaný řetězec nebo jeho část.
 
-![](/assets/hledat.PNG)
+![](/assets/ZBOZI-VYHLEDAVANI.JPG)
 
 ### Nastavení priority
 
@@ -34,7 +34,7 @@ Vedle kolonky pro název je také možnost nastavit prioritu zobrazovaní zbož�
 
 Pro vytvoření zboží, pomocí kterého budete vytvářet v pokladně slevy je nutné dodržet pár pravidel.
 
-![](/assets/ZBOŽÍ SLEVA.PNG)
+![](/assets/ZBOZI-SLEVOVAPOLOZKA.JPG)
 
 1. Vytvořte zboží, které se bude jmenovat například **"Sleva 20%"**
 2. Vyplňte cenu **"1"**
