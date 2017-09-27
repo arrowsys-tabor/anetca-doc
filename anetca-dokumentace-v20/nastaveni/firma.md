@@ -8,8 +8,6 @@ V této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdá
 
 ### Informace o firmě
 
-![](/assets/NASTAVENI-FIRMA.JPG)
-
 **Název firmy - **vyplňte název firmy.
 
 **Ulice -** ulice, ve které se nachází provozovna
