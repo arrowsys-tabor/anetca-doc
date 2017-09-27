@@ -4,7 +4,7 @@ Je nejdůležitější částí programu a v této záložce lze vytvořit novou
 
 #### Níže uvedený obrázek ilustruje hlavní účtovací obrazovku systému ANetCa.
 
-Obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.![](/assets/PRODEJ3.JPG)
+Obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základních sekcí.![](/assets/PRODEJ4.jpg)
 
 #### Sekce 1 Založení účtenky \(vpravo nahoře\)
 
@@ -41,7 +41,7 @@ Obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základníc
 4. V řádcích účtenky je možno přepsat text. \(vhodné pro řemeslníky nebo detailnější označení zboží\)  
 5. Vpravo dole je průběžný součet účtenky.
 6. Po stisku tlačítka** "TISK"** se objeví dialogové okno \(viz. obrázek níže\)  
-7. Zde je možno vybrat způsob platby v Kč, cizích měnách, Bitcoinem, BitcoinPay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.![](/assets/TISK2.png)
+7. Zde je možno vybrat způsob platby v Kč, cizích měnách, Bitcoinem, BitcoinPay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.![](/assets/TISK3.JPG)
 
 ## Nová účtenka
 
@@ -91,9 +91,9 @@ Pro tisk spotřební daně, která musí být vyplněna v první řadě na kart�
 
 Ne vždy je nutné nebo si zákazník nepřeje uhradit celou účtenku naráz a dochází k jejímu postupnému zaplacení. Pokud by se stalo, že potřebujete uhradit pouze část zboží na účtence, stačí zaškrtnout jen část zboží a následně přejít pomocí tlačítka **"TISK" **k platbě. Uhradí se pouze zvolená část a na účtence zůstane zbytek. Po uhrazení celé účtenky zmizí ze seznamu účtenek jako při standardním proplacení celé účtenky.
 
-![](/command/sale/img/partialPayment1.png)
+![](/assets/PartialPayment1.JPG)
 
-![](/command/sale/img/partialPayment2.png)
+![](/assets/PartialPayment2.JPG)
 
 **\***u zboží na účtence je možné **rozdělit počet kusů** na účtence pomocí volby **oddělit množství.**
 
@@ -114,7 +114,7 @@ Pokud máte vyplněný čárový kód u jednotlivých položek v sekci **"ZBOŽ�
 1. Na hlavní účtovací obrazovce **PRODEJ **klikněte na položku slevy.
 2. Do kolonky **Počet **\(červeně orámovaná kolonka na obrázku\) napište částku, ze které chcete zlevnit.
 
-![](/assets/PRODEJ SLEVA.PNG)
+![](/assets/Sleva1.JPG)
 
 \*podrobnosti slevy naleznete v sekci **"ZBOŽÍ"** této dokumentace.
 
@@ -146,7 +146,7 @@ Pro bezproblémový chod kalkulačky musí být založeny položky se správnou 
 * **pro DPH 21%: 90921**
 
 \*zadávání záporné hodnoty je možné použít také pro storno, čili odeslání záporné hodnoty do EET.  
-![](/assets/Kalkulačka2.PNG)
+![](/assets/kalkulacka.JPG)
 
 ## Seznam skupin
 
@@ -186,7 +186,7 @@ Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro 
 
 Zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                                      
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                                          
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
