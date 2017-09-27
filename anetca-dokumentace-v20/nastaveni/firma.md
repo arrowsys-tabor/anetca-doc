@@ -4,9 +4,11 @@ V této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdá
 
 **LICENČNÍ ČÍSLO NALEZNETE VE SPODNÍ ČÁSTI OBRAZOVKY VEDLE AKTUÁLNÍ VERZE PROGRAMU.**
 
-**ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**![](/assets/nastaveni - firma2.PNG)
+**ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**![](/assets/NASTAVENI-FIRMA.JPG)
 
 ### Informace o firmě
+
+![](/assets/NASTAVENI-FIRMA.JPG)
 
 **Název firmy - **vyplňte název firmy.
 
