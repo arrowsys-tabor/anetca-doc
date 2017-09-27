@@ -10,5 +10,5 @@ Pokud potřebujete vytisknout seznam prodávaného zboží/produktů například
 
 -z nástrojové lišty lze tisknout či generovat seznam do souboru.
 
-\*formát generování do souboru **EXCEL, PDF, WORD**![](/assets/OSTATNI - Produkty.PNG)
+\*formát generování do souboru **EXCEL, PDF, WORD**![](/assets/PREHLEDY-PRODUKTY.JPG)
 

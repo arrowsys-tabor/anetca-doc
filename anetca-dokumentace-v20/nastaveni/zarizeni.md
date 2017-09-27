@@ -8,7 +8,7 @@
 
 \*pokud vlastníte tiskárnu **STAR MICRONICS**, je nutné aktivovat tento režim pro bezchybný tisk.
 
-![](/assets/zarizeni.PNG)
+![](/assets/NASTAVENI-ZARIZENI.JPG)
 
 ### Návod pro spárování Bluetooth tiskárny:
 

@@ -1,6 +1,6 @@
 # Účtenky
 
-Zde naleznete seznam všech provedených účtenek v EET pokladně ANetCa.Lze také opětovně odeslat účtenky, které nebylo možné odeslat řádně do EET například z důvodu výpadku internetu. či provést dotisk účtenky.![](/assets/PREHLEDY-uctenka.PNG)
+Zde naleznete seznam všech provedených účtenek v EET pokladně ANetCa.Lze také opětovně odeslat účtenky, které nebylo možné odeslat řádně do EET například z důvodu výpadku internetu. či provést dotisk účtenky.![](/assets/PREHLEDY-UCTENKY.JPG)
 
 **Účtenky směny -** pořízené účtenky za období od poslední uzávěrky do teď.
 
@@ -86,5 +86,7 @@ Pokud se stane například, že se Vám na účtence vytiskne PKP kód, je nutn�
 6. V horní části náhledu zvolte symbol tiskárny z nástrojové lišty.
 7. Vyberte tiskárnu a potvrďte tisk.
 
+### Manuální účtenka
 
+Doporučujeme používat tuto funkci pouze v případě, že je nutné ručně opravit DPH. Například při nesouladu zaslaného základu daně. Špatné použití může mít za následek nesrovnalosti v EET.
 

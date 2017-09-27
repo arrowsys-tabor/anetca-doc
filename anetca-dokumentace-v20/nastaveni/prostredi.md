@@ -1,6 +1,6 @@
 # PROSTŘEDÍ
 
-Slouží k nastavení prostředí celého programu. Především, tiskových režimů, řazení, měny, jazyku, zrychlené volby vkládání pouhým kliknutím na zboží nebo například oddělení položek stejného typu na účtence.![](/assets/Prostredi.PNG)
+Slouží k nastavení prostředí celého programu. Především, tiskových režimů, řazení, měny, jazyku, zrychlené volby vkládání pouhým kliknutím na zboží nebo například oddělení položek stejného typu na účtence.![](/assets/NASTAVENI-PROSTREDI.JPG)
 
 **Zobrazit klávesnici při vyplňování číselných hodnot **- zobrazí numerickou klávesnici při kliknutí do pole, kde by se měla zadávat hodnota. Zjednodušuje tak práci především na dotykových obrazovkách.
 

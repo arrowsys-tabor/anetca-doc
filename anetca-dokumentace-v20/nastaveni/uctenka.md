@@ -2,7 +2,7 @@
 
 Nastavení všeho, co se týká účtenky a tisku na ní.
 
-![](/assets/NASTAVENI-UCTENKA-POSL.UCT.JPG)
+![](/assets/NASTAVENI-UCTENKA.JPG)
 
 #### Číselná řada účtenky
 
@@ -13,8 +13,6 @@ Nastavení všeho, co se týká účtenky a tisku na ní.
 #### Manuální nastavení číselné řady účtenky
 
 **Pokračování v číselné řadě -** do kolonky **"ČÍSELNÁ ŘADA ÚČTENKY"** stačí zapsat číslo poslední účtenky a uložit. Následně se budou další pořízené účtenky odvíjet od tohoto čísla, kdy při pořízení nové účtenky se přičte vždy +1.
-
-
 
 **Záhlaví \(oddělit ";"\) -** do záhlaví účtenky lze zapsat jakýkoli text. Pokud chcete text oddělit na nový řádek, vložte mezi text znak **";"**
 
