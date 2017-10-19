@@ -2,6 +2,8 @@
 
 Platební terminál slouží k provádění transakcí pomocí platební karty. Při přímém propojení platebního terminálu s EET pokladnou se tisknou údaje o provedené transakci přímo na účtenku. Pokladna tak dá pokyn ke zpracování transakce terminálu, tudíž vyplní částku za Vás, takže nemůže dojít k situaci, kdy se obsluha terminálu splete v částce.
 
+![](/assets/TERMINAL-INGENICO.JPG)
+
 ### Jak zaplatit kartou?
 
 Stačí vytvořit novou účtenku, vložit na ni zboží a při výběru způsobu úhrady vybrat možnost "KARTOU". Následně se Vám na terminálu objeví částka k zaplacení. Nyní máte 3 možnosti jakým způsobem bude karta použita.
