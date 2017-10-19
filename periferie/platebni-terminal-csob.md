@@ -6,7 +6,9 @@ Platební terminál slouží k provádění transakcí pomocí platební karty. 
 
 ### Jak zaplatit kartou?
 
-Stačí vytvořit novou účtenku, vložit na ni zboží a při výběru způsobu úhrady vybrat možnost "KARTOU". Následně se Vám na terminálu objeví částka k zaplacení. Nyní máte 3 možnosti jakým způsobem bude karta použita.
+Stačí vytvořit novou účtenku, vložit na ni zboží a při výběru způsobu úhrady vybrat možnost "KARTOU". Odešlete fajfkou. Následně se Vám na terminálu objeví částka k zaplacení. Nyní máte 3 možnosti jakým způsobem bude karta použita.
+
+![](/assets/TERMINÁL-PLATBA KARTOU.JPG)
 
 #### **1.Načtením karty ve čtečce**
 
