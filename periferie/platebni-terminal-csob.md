@@ -12,6 +12,8 @@ Stačí vytvořit novou účtenku, vložit na ni zboží a při výběru způsob
 
 #### **2.Bezkontaktním přiložením do místa, kde je terminál označen symbolem pro bezkontaktní platby **
 
+![](/assets/TERMINAL-BEZKONTAKTNI PLATBA.JPG)
+
 -zákazník přiloží bezkontaktní kartu a pokud je požadovaná částka do 500 Kč není nutné zadávat PIN. Když částka přesáhne 500 Kč je nutné zadat PIN na pinpadu.
 
 #### **3.Magnetickou čtečkou **
@@ -36,7 +38,7 @@ Stačí vytvořit novou účtenku, vložit na ni zboží a při výběru způsob
 
 Ne vždy je vhodné pro zákazníka provést storno platby přes infolinku. Pokud zákazník požaduje vrácení peněz přímo na místě, stornuje se platba vytvořením účtenky se záporným číslem, správnou sazbou daně a následným odesláním do EET. Peníze, které byly odeslány na účet obchodníka přijdou na účet v rámci následujících pracovních dnů. Jelikož bylo provedeno storno, částka z pokladny se rovněž odečte a vše sedí tak jak má.
 
-\*postup pro storno zápornou částkou naleznete v záložce "PRODEJ" této dokumentace.
+\*postup pro storno zápornou částkou naleznete v záložce **"PRODEJ"** této dokumentace.
 
 ### **Není detail transakce, co mám dělat?**
 
