@@ -136,6 +136,16 @@ Prodej pomocí kalkulačky je nejjednodušší možnou variantou prodeje. Na kal
 
 Na kalkulačce lze vytvořit i položku se zápornou hodnotou. Docílíte toho tak, že zadáte částku, kterou potřebujete odečíst, stisknete symbol "-" a následně správnou sazbu daně.
 
+### Storno účtenky manuálně - zápornou částkou
+
+1. Přejděte do záložky **"PRODEJ"**.
+2. Vytvořte novou účtenku pomocí tlačítka **"NOVÁ ÚČTENKA"**.
+3. Zde zadejte v pravé dolní části do kalkulačky částku a stiskněte tlačítko **"-"**.
+4. Stiskněte tlačítko daně, ve které se stornovaná částka nachází.
+5. Odešlete takto vytvořenou účtenku do EET.
+
+**\*POZOR\*** Pokud stornujete manuálně je nutné vždy vložit odděleně částku v jednotlivé dani.
+
 ### Daňové položky - tlačítka 21%, 15%, 10% a 0%
 
 Pro bezproblémový chod kalkulačky musí být založeny položky se správnou sazbou daně, cenou "1", kódem zboží "999999" a PLU:
@@ -186,7 +196,7 @@ Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro 
 
 Zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                                          
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                                            
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
