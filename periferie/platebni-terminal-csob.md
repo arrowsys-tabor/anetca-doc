@@ -48,3 +48,5 @@ Ne vždy je vhodné pro zákazníka provést storno platby přes infolinku. Poku
 
 Při výpadku internetu je vypsáno hlášení na účtence **"NENÍ DETAIL TRANSAKCE"** viz. obr. níže. I nejspolehlivější bezdrátová síť může mít momentální výpadek, proto je nutné hlídat, aby nedošlo k tomu, že transakce kartou se neprovede a zákazník odejde bez placení.
 
+![](/assets/TERMINÁL-NENI DETAIL TRANSAKCE.JPG)![](/assets/TERMINÁL-NENI DETAIL TRANSAKCE.JPG)
+
