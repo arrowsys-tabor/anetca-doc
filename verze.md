@@ -5,8 +5,6 @@
 # 1.4.2.0
 
 * Tarování váhou
-* Doodeslání účtenek při spuštění programu
-* Po ukončení účtenky hlavní okno nepřejde od pozadí \(oprava\)
 * Možnost nastavení zobrazení všech skupin jedním kliknutím na VŠE \(Prostředí\)
 * Bluetooth účtenka tiskne název položky vždy na nový řádek
 * Úprava účtenek podle požadavků ČMI
