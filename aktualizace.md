@@ -12,6 +12,8 @@
 
 6\) nyní se začne pokladna aktualizovat, proto vyčkejte moment, než se opětovně spustí.
 
+\*od verze 1.4.0.0. se dialog s ANO/NE nezobrazuje. Program se ukončí a následně sám spustí již aktualizovaný. Body 5 a 6 jsou tím pádem přeskočeny.
+
 7\) po spuštění zkontrolujte novou verzi v záložce **"NASTAVENÍ -&gt; FIRMA"** \(verze programu je uvedena v dolní části obrazovky\)
 
 ![](/assets/AKTUALIZACE 1.PNG)
