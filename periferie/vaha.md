@@ -14,15 +14,29 @@
 
 1/ Spusťte ANetCa a přejděte do záložky **NASTAVENÍ -&gt; ZAŘÍZENÍ -&gt; PORT VÁHY** - zde vyplňte **zjištěný** **COM PORT** a stiskněte **ULOŽIT**.
 
-![](/assets/Vaha-nastaveni.jpg)
+![](/assets/NASTAVENI-ZARIZENI-VAHA MODUL.JPG)
 
 2/ Přejděte do záložky **PRODEJ**, stiskněte **NOVÁ ÚČTENKA** a klikněte do kolonky **POČET.**
 
-![](/assets/Vaha-PRODEJ.jpg)
+![](/assets/PRODEJ-VAHA2.jpg)
 
-3/Stiskněte **symbol váhy**, navážená hodnota z LCD se Vám přenese do pole pro počet a položku i s tímto údajem vložte na účtenku.
+3/ Stiskněte **symbol váhy**, navážená hodnota z LCD se Vám přenese do pole pro počet a položku i s tímto údajem vložte na účtenku.
 
 4/ Následně stačí jen dokončit všechny kroky pro úspěšné vytištění účtenky.
 
 **\*upozornění: pro správný chod váhy je nutné zadat u zboží cenu za jednotku, aby mohl program s naváženým množstvím správně pracovat.**
+
+### **Vážení pomocí kalkulačky**
+
+Symbol váhy lze stisknout a pracovat s ním i pomocí tlačítek kalkulačky. Zde lze 
+
+#### Postup:
+
+1. Vytvořte novou účtenku.
+2. Pokud Vážíte zboží v misce, kterou nechcete do váženého zboží počítat, dejte misku na váhu a stiskněte tlačítko TÁRY.
+3. Zboží, které potřebujete navážit dejte na váhu a stiskněte symbol váhy.
+4. Následně stiskněte na kalkulačce tlačítko správné sazby daně.
+5. Účtenku uhraďte nebo přidejte další zboží.
+
+
 

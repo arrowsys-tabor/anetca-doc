@@ -132,6 +132,14 @@ Prodej pomocí kalkulačky je nejjednodušší možnou variantou prodeje. Na kal
 
 **TLAČÍTKO VÁHY -** pro zvážení zboží připojte váhu a stiskněte tlačítko se symbolem váhy, které Vám přenese zvážené množství do programu a automaticky vypočítá cenu z jednotky udané u dané položky ZBOŽÍ.
 
+![](/assets/KALKULAČKA-VÁHA.JPG)
+
+**TLAČÍTKO TÁRY -** Tára je hmotnost obalu \( misky \) a pod. Na váhu se položí miska a váha zváží táro \( obal\) a uloží do paměti nebo vynuluje. Takže vlastní navažování je již v čisté váze netto.
+
+![](/assets/KALKULAČKA-TÁRY.JPG)
+
+
+
 \*před vložením je nutné PLU přiřadit k určitému zboží
 
 Na kalkulačce lze vytvořit i položku se zápornou hodnotou. Docílíte toho tak, že zadáte částku, kterou potřebujete odečíst, stisknete symbol "-" a následně správnou sazbu daně.
@@ -196,7 +204,7 @@ Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro 
 
 Zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                                              
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                                                
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet

@@ -40,15 +40,27 @@
 
 * standardně lze nastavit Bluetooth tiskárnu pro tisk účtenek a zároveň USB tiskárnu pro tisk do kuchyně
 
-\*Tisk na objednávku vyvoláte v sekci **"PRODEJ-&gt;TISK-&gt;TISK OBJEDNÁVKY"**
+\*Tisk na objednávku vyvoláte v sekci **"PRODEJ-&gt;TISK-&gt;TISKÁRNA OBJEDNÁVKY"**
 
 ### **Vysvětlení jednotlivých pojmů:**
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
+**Táry** - Tára je hmotnost obalu \( misky \) a pod. Na váhu se položí miska a váha zváží táro \( obal\) a uloží do paměti nebo vynuluje.
+
+Takže vlastní navažování je již v čisté váze netto.
+
+
+
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
+
+**Nastavení **- slouží k nastavení zobrazeného textu na zákaznickém displayi.
+
+
 
 **Nastavení zákaznického displaye - **zde vyplňte text při neaktivitě zákaznického displaye a uložte. Doba neaktivity lze měnit případnou utilitou na cd přiloženém k zákaznickému displayi.
 
 \*utilita je program, který dokáže zařízení a jeho parametry nastavit z pohodlí počítače.
+
+
 
