@@ -2,6 +2,16 @@
 
 -slouží pro měření hmotnosti daného zboží. Hodnotu, která se zobrazuje na LCD následně automaticky vloží do programu, kde vytvoří poměrnou část k jednotkové ceně zboží.
 
+**TLAČÍTKO VÁHY -** slouží k navážení zboží. Hmotnost váženého zboží se po stisknutí tlačítka přepíše z váhy do pokladny.
+
+![](/assets/KALKULAČKA-VÁHA.JPG)
+
+**TLAČÍTKO TÁRY - ** Tára je hmotnost obalu \( misky \) a pod. Na váhu se položí miska a váha zváží táro \( obal\) a uloží do paměti nebo vynuluje.
+
+![](/assets/KALKULAČKA-TÁRY.JPG)
+
+Takže vlastní navažování je již v čisté váze netto.
+
 ### Instalace:
 
 1/ Vybalte váhu z originálního balení a pomocí přibaleného kabelu připojte na sériový port. Pokud Vám počítač nedisponuje sériovým portem lze použít **redukci RS232-&gt;USB**. Tu lze sehnat například [**ZDE**](http://i-tec.cz/?t=3&v=31 "RS232 to USB convertor") \(s uvedeným modelem pracovala váha v naprostém pořádku\). Na tuto redukci je nutno nainstalovat ovladač z originálního balení.
@@ -28,7 +38,7 @@
 
 ### **Vážení pomocí kalkulačky**
 
-Symbol váhy lze stisknout a pracovat s ním i pomocí tlačítek kalkulačky. Zde lze 
+Symbol váhy lze stisknout a pracovat s ním i pomocí tlačítek kalkulačky. Zde lze
 
 #### Postup:
 
