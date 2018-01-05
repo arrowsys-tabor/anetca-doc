@@ -6,7 +6,7 @@ Nastavení všeho, co se týká účtenky a tisku na ní.
 
 #### Číselná řada účtenky
 
-**Číselná řada účtenky -** nastavení číslování účtenek. Jako **výchozí je nastaveno 201700000**, kdy hvězdičky zastupují plovoucí čísla. V případě
+**Číselná řada účtenky -** nastavení číslování účtenek. Jako **výchozí je nastaveno 201700000.**
 
 **\***číslování účtenky může mít maximálně 10 číslic, kdy **"0"** reprezentuje tzv. plovoucí místa. Tato plovoucí místa dávají prostor pro posloupně se číslující účtenky. Pokud by bylo zvoleno pouze jedno plovoucí místo, program bude mít prostor pro číslování pouze 10 účtenek a poté začne opět od prvního čísla.
 
