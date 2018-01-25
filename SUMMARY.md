@@ -17,6 +17,7 @@
   * [Jak na přehledy tržeb](v-prehledech-se-mi-nezobrazuji-data.md)
   * [Jak rychle markovat](jak-rychle-markovat.md)
   * [Mám neodeslané účtenky](mam-neodeslane-uctenky.md)
+  * [Prodej v pověření](prodej-v-povereni.md)
   * [Vzdálená pomoc](vzdalena-pomoc.md)
 * [Prodej](anetca-dokumentace-v20/prodej.md)
 * [Zboží](anetca-dokumentace-v20/zbozi.md)

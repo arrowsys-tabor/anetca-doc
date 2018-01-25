@@ -54,6 +54,8 @@ V pokladně ANetCa lze volit cenové hladiny. Počet cenových hladin není nija
 2. Vyplňte název cenové hladiny.
 3. Uložte.
 
+Toto nastavení se váže na zvolenou cenovou hladinu v sekci **"PRODEJ"**.
+
 \*vždy musí být alespoň jedna cenová hladina nastavena jako výchozí
 
 **VAROVÁNÍ: NASTAVENÍ CENOVÝCH HLADIN DOPORUČUJEME MĚNIT JEN ZKUŠENÝM UŽIVATELŮM. MŮŽE MÍT ZA NÁSLEDEK NEFUNKČNOST PROGRAMU!!!**

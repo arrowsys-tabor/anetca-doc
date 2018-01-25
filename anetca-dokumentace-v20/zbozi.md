@@ -62,6 +62,18 @@ Používá se především jako náhrada variabilní ceny, která díky cenovým
 
 Nyní se chová takto založená položka jako položka s variabilní cenou. Přejděte do záložky **"PRODEJ"**, vytvořte novou účtenku, označte tuto položku a do kolonky **"POČET"** vyplňte požadovanou cenu. Stiskněte tlačítko **"PŘIDAT POLOŽKU"**. Následně se vloží místo počtu kusů na účtenku pouze požadovaná cena s počtem kusů "1"
 
+### Prodej v pověření - POVĚŘUJÍCÍ DIČ
+
+Toto pole se vyplňuje pouze v případě, že dané zboží prodáváte v režimu pověření. Do kolonky jednoduše vyplníte DIČ subjektu, na který zboží prodáváte.
+
+**POSTUP:**
+
+1. Přejděte do záložky **"ZBOŽÍ"**.
+2. Stiskněte tlačítko **"NOVÉ"**.
+3. Vyplňte všechny potřebné údaje a do kolonky Pověřující DIČ zadejte DIČ subjektu, na který zboží prodáváte.
+
+\*Pro prodej v pověření je vždy nutné vytvořit na toto zboží samostatnou účtenku.
+
 ### Vysvětlení jednotlivých pojmů:
 
 **Název - **pole pro název zboží. Tento název se zobrazuje následně v záložce **"PRODEJ"** jako název zboží a tiskne se na účtence.
