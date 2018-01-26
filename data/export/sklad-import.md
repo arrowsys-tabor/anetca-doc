@@ -24,5 +24,5 @@ Datové typy:
 
 decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporované formáty: 2; 2,00
 
-**Vzorovou tabulku** si můžete stáhnout ve správném formátu zde [http://dokumentace.lilka.cz/import-vzor-sklad.xls](http://dokumentace.lilka.cz/import-vzor-sklad.xls)
+**Vzorovou tabulku** si můžete stáhnout ve správném formátu zde: [download xls](http://dokumentace.lilka.cz/import-vzor-sklad.xls)
 
