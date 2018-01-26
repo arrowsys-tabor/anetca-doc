@@ -20,7 +20,7 @@
 
 3/ Přejděte do záložky **"PRODEJ"**, stiskněte tlačítko **"NOVÁ ÚČTENKA"** a nascanujte kód ze zboží, který by se měl pokud máte správně nastavenou čtečku čárového kódu načíst automaticky do účtenky.
 
-### Nastavení námi podporované čtečky XL-620
+### Nastavení námi podporované USB čtečky XL-620
 
 1/ Zapněte čtečku a dlouhým stiskem scanovacího tlačítka zjistěte, zda je funkční laser.
 
