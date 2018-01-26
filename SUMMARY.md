@@ -63,4 +63,5 @@
   * [Čtečka čárových kódů](periferie/ctecka-carovych-kodu.md)
   * [Tiskárna XP-58](periferie/tiskarna-xp-58.md)
   * [Platební terminál ČSOB](periferie/platebni-terminal-csob.md)
+* [Pro dealery](pro-dealery.md)
 
