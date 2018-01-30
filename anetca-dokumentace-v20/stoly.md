@@ -9,6 +9,8 @@ V pokladně lze také rozmístit stoly dle potreby a provozovny.![](/assets/stol
 3. Stůl umístěte na místo dle výběru v pravé části obrazovky.
 4. Uzamkněte.
 
+\*Po vytvoření nových stolů je nutné vypnout a zapnout program. 
+
 ### Smazání stolu
 
 1. Odemkněte editaci stolů pomocí pole** "UZAMKNOUT" **\(nesmí být zaškrtnuto\)
