@@ -64,4 +64,5 @@
   * [Tiskárna XP-58](periferie/tiskarna-xp-58.md)
   * [Platební terminál ČSOB](periferie/platebni-terminal-csob.md)
 * [Pro dealery](pro-dealery.md)
+  * [SQL ERROR - chyba .mdf](pro-dealery/sql-error-chyba-mdf.md)
 
