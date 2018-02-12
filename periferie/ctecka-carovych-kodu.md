@@ -2,6 +2,14 @@
 
 -slouží k zjednodušení práce pomocí načtení čárového kódu přímo do programu místo složitého hledání položky ve stovkách zboží. Každá čtečka je typu **PLUG and PLAY**, což znamená, že stačí pouze připojit k počítači a je provozuschopná. Další nastavení je pak uživatelské pomocí posloupnosti čárových kódů v přiloženém manuálu k obsluze.
 
+### Kompatibilita zařízení: {#kompatibilita-zařízení}
+
+**SUNLUX XL-6200\(USB\) -**PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+
+**Manhattan 178488\(USB\) -**PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Aclas 6", Elio T1
+
+**Virtuos BT-310\(Bluetooth\) -**PC\(Windows\), Lark ULTIMATE X4 10.1", Alcatel PIXI4 10", Elio V1, Elio M500/P2000, Aclas 6", Elio T1, iPad, iPhone
+
 ### Instalace:
 
 1/ Připojte čtečku čárového kódu k PC.
