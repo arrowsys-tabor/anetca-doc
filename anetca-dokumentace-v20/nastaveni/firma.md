@@ -50,6 +50,14 @@ V této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdá
 
 **REŽIM POUŽITÉHO ZBOŽÍ - **pokud prodáváte použité zboží, je nutné mít zaškrtnuté toto pole. Toto pole slouží především pro bazarový prodej dle paragrafu 90.
 
+
+
+### Rozšířené 
+
+**Doporučené placené rozšíření pro fyzické osoby podnikatele**, a ty kteří **nechtějí odesílat platby kartou do EET** nebo **tisknout** na účtence své **osobní údaje \(rodné číslo\)**. Toto rozšíření je dostupné od **verze 1.5.0.0.**
+
+
+
 ### VZDÁLENÁ POMOC
 
 Tlačítko vzdálené pomoci spustí program pro vzdálenou správu, aby bylo možné se připojit na Váš počítač a pomoci s problémem na dálku.
