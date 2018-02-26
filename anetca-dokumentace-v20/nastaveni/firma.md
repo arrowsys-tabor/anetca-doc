@@ -36,7 +36,7 @@ V této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdá
 
 \*Založení provozovny na Daňovém portálu je nutné provést následně pro zapsání správného čísla EET provozovny do programu.
 
-### Rozšířené
+### Rozšířené - balíček změn ÚSTAVNÍHO SOUDU
 
 Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop [ZDE](https://www.arrowsys.cz/cs/anetca-aktualizace-zmeny-ustavniho-soudu-od-132018). Koupením tohoto upgradu si **zajistíte **možnost **vypnutí změn schválených ústavním soudem**, které platí od 1.3.2018.![](/assets/NASTAVENI-FIRMA-ROZSIRENE2.jpg)
 
