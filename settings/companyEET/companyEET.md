@@ -10,7 +10,7 @@ Před vyplněním údajů pro napojení na EET je zapotřebí získat Digitáln�
    * **Heslo certifikátu** - Heslo, které jste si zadali při vytváření certifikátu jako heslo pro tzv. **"soukromý klíč"** do [Webové aplikace EET](http://adisspr.mfcr.cz/adistc/adis/idpr_pub/eet/eet_sluzby.faces)
      * Nastavení uložíte kliknutím na tlačítko **Uložit**. 
 
-![](/assets/NASTAVENI-FIRMA-CERTIFIKAT.PNG)
+![](/assets/NASTAVENI-KONFIGURACE-CERT.jpg)
 
 1. Následně je zapotřebí v **NASTAVENÍ &gt; Firma** vyplnit:
 
@@ -25,9 +25,9 @@ Před vyplněním údajů pro napojení na EET je zapotřebí získat Digitáln�
      EET vrátit odpověď **"**_**0 Datovou zpravu evidovane trzby v overovacim modu se podařilo zpracovat**_**"**
    * Nastavení uložíte kliknutím na tlačítko "**Uložit"**. 
 
-1. **Neprodukční prostředí**
+2. **Neprodukční prostředí**
 
-2. Do neprodukčního prostředí lze odesílat pouze s [Playground certifikáty](http://www.etrzby.cz/assets/cs/prilohy/EET_CA1_Playground_v1.zip). Podmínkou je mít vyplněné DIČ a zvolenou volbu "**Neprodukční prostředí"**
+3. Do neprodukčního prostředí lze odesílat pouze s [Playground certifikáty](http://www.etrzby.cz/assets/cs/prilohy/EET_CA1_Playground_v1.zip). Podmínkou je mít vyplněné DIČ a zvolenou volbu "**Neprodukční prostředí"**
 
 
 
