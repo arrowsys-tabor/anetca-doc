@@ -8,8 +8,6 @@
 4. Text na účtence je možno přepsat \(např. Stůl 9, paní v černém, Jarda, atd.\).  
 5. **Účtenkový pás je nekonečný** – posouvá se stiskem šipky v kolečku vpravo nebo vlevo.
 
-
-
 #### Sekce 2 Výběr zboží \(vlevo dole\)
 
 1. Po spuštění programu se zobrazí všechny založené položky.
@@ -37,7 +35,9 @@
 4. V řádcích účtenky je možno přepsat text. \(vhodné pro řemeslníky nebo detailnější označení zboží\)  
 5. Vpravo dole je průběžný součet účtenky.
 6. Po stisku tlačítka** "TISK"** se objeví dialogové okno \(viz. obrázek níže\)  
-7. Zde je možno vybrat způsob platby v Kč, cizích měnách, Bitcoinem, BitcoinPay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.![](/assets/TISK2.png)
+7. Zde je možno vybrat způsob platby v Kč, cizích měnách, Bitcoinem, BitcoinPay bránou nebo kartou v POS nebo mPOS terminálu a účtenku vytisknout buď na systémovou tiskárnu nebo bluetooth tiskárnu dle nastavení.
+
+![](/assets/PRODEJ-PLATBA-HOTOVOST2.jpg)
 
 
 
