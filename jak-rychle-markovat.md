@@ -2,7 +2,7 @@
 
 -v základní obrazovce PRODEJ stačí dvojitě kliknout myší na skupinu "VŠE". Tím se Vám otevře rychlý náhled všech skupin a jste schopni vybrat skupinu, kterou právě potřebujete. Tím pádem je jedno kolik skupin máte založeno a nemusíte se jimi postupně proklikávat.
 
-![](/assets/TIPY skupiny.JPG)
+![](/assets/PRODEJ-SKUPINY-VSE2.jpg)
 
 ### Nastavení PLU {#nastavení-plu}
 
@@ -10,7 +10,7 @@
 
 -to samé platí i pro kalkulačku. Pokud na kalkulačce napíšete PLUa stisknete tlačítko pro požadovanou daň, vloží se Vám na účtenku položka, která je pod daným PLU.
 
-![](/assets/TIPYplu.JPG)
+![](/assets/PRODEJ-HLEDANI-PLU2.jpg)
 
 ### Kalkulačkový prodej podle DPH {#kalkulačkový-prodej-podle-dph}
 
