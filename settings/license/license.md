@@ -12,5 +12,5 @@ Aktivace může trvat několik vteřin.
 
 \*Kontrolu aktivace licence provedete v **"NASTAVENÍ-&gt;FIRMA"**, kde je ve spodní části napsané verze programu a hláška "**LICENCE PROGRAMU JE PLATNÁ".**
 
-![](/assets/klicence.jpg)
+![](/assets/NASTAVENI-FIRMA-REGISTROVAT PRODUKT2.jpg)
 
