@@ -1,6 +1,6 @@
 # KASA
 
-Zde se odehrávají veškeré pokladní operace jako je například PŘÍJEM HOTOVOSTI, VÝDEJ HOTOVOSTI a UZÁVĚRKA POKLADNY.![](/assets/kasa.PNG)
+Zde se odehrávají veškeré pokladní operace jako je například PŘÍJEM HOTOVOSTI, VÝDEJ HOTOVOSTI a UZÁVĚRKA POKLADNY.![](/assets/KASA2.jpg)
 
 ### POSTUP PRO UZÁVĚRKU KASY
 

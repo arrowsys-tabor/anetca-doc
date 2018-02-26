@@ -46,5 +46,5 @@ Zákaznický displej slouží k zobrazení důležitých informací pro zákazn�
 
 3/ Po stisku na tlačítko **NASTAVENÍ **lze display dodatečně konfigurovat.
 
-![](/assets/ZD-anetca-nastaveni.jpg)
+![](/assets/NASTAVENI-ZARIZENI-PORT ZD2.jpg)
 

@@ -17,5 +17,5 @@ Tržby za období generuje přehled pokladních operací za zvolené.
 
 **Bluetooth tisk -** generuje tiskovou sestavu pro Bluetooth tiskárnu.
 
-**Pouze za účtujícího -** Při zaškrtnutí tohoto pole, se provede výpis pouze za aktuálně přihlášeného uživatele. Více informací naleznete v záložce **"NASTAVENÍ-&gt;ÚČTY"**.![](/assets/TRZBY - ZA OBDOBI.PNG)
+**Pouze za účtujícího -** Při zaškrtnutí tohoto pole, se provede výpis pouze za aktuálně přihlášeného uživatele. Více informací naleznete v záložce **"NASTAVENÍ-&gt;ÚČTY"**.![](/assets/PREHLEDY-TRZBY ZA OBDOBI2.jpg)
 

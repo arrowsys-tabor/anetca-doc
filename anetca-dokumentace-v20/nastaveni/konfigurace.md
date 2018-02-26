@@ -1,6 +1,6 @@
 # KONFIGURACE
 
-Jedna z nejdůležitějších sekcí celého programu. Naleznete zde především nastavení certifikátu, umístění souborů pro aktualizaci a exportní cestu.![](/assets/nastaveni - konfigurace.PNG)
+Jedna z nejdůležitějších sekcí celého programu. Naleznete zde především nastavení certifikátu, umístění souborů pro aktualizaci a exportní cestu.![](/assets/NASTAVENI-KONFIGURACE2.jpg)
 
 **Složka aktualizace -** odkazuje na umístění složky nutné pro aktualizaci programu. viz. "NASTAVENÍ-&gt;FIRMA-ZKONTROLOVAT AKTUALIZACE".
 

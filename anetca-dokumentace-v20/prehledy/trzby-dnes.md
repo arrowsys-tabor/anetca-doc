@@ -17,5 +17,5 @@ DNES je definováno jako období od posledního uzavření pokladny do **"TEĎ"*
 
 **Bluetooth tisk -** generuje tiskovou sestavu pro Bluetooth tiskárnu.
 
-**Pouze za účtujícího -** Při zaškrtnutí tohoto pole, se provede výpis pouze za aktuálně přihlášeného uživatele. Více informací naleznete v záložce **"NASTAVENÍ-&gt;ÚČTY"**.![](/assets/TRZBY - DNES.PNG)
+**Pouze za účtujícího -** Při zaškrtnutí tohoto pole, se provede výpis pouze za aktuálně přihlášeného uživatele. Více informací naleznete v záložce **"NASTAVENÍ-&gt;ÚČTY"**.![](/assets/PREHLEDY-TRZBY DNES3.jpg)
 

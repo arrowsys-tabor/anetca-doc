@@ -8,7 +8,7 @@
 
 \*pokud vlastníte tiskárnu **STAR MICRONICS**, je nutné aktivovat tento režim pro bezchybný tisk.
 
-![](/assets/NASTAVENI-ZARIZENI.JPG)
+![](/assets/NASTAVENI-ZARIZENI2.jpg)
 
 ### Návod pro spárování Bluetooth tiskárny:
 
@@ -50,17 +50,11 @@
 
 Takže vlastní navažování je již v čisté váze netto.
 
-
-
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 **Nastavení **- slouží k nastavení zobrazeného textu na zákaznickém displayi.
 
-
-
 **Nastavení zákaznického displaye - **zde vyplňte text při neaktivitě zákaznického displaye a uložte. Doba neaktivity lze měnit případnou utilitou na cd přiloženém k zákaznickému displayi.
 
 \*utilita je program, který dokáže zařízení a jeho parametry nastavit z pohodlí počítače.
-
-
 
