@@ -1,6 +1,8 @@
 # Jak na přehledy tržeb
 
-Pro úspěšné vygenerování přehledu tržeb je nutné v první řadě udělat uzávěrku kasy. Bez ní se v přehledech nevygenerují žádná data.![](/assets/KASA.jpg)
+Pro úspěšné vygenerování přehledu tržeb je nutné v první řadě udělat uzávěrku kasy. Bez ní se v přehledech nevygenerují žádná data.
+
+![](/assets/KASA2.jpg)
 
 ### POSTUP PRO UZÁVĚRKU KASY
 
