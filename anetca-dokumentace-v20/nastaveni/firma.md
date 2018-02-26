@@ -4,7 +4,7 @@ V této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdá
 
 **LICENČNÍ ČÍSLO NALEZNETE VE SPODNÍ ČÁSTI OBRAZOVKY VEDLE AKTUÁLNÍ VERZE PROGRAMU.**
 
-**ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**![](/assets/NASTAVENI-FIRMA.JPG)
+**ZAPSANÉ ÚDAJE JE NUTNÉ VŽDY ULOŽIT TLAČÍTKEM V PRAVÉM DOLNÍM ROHU!!!**![](/assets/NASTAVENI-FIRMA2.jpg)
 
 ### Informace o firmě
 
@@ -36,6 +36,24 @@ V této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdá
 
 \*Založení provozovny na Daňovém portálu je nutné provést následně pro zapsání správného čísla EET provozovny do programu.
 
+### Rozšířené
+
+Jedná se o placený upgrade, který je možné objednat pouze přes náš eshop [ZDE](https://www.arrowsys.cz/cs/anetca-aktualizace-zmeny-ustavniho-soudu-od-132018). Koupením tohoto upgradu si **zajistíte **možnost **vypnutí změn schválených ústavním soudem**, které platí od 1.3.2018.![](/assets/NASTAVENI-FIRMA-ROZSIRENE2.jpg)
+
+1. **Neodesílat tržby Bitcoinem - **zamezí zasílání tržeb do EET pomocí způsobu úhrady BITCOIN
+2. **Neodesílat tržby kreditní kartou - **zamezí zasílání tržeb do EET pomocí způsobu úhrady KARTOU
+3. **Netisknout DIČ na účtence - **na účtence zaslané do EET se nezobrazí DIČ
+
+![](/assets/NASTAVENI-FIRMA-ROZSIRENE-VOLBY.JPG)
+
+Pokud nemáte zakoupen balíček Změn ústavního soudu, objeví se Vám po stisknutí tlačítka **"POKROČILÉ NASTAVENÍ"**upozornění **"TENTO MODUL NENÍ PRO VAŠI LICENCI AKTIVNÍ. KONTAKTUJTE WWW.ARROWSYS.CZ"**
+
+![](/assets/NASTAVENI-FIRMA-ROZSIRENE BUTTON2.JPG)
+
+.**Kontakt:obchod@arrowsys.cz**nebo linka technické podpory**381/251 685**
+
+\*aby bylo možné přejít do**"POKROČILÉHO NASTAVENÍ",**je nutné mít nastavené **správné ičo**, které se vztahuje k licenci.
+
 ### Režimy
 
 **EET -** zaškrtnutím aktivujete režim odesílání do EET
@@ -50,13 +68,9 @@ V této záložce naleznete informace o firmě, nastavení BITCOIN plateb, vzdá
 
 **REŽIM POUŽITÉHO ZBOŽÍ - **pokud prodáváte použité zboží, je nutné mít zaškrtnuté toto pole. Toto pole slouží především pro bazarový prodej dle paragrafu 90.
 
-
-
-### Rozšířené 
+### Rozšířené
 
 **Doporučené placené rozšíření pro fyzické osoby podnikatele**, a ty kteří **nechtějí odesílat platby kartou do EET** nebo **tisknout** na účtence své **osobní údaje \(rodné číslo\)**. Toto rozšíření je dostupné od **verze 1.5.0.0.**
-
-
 
 ### VZDÁLENÁ POMOC
 
