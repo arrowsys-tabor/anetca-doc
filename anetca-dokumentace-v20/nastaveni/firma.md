@@ -50,7 +50,7 @@ Pokud nemáte zakoupen balíček Změn ústavního soudu, objeví se Vám po sti
 
 ![](/assets/NASTAVENI-FIRMA-ROZSIRENE BUTTON2.JPG)
 
-.**Kontakt:obchod@arrowsys.cz**nebo linka technické podpory**381/251 685**
+.**Kontakt: obchod@arrowsys.cz**
 
 \*aby bylo možné přejít do**"POKROČILÉHO NASTAVENÍ",**je nutné mít nastavené **správné ičo**, které se vztahuje k licenci.
 
