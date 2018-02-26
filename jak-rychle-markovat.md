@@ -22,17 +22,17 @@
 
 -pokud máte na kartě zboží zvoleno v kódu zboží hodnotu "999999", položka se bude následně chovat naprosto jinak. Po zadání počtu v kalkulačce a následném přidání zboží na účtenku Vám přidá 1ks zboží se zvolenou cenou. \(POZOR Pokud máte zvoleno v kódu zboží "999999" je nutno mít vyplněnou i cenu 1kč\)
 
-![](/assets/TIPYcalc.jpg)
+![](/assets/PRODEJ-KALKULACKA-NASOBENI2.jpg)
 
 ### Priority {#priority}
 
 -priority slouží k určení pořadí jednotlivých položek zobrazených na hlavní obrazovce **PRODEJ**.V záložce ZBOŽÍ při zakládání nového produktu je vedle prvního řádku s názvem zboží možnost měnit prioritu zobrazení.Zboží s vyšší zvolenou prioritou se zobrazuje vždy na prvním místě před ostatními položkami. Spolu s nastavenou prioritou je nutné zarovnat v nastavení položky abecedně dle názvu a skupiny abecedně dle skupin.
 
-![](/assets/TIPYpriorita.JPG)
+![](/assets/ZBOZI-PRIORITA2.jpg)
 
 ### Řazení skupin {#jak-nastavit-řazení-skupin}
 
 -řazení skupin naleznete v záložce **NASTAVENÍ -&gt; PROSTŘEDÍ**. K nastavení je zde řazení položek a skupin.Toto nastavení se následně promítne do zarovnání skupin a položek na základní obrazovce **PRODEJ**.
 
-![](/assets/TIPYrazeni.JPG)
+![](/assets/NASTAVENI-PROSTREDI-RAZENI2.jpg)
 
