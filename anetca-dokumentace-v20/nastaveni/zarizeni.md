@@ -42,7 +42,7 @@
 
 \*Tisk na objednávku vyvoláte v sekci **"PRODEJ-&gt;TISK-&gt;TISKÁRNA OBJEDNÁVKY"**
 
-### Váha
+## Váha
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
@@ -82,7 +82,7 @@ Mettler Toledo bRITE ADVANCE - hodnota pro dílek 2
 
 **Platební terminál - **zaškrtnutím aktivujete modul platebního terminálu. Tento modul je instalován odborným personálem banky\(ČSOB\).
 
-\*Pro nezávaznou nabídku platebního terminálu nás kontaktujte na email obchod@arrowsys.cz 
+\*Pro nezávaznou nabídku platebního terminálu nás kontaktujte na email obchod@arrowsys.cz
 
 **Bluetooth tiskárna -** aktivace modulu pro podporu Bluetooth tiskárny. Po zaškrtnutí této volby je nutné nastavit název tiskárny a párovací klíč popisovaný níže.
 
@@ -101,6 +101,8 @@ Mettler Toledo bRITE ADVANCE - hodnota pro dílek 2
 **Hlavní tiskárna -** výběr tiskárny pro tisk účtenek. Pomocí křížku v červeném poli lze tiskárnu manuálně odstranit.
 
 **Tiskárna objednávek -** výběr tiskárny pro tisk objenávek \(nejčastěji tisk do kuchyně\). Pomocí křížku v červeném poli lze tiskárnu manuálně odstranit.
+
+-tisk objednávky provedete v sekci **"PRODEJ-&gt;TISK-&gt;TISK OBJEDNÁVKY"**.
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
