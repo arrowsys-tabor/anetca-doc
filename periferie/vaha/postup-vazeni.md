@@ -2,6 +2,12 @@
 
 #### 1/ Postup automatického vážení
 
+-
+
+**PRO SPRÁVNÉ VLOŽENÍ POLOŽKY NA ÚČTENKU JE NUTNÉ MÍT ZAŠKRTLOU VOLBU "VÁŽENÉ" U KONKRÉTNÍHO ZBOŽÍ.**
+
+-
+
 1. Vytvořte novou účtenku.
 2. Pokud Vážíte zboží v misce, kterou nechcete do váženého zboží počítat, dejte misku na váhu a opište si váhu misky, kterou následně zadejte v záložce "NASTAVENÍ-&gt;ZAŘÍZENÍ-&gt;TÁRY". Zpětně lze pak uloženou táru vyvolat již z uložené šablony přímo u procesu vážení v záložce "PRODEJ-&gt;tlačítko Táry"\(velké T na kalkulačce\). Tára se musí zvolit vždy před vážením každého zboží.
 3. Zboží, které potřebujete navážit dejte na váhu.
@@ -14,6 +20,12 @@
 **\*upozornění: pro správný chod váhy je nutné zadat u zboží cenu za jednotku, aby mohl program s naváženým množstvím správně pracovat.**
 
 #### 2/ Postup pro vložení navážené hmotnosti manuálně
+
+-
+
+**PRO SPRÁVNÉ VLOŽENÍ POLOŽKY NA ÚČTENKU JE NUTNÉ MÍT ZAŠKRTLOU VOLBU "VÁŽENÉ" U KONKRÉTNÍHO ZBOŽÍ.**
+
+-
 
 Pokud není váha připojena nebo není nějakého důvodu možné, aby váha vložila naváženou hodnotu automaticky do pokladny, program si zažádá o manuální vložení navážené hodnoty. To provedete dle postupu níže.
 
