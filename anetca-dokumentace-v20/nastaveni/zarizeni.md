@@ -52,11 +52,13 @@
 
 * Pro smazání předvolené Táry je nutné označit předvolenou Táru a stisknout tlačítko "Delete", případně lze přepsat již nepoužívanou.
 
+![](/assets/NASTAVENI-ZARIZENI-TARY.jpg)
+
 **Nastavení -** k nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
 
 * Dílek - tento údaj se nachází vždy na konkrétní váze. Jedná se o nejmenší možnou vážitelnou hmotnost v gramech. Dílek má každá váha specificky jiný a je uveden na štítku či předním panelu váhy.
 
--
+![](/assets/NASTAVENI-ZARIZENI-NASTAVENI VAHY.jpg)
 
 **Dílek na námi prodávaných váhách:**
 
@@ -64,7 +66,7 @@
 
 **Mettler Toledo B-RITE ADVANCE** - hodnota pro dílek 2
 
--
+
 
 * Povolit předvolené tárování váhy - pomocí této funkce lze tárovat přímo v Anetce ze záložky PRODEJ-&gt;tlačítko Táry. Stačí vybrat z vytvořeného seznamu v sekci NASTAVENÍ-ZAŘÍZENÍ-Táry. Vážení následně probíhá s odečtenou váhou Táry, čili v čisté váze "netto".
 
