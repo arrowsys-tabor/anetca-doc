@@ -44,7 +44,9 @@
 
 ## Váha - port váhy, táry, nastavení
 
-**PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
+### **Port váhy**
+
+Pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 \*podrobnější popis naleznete v sekci **"PERIFERIE-&gt;VÁHA-&gt;INSTALACE"**.
 
