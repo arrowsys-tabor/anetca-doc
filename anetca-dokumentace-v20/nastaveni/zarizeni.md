@@ -52,7 +52,7 @@
 
 * Pro smazání předvolené Táry je nutné označit předvolenou Táru a stisknout tlačítko "Delete", případně lze přepsat již nepoužívanou.
 
-  **Nastavení -** k nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
+**Nastavení -** k nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
 
 * Dílek - tento údaj se nachází vždy na konkrétní váze. Jedná se o nejmenší možnou vážitelnou hmotnost v gramech. Dílek má každá váha specificky jiný a je uveden na štítku či předním panelu váhy.
 
