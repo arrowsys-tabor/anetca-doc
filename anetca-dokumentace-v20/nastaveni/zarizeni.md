@@ -46,7 +46,7 @@
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
-  **Táry -** Tára je hmotnost obalu \\(misky, kelímku, atp.\\). Do tabulky zapište Název, Hodnota\\(kg\\) a stiskněte "ENTER" pro potvrzení.
+**Táry -** Tára je hmotnost obalu \\(misky, kelímku, atp.\\). Do tabulky zapište Název, Hodnota\\(kg\\) a stiskněte "ENTER" pro potvrzení.
 
 * Položku lze též skrýt ze seznamu, takže se nezobrazuje následně v sekci **"PRODEJ-tlačítko Táry"**.
 
