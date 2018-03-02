@@ -50,7 +50,7 @@
 
 #### Předvolení TÁRY
 
-**-** Tára je hmotnost obalu \(misky, kelímku, atp.\). Do tabulky zapište Název, Hodnota\\(kg\\) a stiskněte "ENTER" pro potvrzení.
+**-** Tára je hmotnost obalu \(misky, kelímku, atp.\). Do tabulky zapište Název, Hodnota\(kg\) a stiskněte "ENTER" pro potvrzení.
 
 * Položku lze též skrýt ze seznamu, takže se nezobrazuje následně v sekci **"PRODEJ-tlačítko Táry"**.
 
