@@ -61,7 +61,7 @@
   * [Zákaznický display](periferie/zakaznicky-display.md)
   * [Váha](periferie/vaha.md)
     * [Instalace](periferie/vaha/instalace.md)
-    * [Postup Vážení](periferie/vaha/postup-vazeni.md)
+    * [Postup vážení](periferie/vaha/postup-vazeni.md)
     * [Vážení s Tárou](periferie/vaha/vazeni-s-tarou.md)
   * [Čtečka čárových kódů](periferie/ctecka-carovych-kodu.md)
   * [Tiskárna XP-58](periferie/tiskarna-xp-58.md)
