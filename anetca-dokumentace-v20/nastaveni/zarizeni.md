@@ -50,7 +50,7 @@
 
 #### Předvolení TÁRY
 
-**-** Tára je hmotnost obalu \(misky, kelímku, atp.\). Do tabulky zapište Název, Hodnota\(kg\) a stiskněte "ENTER" pro potvrzení.
+Tára je hmotnost obalu \(misky, kelímku, atp.\). Do tabulky zapište Název, Hodnota\(kg\) a stiskněte "ENTER" pro potvrzení.
 
 * Položku lze též skrýt ze seznamu, takže se nezobrazuje následně v sekci **"PRODEJ-tlačítko Táry"**.
 
@@ -60,7 +60,7 @@
 
 #### **Nastavení dílku váhy**
 
-**-** k nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
+K nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
 
 * **Dílek -** tento údaj se nachází vždy na konkrétní váze. Jedná se o nejmenší možnou vážitelnou hmotnost v gramech. Dílek má každá váha specificky jiný a je uveden na štítku či předním panelu váhy.
 

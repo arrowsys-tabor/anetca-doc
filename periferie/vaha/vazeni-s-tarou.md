@@ -1,10 +1,8 @@
 # Vážená s Tárou
 
-
+Vážení s tárou neznamená nic jiného, než vážení čisté hmotnosti zboží bez obalu. 
 
 1/ Vybereme položku – ve zvoleném příkladu jsou to Meruňky – viz Obrázek T.5.![](/assets/VAZENI-TARA.png)Obrázek T.5
-
-
 
 2/ Stiskneme zelené tlačítko „T“, které vyvolá formulář se seznamem tár a vybereme příslušnou táru a stiskneme tlačítko „Potvrdit“ Viz Obrázek T.6. \(pokud táru nepoužijeme tento krok přeskočíme a pokračujeme až na obrázek T.8\)![](/assets/VAZENI-TARA2.png)Obrázek T.6
 
@@ -30,7 +28,7 @@
 
 Obrázek T.15
 
-12/ Příklad zobrazení informací z váhy na doplňkovém informačním displeji - obrázek T.16 ![](/assets/VAZENI-TARA12.jpg)Obrázek T.16 
+12/ Příklad zobrazení informací z váhy na doplňkovém informačním displeji - obrázek T.16 ![](/assets/VAZENI-TARA12.jpg)Obrázek T.16
 
 13/ Stav systému se zakázaným tárováním v POS - obrázek T.18![](/assets/VAZENI-TARA13.png)Obrázek T.18
 
