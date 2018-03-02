@@ -36,6 +36,18 @@ Pokud není váha připojena nebo není nějakého důvodu možné, aby váha vl
 3. Označte vážené zboží v pokladně, vložte jej fyzicky na váhu a **zadejte na kalkulačce manuálně zváženou hmotnost**.
 4. Stiskněte tlačítko **"PŘIDAT POLOŽKU"** \(na účtence bude zobrazeno M jako manuálně vážené zboží\)
 
+
+
+#### Tištěno na účtence - vysvětlivky:
+
+M - manuální vážení
+
+E - EAN
+
+PT - předvolená tára
+
+
+
 1/ Obrázek T.1 ilustruje přidání položky s naváženou hodnotou na hlavní obrazovce PRODEJ![](/assets/VAZENI-TARA4.png)Obrázek T.1
 
 2/ Obrázek T.2 ilustruje vybrání táry pomocí tlačítka Táry na kalkulačce.![](/assets/VAZENI-TARA2.png)Obrázek T.2
