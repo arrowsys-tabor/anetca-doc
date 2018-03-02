@@ -42,11 +42,15 @@
 
 \*Tisk na objednávku vyvoláte v sekci **"PRODEJ-&gt;TISK-&gt;TISKÁRNA OBJEDNÁVKY"**
 
-### **Vysvětlení jednotlivých pojmů:**
+### Váha
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
-**Táry -** Tára je hmotnost obalu \\(misky, kelímku, atp.\\). Do tabulky zapište Název, Hodnota\\(kg\\) a stiskněte "ENTER" pro potvrzení.
+\*podrobnější popis naleznete v sekci **"PERIFERIE-&gt;VÁHA-&gt;INSTALACE"**.
+
+#### Předvolení TÁRY
+
+**-** Tára je hmotnost obalu \(misky, kelímku, atp.\). Do tabulky zapište Název, Hodnota\\(kg\\) a stiskněte "ENTER" pro potvrzení.
 
 * Položku lze též skrýt ze seznamu, takže se nezobrazuje následně v sekci **"PRODEJ-tlačítko Táry"**.
 
@@ -54,7 +58,9 @@
 
 ![](/assets/NASTAVENI-ZARIZENI-TARY.jpg)
 
-**Nastavení -** k nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
+#### **Nastavení dílku váhy**
+
+**-** k nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
 
 * **Dílek -** tento údaj se nachází vždy na konkrétní váze. Jedná se o nejmenší možnou vážitelnou hmotnost v gramech. Dílek má každá váha specificky jiný a je uveden na štítku či předním panelu váhy.
 
@@ -62,17 +68,19 @@
 
 Mettler Toledo ARIVA S - hodnota pro dílek 1
 
-Mettler Toledo B-RITE ADVANCE - hodnota pro dílek 2
+Mettler Toledo bRITE ADVANCE - hodnota pro dílek 2
 
-
+![](/assets/NASTAVENI-ZARIZENI-NASTAVENI-DILEK2.jpg)
 
 * **Povolit předvolené tárování váhy** - pomocí této funkce lze tárovat přímo v Anetce ze záložky PRODEJ-&gt;tlačítko Táry. Stačí vybrat z vytvořeného seznamu v sekci NASTAVENÍ-ZAŘÍZENÍ-Táry. Vážení následně probíhá s odečtenou váhou Táry, čili v čisté váze "netto".
 
+\*Tárování pomocí váhy je nutné nechat odblokovat technikem METTLER TOLEDO vzhledem k rozhodnutí ČMI.
+
 ![](/assets/NASTAVENI-ZARIZENI-NASTAVENI VAHY.jpg)
 
+### **Vysvětlení jednotlivých pojmů:**
 
-
-
+**PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
