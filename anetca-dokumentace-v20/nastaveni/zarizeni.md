@@ -80,6 +80,10 @@ Mettler Toledo bRITE ADVANCE - hodnota pro dílek 2
 
 ### **Vysvětlení jednotlivých pojmů:**
 
+**Platební terminál - **zaškrtnutím aktivujete modul platebního terminálu. Tento modul je instalován odborným personálem banky\(ČSOB\). 
+
+     \*Pro nezávaznou nabídku platebního terminálu nás kontaktujte na email obchod@arrowsys.cz 
+
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
