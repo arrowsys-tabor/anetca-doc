@@ -42,7 +42,7 @@
 
 \*Tisk na objednávku vyvoláte v sekci **"PRODEJ-&gt;TISK-&gt;TISKÁRNA OBJEDNÁVKY"**
 
-## Váha
+## Váha - port váhy, táry, nastavení
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
