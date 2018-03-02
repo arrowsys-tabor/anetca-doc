@@ -46,13 +46,13 @@
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
-**Táry -** Tára je hmotnost obalu \\(misky, kelímku, atp.\\). Do tabulky zapište Název, Hodnota\\(kg\\) a stiskněte "ENTER" pro potvrzení.
+  **Táry -** Tára je hmotnost obalu \\(misky, kelímku, atp.\\). Do tabulky zapište Název, Hodnota\\(kg\\) a stiskněte "ENTER" pro potvrzení.
 
 * Položku lze též skrýt ze seznamu, takže se nezobrazuje následně v sekci **"PRODEJ-tlačítko Táry"**.
 
 * Pro smazání předvolené Táry je nutné označit předvolenou Táru a stisknout tlačítko "Delete", případně lze přepsat již nepoužívanou.
 
-**Nastavení -** k nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
+  **Nastavení -** k nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
 
 * Dílek - tento údaj se nachází vždy na konkrétní váze. Jedná se o nejmenší možnou vážitelnou hmotnost v gramech. Dílek má každá váha specificky jiný a je uveden na štítku či předním panelu váhy.
 
