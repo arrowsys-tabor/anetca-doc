@@ -47,7 +47,7 @@
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
 ```
- **Táry** - Tára je hmotnost obalu \(misky, kelímku, atp.\). Do tabulky zapište Název, Hodnota\(kg\) a stiskněte "ENTER" pro potvrzení. 
+ **Táry** - Tára je hmotnost obalu \(misky, kelímku, atp.\). Do tabulky zapište Název, Hodnota\(kg\) a stiskněte "ENTER" pro potvrzení.
 ```
 
 * Položku lze též skrýt ze seznamu, takže se nezobrazuje následně v sekci **"PRODEJ-tlačítko Táry"**.
@@ -58,15 +58,11 @@
 
 * Dílek - tento údaj se nachází vždy na konkrétní váze. Jedná se o nejmenší možnou vážitelnou hmotnost v gramech. Dílek má každá váha specificky jiný a je uveden na štítku či předním panelu váhy.
 
- 
+**Dílek na námi prodávaných váhách:**
 
-Dílek na námi prodávaných váhách
+**Mettler Toledo ARIVA S **- hodnota pro dílek 1
 
-Mettler Toledo ARIVA S - hodnota pro dílek 1
-
-Mettler Toledo B-RITE ADVANCE - hodnota pro dílek 2
-
- 
+**Mettler Toledo B-RITE ADVANCE** - hodnota pro dílek 2
 
 * Povolit předvolené tárování váhy - pomocí této funkce lze tárovat přímo v Anetce ze záložky PRODEJ-&gt;tlačítko Táry. Stačí vybrat z vytvořeného seznamu v sekci NASTAVENÍ-ZAŘÍZENÍ-Táry. Vážení následně probíhá s odečtenou váhou Táry, čili v čisté váze "netto".
 
