@@ -17,14 +17,12 @@
 
 Pokud není váha připojena nebo není nějakého důvodu možné, aby váha vložila naváženou hodnotu automaticky do pokladny, program si zažádá o manuální vložení navážené hodnoty. To provedete dle postupu níže.
 
-![](/assets/PRODEJ-TAROVANI NEPOVOLENO.jpg)
+![](/assets/NASTAVENI-ZARIZENI-VAHA MANUALNE.JPG)
 
 1. Vytvořte novou účtenku.
 2. Zboží, které potřebujete navážit vložte na váhu.
 3. Označte vážené zboží v pokladně, vložte jej fyzicky na váhu a zadejte na kalkulačce manuálně zváženou hmotnost.
 4. Stiskněte tlačítko "PŘIDAT POLOŽKU" \(na účtence bude zobrazeno M jako manuálně vážené zboží\)
-
-
 
 1/ Obrázek T.1 ilustruje přidání položky s naváženou hodnotou na hlavní obrazovce PRODEJ![](/assets/VAZENI-TARA4.png)Obrázek T.1
 
