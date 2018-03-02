@@ -14,7 +14,17 @@ TÁRA je hmotnost obalu zboží v obchodním styku, někdy se tímto pojmem ozna
 
 ![](/assets/KALKULAČKA-TÁRY.JPG)
 
-Obrázek ukazuje základní obrazovku PRODEJ, kde se nachází tlačítka váhy a táry.![](/assets/VAZENI-TARA.png)
+### Tárování pomocí tlačítek přímo na váze/pokladnou ANetCa
+
+Toto nastavení provádí technik METTLER TOLEDO přímo na místě při instalaci váhy. Je na zákazníkovi, zda se rozhodne pro tárování pomocí tlačítek váhy nebo tárování pomocí pokladny ANetCa.
+
+![](/assets/PRODEJ-TAROVANI NEPOVOLENO.jpg)
+
+\*obrázek znázorňuje upozornění na tárování pomocí tlačítek přímo na váze. Nastavení váhy technikem na tárování pouze pomocí váhy.
+
+
+
+Obrázek znázorňuje základní obrazovku PRODEJ, kde se nachází tlačítka váhy a táry.![](/assets/VAZENI-TARA.png)
 
 ### 
 

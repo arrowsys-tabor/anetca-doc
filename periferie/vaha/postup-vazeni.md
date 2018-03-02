@@ -13,11 +13,11 @@
 
 **\*upozornění: pro správný chod váhy je nutné zadat u zboží cenu za jednotku, aby mohl program s naváženým množstvím správně pracovat.**
 
-
-
 #### 2/ Postup pro vložení navážené hmotnosti manuálně
 
 Pokud není váha připojena nebo není nějakého důvodu možné, aby váha vložila naváženou hodnotu automaticky do pokladny, program si zažádá o manuální vložení navážené hodnoty. To provedete dle postupu níže.
+
+![](/assets/PRODEJ-TAROVANI NEPOVOLENO.jpg)
 
 1. Vytvořte novou účtenku.
 2. Zboží, které potřebujete navážit vložte na váhu.
