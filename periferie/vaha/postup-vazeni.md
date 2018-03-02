@@ -11,7 +11,15 @@
 
 \* je nutné použít při **vypnuté** volbě v **"NASTAVENÍ-&gt;PROSTŘEDÍ-&gt;PŘIDAT ZBOŽÍ NA ÚČTENKU STISKNUTÍM TLAČÍTKA" - **vkládání pomocí označení položky a stisknutí tlačítka váhy na kalkulačce.
 
-#### 
-
 **\*upozornění: pro správný chod váhy je nutné zadat u zboží cenu za jednotku, aby mohl program s naváženým množstvím správně pracovat.**
+
+
+
+1/ Obrázek T.1 ilustruje přidání položky s naváženou hodnotou na hlavní obrazovce PRODEJ![](/assets/VAZENI-TARA4.png)Obrázek T.1
+
+2/ Obrázek T.2 ilustruje vybrání táry pomocí tlačítka Táry na kalkulačce.![](/assets/VAZENI-TARA2.png)Obrázek T.2
+
+
+
+
 
