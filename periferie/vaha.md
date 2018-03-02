@@ -2,13 +2,9 @@
 
 Slouží pro měření hmotnosti daného zboží. Navážená hodnota je přenesena z váhy do pokladny, kde je následně zpracována a vypočtena správná cena vůči jednotkové ceně váženého zboží. V současné době máme k dispozici váhy značky METTLER TOLEDO, které lze objednat na našem eshopu. Jedná se o modely METTLER TOLEDO ARIVA S a bRITE ADVANCE.
 
-
-
-#### JEDNÁ SE O PLACENÝ MODUL pro více informací nás kontaktujte na email obchod@arrowsys.cz 
+#### JEDNÁ SE O PLACENÝ MODUL pro více informací nás kontaktujte na email obchod@arrowsys.cz
 
 ![](/assets/NASTAVENI-ZARIZENI-VAHA-MODUL NEPOVOLEN.JPG)
-
-
 
 ### Vysvětlení jednotlivých pojmů
 
