@@ -82,15 +82,38 @@ Mettler Toledo bRITE ADVANCE - hodnota pro dílek 2
 
 **Platební terminál - **zaškrtnutím aktivujete modul platebního terminálu. Tento modul je instalován odborným personálem banky\(ČSOB\).
 
-  \*Pro nezávaznou nabídku platebního terminálu nás kontaktujte na email obchod@arrowsys.cz 
+\*Pro nezávaznou nabídku platebního terminálu nás kontaktujte na email obchod@arrowsys.cz 
+
+**Bluetooth tiskárna -** aktivace modulu pro podporu Bluetooth tiskárny. Po zaškrtnutí této volby je nutné nastavit název tiskárny a párovací klíč popisovaný níže.
+
+**StarPRINT mód -** tiskový režim speciálně pro tiskárny Star Micronics. Zašrtněte pouze pokud vlastníte tiskárnu Star Micronics.
+
+**Název tiskárny - **zde vyplňte název BT tiskárny z OS Windows.
+
+**Párovací klíč -** vyplňte párovací klíč BT tiskárny. Nejčastěji **"0000, 1234 nebo 123456"**
+
+\*následně je nutné stisknout tlačítko **"ULOŽIT"**, aby se nastavení uložilo a bylo možné stisknout tlačítko **"TEST"**.
+
+**Automaticky tisknout účtenky -** při zaškrtnutém režimu se účtenka automaticky po zaslání do EET vytiskne ze zvolené tiskárny. Pokud není pole aktivní je nutno při zaslání účtenky do EET vytisknout účtenku manuálně.
+
+**Otvírat pokladní zásuvku při tisku účtenky -** funkce pro otevření pokladní zásuvky po vytištění účtenky
+
+**Hlavní tiskárna -** výběr tiskárny pro tisk účtenek. Pomocí křížku v červeném poli lze tiskárnu manuálně odstranit.
+
+**Tiskárna objednávek -** výběr tiskárny pro tisk objenávek \(nejčastěji tisk do kuchyně\). Pomocí křížku v červeném poli lze tiskárnu manuálně odstranit.
 
 **PORT VÁHY -** pokud máte připojenou VÁHU, je nutné nastavit i port, pod kterým figuruje v operačním systému. Ten naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
+* **Táry - **nastavení táry pro záložku PRODEJ-&gt;tlačítko táry
+* **Nastavení -** nastavení dílku váhy. Dílek váhy naleznete fyzicky přímo na váze.
+
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
-**Nastavení **- slouží k nastavení zobrazeného textu na zákaznickém displayi.
+* **Nastavení **- slouží k nastavení zobrazeného textu na zákaznickém displayi.
 
-**Nastavení zákaznického displaye - **zde vyplňte text při neaktivitě zákaznického displaye a uložte. Doba neaktivity lze měnit případnou utilitou na cd přiloženém k zákaznickému displayi.
+* **Nastavení zákaznického displaye - **zde vyplňte text při neaktivitě zákaznického displaye a uložte. Doba neaktivity lze měnit případnou utilitou na cd přiloženém k zákaznickému displayi.
 
 \*utilita je program, který dokáže zařízení a jeho parametry nastavit z pohodlí počítače.
+
+**Port fiskální pokladny -** nastavení portu fiskální pokladny. Port naleznete v OS Windows/ovládací panely.
 
