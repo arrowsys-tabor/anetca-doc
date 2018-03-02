@@ -56,19 +56,23 @@
 
 **Nastavení -** k nastavení jsou dvě základní možnosti "dílek" a "povolení tárování pomocí váhy".
 
-* Dílek - tento údaj se nachází vždy na konkrétní váze. Jedná se o nejmenší možnou vážitelnou hmotnost v gramech. Dílek má každá váha specificky jiný a je uveden na štítku či předním panelu váhy.
-
-![](/assets/NASTAVENI-ZARIZENI-NASTAVENI VAHY.jpg)
+* **Dílek -** tento údaj se nachází vždy na konkrétní váze. Jedná se o nejmenší možnou vážitelnou hmotnost v gramech. Dílek má každá váha specificky jiný a je uveden na štítku či předním panelu váhy.
 
 **Dílek na námi prodávaných váhách:**
 
-**Mettler Toledo ARIVA S **- hodnota pro dílek 1
+Mettler Toledo ARIVA S - hodnota pro dílek 1
 
-**Mettler Toledo B-RITE ADVANCE** - hodnota pro dílek 2
+Mettler Toledo B-RITE ADVANCE - hodnota pro dílek 2
 
 
 
-* Povolit předvolené tárování váhy - pomocí této funkce lze tárovat přímo v Anetce ze záložky PRODEJ-&gt;tlačítko Táry. Stačí vybrat z vytvořeného seznamu v sekci NASTAVENÍ-ZAŘÍZENÍ-Táry. Vážení následně probíhá s odečtenou váhou Táry, čili v čisté váze "netto".
+* **Povolit předvolené tárování váhy** - pomocí této funkce lze tárovat přímo v Anetce ze záložky PRODEJ-&gt;tlačítko Táry. Stačí vybrat z vytvořeného seznamu v sekci NASTAVENÍ-ZAŘÍZENÍ-Táry. Vážení následně probíhá s odečtenou váhou Táry, čili v čisté váze "netto".
+
+![](/assets/NASTAVENI-ZARIZENI-NASTAVENI VAHY.jpg)
+
+
+
+
 
 **PORT ZD -** pokud vlastníte zákaznický display, musí být nastaven i port, na kterém je připojen. Tento port naleznete v OVLÁDACÍCH PANELECH Vašeho počítače a sekci SYSTÉM.
 
