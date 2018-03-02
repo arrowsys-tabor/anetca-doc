@@ -2,7 +2,7 @@
 
 Vážení s tárou neznamená nic jiného, než vážení čisté hmotnosti zboží bez obalu. Existují dvě možnosti nastavení táry. V prvním případě je váha technikem METTLER TOLEDO nastavena na místě na tárování na váze, kdy je povoleno provádět tuto funkci pomocí tlačítek váhy, v druhém případě je tárováno pomoc pokladny. níže uvedený postup tárování je přes pokladní systém ANetCa.
 
-
+### Tára přes pokladnu ANetCa
 
 1/ Vybereme položku – ve zvoleném příkladu jsou to Meruňky – viz Obrázek T.5.![](/assets/VAZENI-TARA.png)Obrázek T.5
 
