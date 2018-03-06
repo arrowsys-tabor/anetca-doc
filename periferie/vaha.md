@@ -28,9 +28,9 @@ Toto nastavení provádí technik METTLER TOLEDO přímo na místě při instala
 
 \*obrázek znázorňuje upozornění na tárování pomocí tlačítek přímo na váze. Nastavení tárování pomocí váhy je prováděno technikem METTLER TOLEDO.
 
-Obrázek znázorňuje základní obrazovku PRODEJ, kde se nachází tlačítka váhy a táry.![](/assets/VAZENI-TARA.png)
 
-### 
+
+![](/assets/VAZENI-TARA.png)Obrázek znázorňuje základní obrazovku PRODEJ, kde se nachází tlačítka váhy a táry.
 
 ## 
 
