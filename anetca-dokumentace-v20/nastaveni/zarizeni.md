@@ -36,6 +36,8 @@
 4. Volitelně lze zvolit i **"TISKÁRNU OBJEDNÁVEK"**, která vytiskne pouze objednávkový lístek například do kuchyně, čili obsluha nemusí psát objednávku ručně.
 5. Uložte.
 
+\*pro tuto volbu je nutné mít vypnutou funkci **"Svěřit správu výchozí tiskárny systému Windows"**. Postup pro vypnutí naleznete [ZDE](https://support.microsoft.com/cs-cz/help/4028622/windows-10-how-to-set-a-default-printer) 
+
 ### Možnost tisku objednávky na USB tiskárnu při zvolené Bluetooth tiskárně jako hlavní
 
 * standardně lze nastavit Bluetooth tiskárnu pro tisk účtenek a zároveň USB tiskárnu pro tisk do kuchyně
@@ -97,6 +99,8 @@ Mettler Toledo bRITE ADVANCE - hodnota pro dílek 2
 \*následně je nutné stisknout tlačítko **"ULOŽIT"**, aby se nastavení uložilo a bylo možné stisknout tlačítko **"TEST"**.
 
 **Automaticky tisknout účtenky -** při zaškrtnutém režimu se účtenka automaticky po zaslání do EET vytiskne ze zvolené tiskárny. Pokud není pole aktivní je nutno při zaslání účtenky do EET vytisknout účtenku manuálně.
+
+\*pro tuto volbu je nutné mít vypnutou funkci **"Svěřit správu výchozí tiskárny systému Windows"**. Postup pro vypnutí naleznete [ZDE](https://support.microsoft.com/cs-cz/help/4028622/windows-10-how-to-set-a-default-printer) 
 
 **Otvírat pokladní zásuvku při tisku účtenky -** funkce pro otevření pokladní zásuvky po vytištění účtenky
 
