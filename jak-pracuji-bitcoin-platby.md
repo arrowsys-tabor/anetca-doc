@@ -34,6 +34,16 @@ Platba pomocí BITCOIN měny přímo na účet. Pokud nemáte ještě založený
 2. Zadejte CALLBACK heslo.
 3. Stiskněte **"ULOŽIT".**
 
+#### Postup platby pomocí BITCOIN v ANetCa
+
+1. Přejděte do záložky "PRODEJ".
+2. Vložte zboží na účtenku.
+3. Stiskněte tlačítko "TISK".
+4. Vyberte způsob úhrady "BITCOIN".
+5.  Stiskněte tlačítko "fajfky".
+
+![](/assets/PLATBA-BITCOIN.JPG)
+
 ### Založení BTC peněženky
 
 Nejjednodušší, ačkoliv nejméně bezpečné peněženky pro uchování BTC lze vytvořit přímo v chytrém telefonu. Vaši peněženku si důkladně zazálohujte. V případě ztráty chytrého telefonu může kdokoliv získat přístup k těmto BTC. **Nejbezpečnější** uchování BTC poskytují hardwarové peněženky **Trezor **a** Ledger.**
