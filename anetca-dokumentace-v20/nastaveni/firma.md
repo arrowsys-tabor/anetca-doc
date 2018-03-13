@@ -159,17 +159,17 @@ Platba pomocí BITCOIN měny přímo na účet. Pokud nemáte ještě založený
 
 #### **Postup propojení:**
 
-1. Vyplňte API klíč.
-2. Zadejte CALLBACK heslo.
+1. Vyplňte **"Bitcoin API klíč"**.
+2. Zadejte **"Bitcoin CALLBACK heslo"**.
 3. Stiskněte **"ULOŽIT".**
 
 #### Postup platby pomocí BITCOIN v ANetCa
 
-1. Přejděte do záložky "PRODEJ".
+1. Přejděte do záložky **"PRODEJ"**.
 2. Vložte zboží na účtenku.
-3. Stiskněte tlačítko "TISK".
-4. Vyberte způsob úhrady "BITCOIN".
-5.  Stiskněte tlačítko "fajfky".
+3. Stiskněte tlačítko **"TISK"**.
+4. Vyberte způsob úhrady **"BITCOIN"**.
+5. Stiskněte tlačítko **"fajfky"**.
 
 ![](/assets/PLATBA-BITCOIN.JPG)
 
