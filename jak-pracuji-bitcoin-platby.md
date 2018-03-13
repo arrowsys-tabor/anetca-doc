@@ -1,6 +1,6 @@
 # BITCOIN
 
--populární kryptoměna, pomocí která je rozšířena po celém světě. 
+-populární kryptoměna, která je rozšířena po celém světě.
 
 ### Nastavení BITCOIN
 

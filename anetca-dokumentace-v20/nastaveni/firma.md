@@ -129,7 +129,7 @@ Vyplňte email na který má přijít vygenerovaný EXPORT
 
 # BITCOIN
 
--populární kryptoměna, pomocí která je rozšířena po celém světě. 
+-populární kryptoměna, která je rozšířena po celém světě.
 
 ### Nastavení BITCOIN
 
