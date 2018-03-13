@@ -133,15 +133,12 @@ Vyplňte email na který má přijít vygenerovaný EXPORT
 
 **Bitcoin -** tato adresa je veřejná část Bitcoin peněženky, kterou je potřeba poskytnout druhé straně, aby vám mohla zaslat BTC. Slouží podobně jako číslo bankovního účtu. Tuto Bitcoinovou adresu, v případě, že chcete přijímat přímo BTC, je nutné zadat do Nastavení.
 
-* ##### **Adresa může být zadána ve formátu: **
+##### A**dresa může být zadána ve formátu: **
 
-       Standartní Bitcoin adresa 26-35 alfanumerických znaků, začínajících 1 nebo 3
-
-       Adresu v tomto formátu vyplňte do pole **"BITCOIN"**.
-
-       Veřejná bitcoinová adresa slouží pouze k přijímání nikoli odesílání, tudíž nehrozí ke ztrátě Bitcoinů z pokladního zařízení.
-
-       **Adresa ve formátu** **BIP44** **není podporována **- začíná hodnotou "xpub.."
+* #####  Standartní Bitcoin adresa 26-35 alfanumerických znaků, začínajících 1 nebo 3
+* #####  Adresu v tomto formátu vyplňte do pole "BITCOIN".
+* #####  Veřejná bitcoinová adresa slouží pouze k přijímání nikoli odesílání, tudíž nehrozí ke ztrátě Bitcoinů z pokladního zařízení.
+* #####  Adresa ve formátu BIP44 není podporována - začíná hodnotou "xpub.."
 
 **Bitcoinpay API klíč -** pole pro zadání API klíče z brány [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/).
 
@@ -181,6 +178,4 @@ Nejjednodušší, ačkoliv nejméně bezpečné peněženky pro uchování BTC l
 9. Uložte.
 
 ![](/assets/SPRAVA-NASTAVENI-BITCOIN3.png)
-
-
 
