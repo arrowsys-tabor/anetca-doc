@@ -140,7 +140,8 @@ Nejjednodušší, ačkoliv nejméně bezpečné peněženky pro uchování BTC l
 5. Spusťte pokladnu **ANetCa**.
 6. Přejděte do záložky **"NASTAVENÍ"**.
 7. Získaný kód opište do kolonky **"BITCOIN ADRESA"**.
-8. Uložte.
+8. Převod do CZK, PLN, EUR či jiné měny lze provést přes bránu [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/). Zde získáte **"Bitcoinpay API klíč"** a **"Bitcoinpay Callback"**. Tyto údaje je nutné zapsat do patřičných polí v pokladně ANetCa.
+9. Uložte.
 
 ![](/assets/SPRAVA-NASTAVENI-BITCOIN3.png)
 
@@ -166,9 +167,8 @@ Veřejná bitcoinová adresa slouží pouze k přijímání nikoli odesílání,
 
 1. Přejděte v pokladně ANetCa do **"NASTAVENÍ-&gt;FIRMA"**.
 2. Vyplňte adresu peněženky v poli **"BITCOIN"**.
-3. Bitcoin API klíč.
-4. Bitcoinpay Callback heslo.
-5. Stiskněte tlačítko **"ULOŽIT"**.
+3. Vyplňte **"Bitcoin API klíč"** a **"Bitcoinpay Callback heslo"**.
+4. Stiskněte tlačítko **"ULOŽIT"**.
 
 ![](/assets/NASTAVENÍ-BITCOIN2.jpg)
 
