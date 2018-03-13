@@ -129,35 +129,19 @@ Vyplňte email na který má přijít vygenerovaný EXPORT
 
 # BITCOIN
 
-#### Založení BTC peněženky
-
-Nejjednodušší, ačkoliv nejméně bezpečné peněženky pro uchování BTC lze vytvořit přímo v chytrém telefonu. Vaši peněženku si důkladně zazálohujte. V případě ztráty chytrého telefonu může kdokoliv získat přístup k těmto BTC. **Nejbezpečnější** uchování BTC poskytují hardwarové peněženky **Trezor **a** Ledger.**
-
-1. Spusťte ve vašem ANDROID zařízení **"OBCHOD PLAY"**.
-2. vyhledejte aplikaci **"BITCOIN WALLET"** a nainstalujte ji. Pokud již Bitcoin peněženku máte spusťte ji.
-3. Spusťte **"BITCOIN WALLET" **nebo Vaši peněženku.
-4. V pravém horním rohu stiskněte ikonku s QR kódem.
-5. Spusťte pokladnu **ANetCa**.
-6. Přejděte do záložky **"NASTAVENÍ"**.
-7. Získaný kód opište do kolonky **"BITCOIN ADRESA"**.
-8. Převod do CZK, PLN, EUR či jiné měny lze provést přes bránu [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/). Zde získáte **"Bitcoinpay API klíč"** a **"Bitcoinpay Callback"**. Tyto údaje je nutné zapsat do patřičných polí v pokladně ANetCa.
-9. Uložte.
-
-![](/assets/SPRAVA-NASTAVENI-BITCOIN3.png)
-
 ### Nastavení BITCOIN
 
 **Bitcoin -** tato adresa je veřejná část Bitcoin peněženky, kterou je potřeba poskytnout druhé straně, aby vám mohla zaslat BTC. Slouží podobně jako číslo bankovního účtu. Tuto Bitcoinovou adresu, v případě, že chcete přijímat přímo BTC, je nutné zadat do Nastavení.
 
-##### **Adresa může být zadána ve formátu:**
+* ##### **Adresa může být zadána ve formátu: **
 
-* Standartní Bitcoin adresa 26-35 alfanumerických znaků, začínajících 1 nebo 3
+       Standartní Bitcoin adresa 26-35 alfanumerických znaků, začínajících 1 nebo 3
 
-Adresu v tomto formátu vyplňte do pole **"BITCOIN"**.
+       Adresu v tomto formátu vyplňte do pole **"BITCOIN"**.
 
-Veřejná bitcoinová adresa slouží pouze k přijímání nikoli odesílání, tudíž nehrozí ke ztrátě Bitcoinů z pokladního zařízení.
+       Veřejná bitcoinová adresa slouží pouze k přijímání nikoli odesílání, tudíž nehrozí ke ztrátě Bitcoinů z pokladního zařízení.
 
-\***adresa ve formátu** **BIP44** - začíná hodnotou "xpub.." **není podporována**.
+       **Adresa ve formátu** **BIP44** **není podporována **- začíná hodnotou "xpub.."
 
 **Bitcoinpay API klíč -** pole pro zadání API klíče z brány [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/).
 
@@ -181,6 +165,22 @@ Platba pomocí BITCOIN měny přímo na účet. Pokud nemáte ještě založený
 1. Vyplňte API klíč.
 2. Zadejte CALLBACK heslo.
 3. Stiskněte **"ULOŽIT".**
+
+#### Založení BTC peněženky
+
+Nejjednodušší, ačkoliv nejméně bezpečné peněženky pro uchování BTC lze vytvořit přímo v chytrém telefonu. Vaši peněženku si důkladně zazálohujte. V případě ztráty chytrého telefonu může kdokoliv získat přístup k těmto BTC. **Nejbezpečnější** uchování BTC poskytují hardwarové peněženky **Trezor **a** Ledger.**
+
+1. Spusťte ve vašem ANDROID zařízení **"OBCHOD PLAY"**.
+2. vyhledejte aplikaci **"BITCOIN WALLET"** a nainstalujte ji. Pokud již Bitcoin peněženku máte spusťte ji.
+3. Spusťte **"BITCOIN WALLET" **nebo Vaši peněženku.
+4. V pravém horním rohu stiskněte ikonku s QR kódem.
+5. Spusťte pokladnu **ANetCa**.
+6. Přejděte do záložky **"NASTAVENÍ"**.
+7. Získaný kód opište do kolonky **"BITCOIN ADRESA"**.
+8. Převod do CZK, PLN, EUR či jiné měny lze provést přes bránu [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/). Zde získáte **"Bitcoinpay API klíč"** a **"Bitcoinpay Callback"**. Tyto údaje je nutné zapsat do patřičných polí v pokladně ANetCa.
+9. Uložte.
+
+![](/assets/SPRAVA-NASTAVENI-BITCOIN3.png)
 
 
 
