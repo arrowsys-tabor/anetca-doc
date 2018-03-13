@@ -140,8 +140,9 @@ Nejjednodušší, ačkoliv nejméně bezpečné peněženky pro uchování BTC l
 5. Spusťte pokladnu **ANetCa**.
 6. Přejděte do záložky **"NASTAVENÍ"**.
 7. Získaný kód opište do kolonky **"BITCOIN ADRESA"**.
-8. Vyplňte **"Bitcoinpay API klíč"** a **"Bitcoinpay Callback"**.
-9. Uložte.
+8. Uložte.
+
+![](/assets/SPRAVA-NASTAVENI-BITCOIN3.png)
 
 ### Nastavení BITCOIN
 
@@ -157,23 +158,19 @@ Veřejná bitcoinová adresa slouží pouze k přijímání nikoli odesílání,
 
 \***adresa ve formátu** **BIP44** - začíná hodnotou "xpub.." **není podporována**.
 
-**Bitcoinpay API klíč -** pole pro zadání API klíče z brány [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/). 
+**Bitcoinpay API klíč -** pole pro zadání API klíče z brány [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/).
 
-**Bitcoinpay Callback -** pole pro zadání hesla pro Callback získaného z brány [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/). 
-
-
+**Bitcoinpay Callback -** pole pro zadání hesla pro Callback získaného z brány [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/).
 
 #### **Postup nastavení:**
 
 1. Přejděte v pokladně ANetCa do **"NASTAVENÍ-&gt;FIRMA"**.
-2.  Vyplňte adresu peněženky v poli **"BITCOIN"**.
-3.  Bitcoin API klíč.
-4.  Bitcoinpay Callback heslo.
-5.  Stiskněte tlačítko **"ULOŽIT"**.
+2. Vyplňte adresu peněženky v poli **"BITCOIN"**.
+3. Bitcoin API klíč.
+4. Bitcoinpay Callback heslo.
+5. Stiskněte tlačítko **"ULOŽIT"**.
 
 ![](/assets/NASTAVENÍ-BITCOIN2.jpg)
-
-
 
 ### Přijímání plateb BITCOIN s přímým převodem do Kč na bankovní účet
 
