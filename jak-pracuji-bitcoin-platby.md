@@ -1,3 +1,6 @@
+
+---
+
 # BITCOIN
 
 ### Nastavení BITCOIN
@@ -15,21 +18,17 @@
 * ##### Standartní Bitcoin adresa 26-35 alfanumerických znaků, začínajících 1 nebo 3
 * ##### Adresa ve formátu BIP44 není podporována - začíná hodnotou "xpub.."
 
-##### 
+
+
+
 
 **Bitcoinpay API klíč -** pole pro zadání API klíče z brány [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/).
 
 **Bitcoinpay Callback -** pole pro zadání hesla pro Callback získaného z brány [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/).
 
-
-
 V případě používání Bitcoinpay platební brány, je nutné zkontrolovat, že výplatní měna na Bitcoinpay.com portálu se shoduje s měnou nastavenou v pokladně. V případě výplatní měny Kč je nutné na portálu nastavit CZK a v pokladně Zkratku měny CZK \(ne Kč\).
 
-
-
-
-
-
+![](assets/bitcoinpay-mena.png)
 
 #### **Postup nastavení:**
 
