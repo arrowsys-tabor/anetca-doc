@@ -2,7 +2,7 @@
 
 ### Nastavení BITCOIN
 
-**Bitcoin -** tato adresa je veřejná část Bitcoin peněženky, kterou je potřeba poskytnout druhé straně, aby vám mohla zaslat BTC. Slouží podobně jako číslo bankovního účtu. Tuto Bitcoinovou adresu, v případě, že chcete přijímat přímo BTC, je nutné zadat do Nastavení.
+**Bitcoin -** tato adresa je veřejná část Bitcoin peněženky, kterou je potřeba poskytnout druhé straně, aby vám mohla zaslat BTC. Slouží podobně jako číslo bankovního účtu. Tuto Bitcoinovou adresu, v případě, že chcete přijímat přímo BTC, je nutné zadat do pole Nastavení.
 
 ##### A**dresa může být zadána ve formátu: **
 
