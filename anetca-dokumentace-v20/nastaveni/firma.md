@@ -146,6 +146,10 @@ Vyplňte email na který má přijít vygenerovaný EXPORT
 
 **Bitcoinpay Callback -** pole pro zadání hesla pro Callback získaného z brány [www.bitcoinpay.com](https://www.bitcoinpay.com/cs/).
 
+V případě používání Bitcoinpay platební brány, je nutné zkontrolovat, že výplatní měna na Bitcoinpay.com portálu se shoduje s měnou nastavenou v pokladně. V případě výplatní měny Kč je nutné na portálu nastavit CZK a v pokladně Zkratku měny CZK \(ne Kč\).
+
+![](/assets/bitcoinpay-mena.png)
+
 #### **Postup nastavení:**
 
 1. Přejděte v pokladně ANetCa do **"NASTAVENÍ-&gt;FIRMA"**.
