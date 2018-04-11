@@ -65,6 +65,7 @@
     * [Vážení s Tárou](periferie/vaha/vazeni-s-tarou.md)
   * [Čtečka čárových kódů](periferie/ctecka-carovych-kodu.md)
   * [Tiskárna XP-58](periferie/tiskarna-xp-58.md)
+  * Pokladní zásuvka
   * [Platební terminál ČSOB](periferie/platebni-terminal-csob.md)
 * [Pro dealery](pro-dealery.md)
   * [SQL ERROR - chyba .mdf](pro-dealery/sql-error-chyba-mdf.md)
