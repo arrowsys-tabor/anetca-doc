@@ -102,7 +102,7 @@ Mettler Toledo bRITE ADVANCE - hodnota pro dílek 2
 
 \*pro tuto volbu je nutné mít vypnutou funkci **"Svěřit správu výchozí tiskárny systému Windows"**. Postup pro vypnutí naleznete [ZDE](https://support.microsoft.com/cs-cz/help/4028622/windows-10-how-to-set-a-default-printer)
 
-**Otvírat pokladní zásuvku při tisku účtenky -** funkce pro otevření pokladní zásuvky po vytištění účtenky. Podrobněji lze nastavit v přímo na ovladači Vaši tiskárny ve Windows. \(START-&gt;OVLÁDACÍ PANELY-&gt;ZAŘÍZENÍ A TISKÁRNY-aktuální tiskárna\)
+**Otvírat pokladní zásuvku při tisku účtenky -** funkce pro otevření pokladní zásuvky po vytištění účtenky. \(pouze Bloutooth\) Podrobněji lze nastavit v přímo na ovladači Vaši tiskárny ve Windows. \(START-&gt;OVLÁDACÍ PANELY-&gt;ZAŘÍZENÍ A TISKÁRNY-aktuální tiskárna\)
 
 \*více informací naleznete v sekci PERIFÉRIE-&gt;POKLADNÍ ZÁSUVKA této dokumentace.
 
