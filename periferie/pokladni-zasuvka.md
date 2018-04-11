@@ -1,6 +1,6 @@
 # Pokladní zásuvka
 
-Oblíbenou periférií je i pokladní zásuvka, která se připojuje většinou do tiskárny pomocí konektoru RJ-12. Následně je nutné v ovladači tiskárny nastavit otvírání pokladní zásuvky a zaškrtnout správnou volbu v pokladním systému ANetCa.
+Oblíbenou periférií je i pokladní zásuvka, která se připojuje většinou do tiskárny pomocí konektoru RJ-12. Následně je nutné v ovladači tiskárny nastavit otvírání pokladní zásuvky a zaškrtnout správnou volbu v pokladním systému ANetCa. Standartně se rozdělují pokladní zásuvky na 12V a 24V.
 
 ### Modelový příklad na Elio XP-Q80i
 
