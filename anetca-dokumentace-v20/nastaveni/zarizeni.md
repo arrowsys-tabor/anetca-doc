@@ -104,6 +104,8 @@ Mettler Toledo bRITE ADVANCE - hodnota pro dílek 2
 
 **Otvírat pokladní zásuvku při tisku účtenky -** funkce pro otevření pokladní zásuvky po vytištění účtenky. Podrobněji lze nastavit v přímo na ovladači Vaši tiskárny ve Windows. \(START-&gt;OVLÁDACÍ PANELY-&gt;ZAŘÍZENÍ A TISKÁRNY-aktuální tiskárna\)
 
+\*více informací naleznete v sekci PERIFÉRIE-&gt;POKLADNÍ ZÁSUVKA této dokumentace.
+
 **Hlavní tiskárna -** výběr tiskárny pro tisk účtenek. Pomocí křížku v červeném poli lze tiskárnu manuálně odstranit.
 
 **Tiskárna objednávek -** výběr tiskárny pro tisk objenávek \(nejčastěji tisk do kuchyně\). Pomocí křížku v červeném poli lze tiskárnu manuálně odstranit.
