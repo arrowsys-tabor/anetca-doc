@@ -45,14 +45,12 @@ Obrázek ilustruje prodejní část. Tato obrazovka je složena ze 4 základníc
 
 #### Tisk do kuchyně \(Tisk objednávky\)
 
-1. Přejděte do záložky "PRODEJ" a vytvořte novou účtenku.
-2. Na účtenku přidejte nové zboží a stiskněte tlačítko "TISK".
-3. V nabídce s výběrem způsobu úhrady stiskněte tlačítko "TISK OBJEDNÁVKY".
-4. Nyní se Vám vytiskne seznam zboží, které je přidáno na účtenku se zatrhnutou volbou "NA OBJEDNÁVKU".
+1. Přejděte do záložky **"PRODEJ"** a vytvořte novou účtenku.
+2. Na účtenku přidejte nové zboží a stiskněte tlačítko **"TISK"**.
+3. V nabídce s výběrem způsobu úhrady stiskněte tlačítko **"TISK OBJEDNÁVKY"**.
+4. Nyní se Vám vytiskne seznam **"ZBOŽÍ"**, které je přidáno na účtenku se zatrhnutou volbou** "NA OBJEDNÁVKU"**.
 
 \*tato funkce se dá použít jak pro jednu tiskárnu, kdy je nutné vytisknout účtenku a lístek do kuchyně zvlášť, tak v kombinaci s dvěma tiskárnami.
-
-
 
 ![](/assets/TISK3.JPG)
 
@@ -215,7 +213,7 @@ Zde nastavíte cenové hladiny. Cenové hladiny se používají například pro 
 
 Zde volíte předem založeného uživatele. Uživatel je člověk, který momentálně pokladnu obsluhuje. Pro nastavení uživatele rozklikněte roletku a zvolte správného uživatele, případně pokud je vyžádáno zadejte heslo.
 
-\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                                                  
+\*nového uživatele založíte v sekci **NASTAVENÍ-&gt;ÚČTY                                                                    
 **![](/assets/Cenove hladiny a uzivatel.PNG)
 
 ## Množství/počet
