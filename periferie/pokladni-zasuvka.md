@@ -16,7 +16,7 @@ Oblíbenou periférií je i pokladní zásuvka, která se připojuje většinou 
 2. Nastavte dle obrázku P.2 pokladní zásuvku přímo na tiskárně. \(OVLÁDACÍ PANELY-&gt;ZAŘÍZENÍ A TISKÁRNY\)
 3. Proveďte zkušební tisk/účtenku. \(z ovladače tiskárny lze též vytisknout zkušební stránku\)
 
-
+![](/assets/OVLADACI PANELY-ZARIZENI A TISKARNY-Q80i.jpg)
 
 Obrázek P.2
 
