@@ -18,7 +18,5 @@ Oblíbenou periférií je i pokladní zásuvka, která se připojuje většinou 
 
 
 
-![](/assets/OVLADACI PANELY-ZARIZENI A TISKARNY-Q80i.jpg)
-
 Obrázek P.2
 
