@@ -33,7 +33,7 @@ decimal - číslo v závorce za _decimal_ definuje desetinná místa, podporovan
 
 ### **Šablona pro hromadný import:**
 
-**Vzorovou tabulku** si můžete stáhnout ve formátu **.xls** [ZDE](https://dokumentace.lilka.cz/import.xls)
+**Vzorovou tabulku** si můžete stáhnout ve formátu **.xls** [ZDE](https://dokumentace.lilka.cz/import.xls) 
 
 ### Nahrání Importu do pokladny ANetCa
 
