@@ -4,6 +4,8 @@ Tržby za období generuje přehled pokladních operací za zvolené.
 
 \*období lze volit pomocí kolonek **POČÁTEČNÍ a KONEČNÉ DATUM**.
 
+**\*dokud není řádně provedena uzávěrka pokladny, tak se v přehledu TRŽBY ZA OBDOBÍ negenerují data a výpis se zobrazí prázdný. Je nutné prvně uzavřít pokladnu v záložce KASA a následně vygenerovat přehled TRŽBY ZA OBDOBÍ.**
+
 ### Vygenerování přehledu pokladních operací TRŽBY ZA OBDOBÍ
 
 1. Přejděte do záložky **"PŘEHLEDY-&gt;TRŽBY ZA OBDOBÍ"**.
