@@ -52,6 +52,8 @@ Přidám slevovou položku **20%** a v sekci PRODEJ vložím do pole pro počet 
 
 Stisknu tlačítko **"PŘIDAT POLOŽKU"**  a následně se mi vloží na účtenku položka s hodnotou **"-20"**, kde celková hodnota účtenky se poníží o **"20"**.
 
+\*více informací naleznete [ZDE](https://dokumentace.arrowsys.eu/docs/anetca/tipy-a-triky/jak-na-slevu/)
+
 ### Korunová položka
 
 Používá se především jako náhrada variabilní ceny, která díky cenovým hladinám nemůže být v pokladně ANetCa realizována. Touto položkou a správným postupem lze docílit ceny, kterou požadujete, bez nutnosti mít založeno několik položek s pevně danou cenou.
