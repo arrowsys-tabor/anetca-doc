@@ -52,7 +52,7 @@ Přidám slevovou položku **20%** a v sekci PRODEJ vložím do pole pro počet 
 
 Stisknu tlačítko **"PŘIDAT POLOŽKU"**  a následně se mi vloží na účtenku položka s hodnotou **"-20"**, kde celková hodnota účtenky se poníží o **"20"**.
 
-\*více informací naleznete [ZDE](https://dokumentace.arrowsys.eu/docs/anetca/tipy-a-triky/jak-na-slevu/)
+\*více informací naleznete [ZDE](https://dokumentace.arrowsys.eu/docs/anetca/tipy-a-triky/jak-na-slevu/) 
 
 ### Korunová položka
 
