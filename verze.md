@@ -19,7 +19,7 @@
 * Podpora evidence Slovenské fiskální pokladny.
 * Překlad do slovenštiny
 * Upravení přepínání prostředí do Vietnamštiny.
-* Podpora přímého propojení s váhami Mettler Toledo.
+* Podpora přímého propojení s váhami Mettler Toledo. 
 * Funkce Manuální účtenky.
 
 # 1.3.9.0
